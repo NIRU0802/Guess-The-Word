@@ -1,0 +1,1020 @@
+{
+  "id": "sports-games",
+  "version": 1,
+  "words": [
+    {
+      "id": "spo-0001",
+      "word": "Cricket",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0002",
+      "word": "Football",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0003",
+      "word": "Basketball",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0004",
+      "word": "Tennis",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0005",
+      "word": "Badminton",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0006",
+      "word": "Hockey",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0007",
+      "word": "Volleyball",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0008",
+      "word": "Kabaddi",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0009",
+      "word": "Rugby",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0010",
+      "word": "Baseball",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0011",
+      "word": "Golf",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0012",
+      "word": "Boxing",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0013",
+      "word": "Wrestling",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0014",
+      "word": "Swimming",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0015",
+      "word": "Table Tennis",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0016",
+      "word": "Archery",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0017",
+      "word": "Gymnastics",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0018",
+      "word": "Athletics",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0019",
+      "word": "Olympics",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0020",
+      "word": "Paralympics",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0021",
+      "word": "FIFA World Cup",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0022",
+      "word": "Cricket World Cup",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0023",
+      "word": "Wimbledon",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0024",
+      "word": "Asian Games",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0025",
+      "word": "Commonwealth Games",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0026",
+      "word": "Super Bowl",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0027",
+      "word": "French Open",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0028",
+      "word": "Tour De France",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en"
+    },
+    {
+      "id": "spo-0029",
+      "word": "Goalkeeper",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0030",
+      "word": "Batsman",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0031",
+      "word": "Bowler",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0032",
+      "word": "Captain",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0033",
+      "word": "Umpire",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0034",
+      "word": "Referee",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0035",
+      "word": "Coach",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0036",
+      "word": "Striker",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0037",
+      "word": "Goal Scorer",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0038",
+      "word": "Wicketkeeper",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0039",
+      "word": "Olympian",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0040",
+      "word": "Marathon Runner",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en"
+    },
+    {
+      "id": "spo-0041",
+      "word": "Penalty",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0042",
+      "word": "Hat-trick",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0043",
+      "word": "Offside",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0044",
+      "word": "Home Run",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0045",
+      "word": "Knockout",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0046",
+      "word": "Tie Break",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0047",
+      "word": "Slam Dunk",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0048",
+      "word": "Checkmate",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0049",
+      "word": "Free Kick",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0050",
+      "word": "Corner Kick",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0051",
+      "word": "Finish Line",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0052",
+      "word": "Relay Race",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en"
+    },
+    {
+      "id": "spo-0053",
+      "word": "Formula One",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0054",
+      "word": "Grand Prix",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0055",
+      "word": "Go-Karting",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0056",
+      "word": "Motorcycle Racing",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0057",
+      "word": "Car Rally",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0058",
+      "word": "Horse Racing",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0059",
+      "word": "Cycling Race",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "spo-0060",
+      "word": "Marathon",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en"
+    },
+    {
+      "id": "sg-0061",
+      "word": "Kho Kho",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0062",
+      "word": "Shooting",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0063",
+      "word": "Fencing",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0064",
+      "word": "Softball",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0065",
+      "word": "Handball",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0066",
+      "word": "Skateboarding",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0067",
+      "word": "Surfing",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0068",
+      "word": "Weightlifting",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0069",
+      "word": "Figure Skating",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0070",
+      "word": "Ice Hockey",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0071",
+      "word": "Taekwondo",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0072",
+      "word": "Judo",
+      "categoryId": "sports-games",
+      "subcategoryId": "popular-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0073",
+      "word": "Olympic Games",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0074",
+      "word": "Paralympic Games",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0075",
+      "word": "US Open",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0076",
+      "word": "Australian Open",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0077",
+      "word": "Indian Premier League",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0078",
+      "word": "Pro Kabaddi League",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0079",
+      "word": "UEFA Champions League",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0080",
+      "word": "The Ashes",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0081",
+      "word": "World Athletics Championships",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-events",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0082",
+      "word": "Commentator",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0083",
+      "word": "All Rounder",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0084",
+      "word": "Defender",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0085",
+      "word": "Midfielder",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0086",
+      "word": "Forward",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0087",
+      "word": "Sprinter",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0088",
+      "word": "Boxer",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0089",
+      "word": "Wrestler",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0090",
+      "word": "Gymnast",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0091",
+      "word": "Swimmer",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0092",
+      "word": "Jockey",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0093",
+      "word": "Racer",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0094",
+      "word": "Caddie",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0095",
+      "word": "Linesperson",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-people-roles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0096",
+      "word": "Penalty Kick",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0097",
+      "word": "Hat Trick",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0098",
+      "word": "Penalty Shootout",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0099",
+      "word": "Tiebreaker",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0100",
+      "word": "Overtime",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0101",
+      "word": "Final Match",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0102",
+      "word": "Half Time",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0103",
+      "word": "Extra Time",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0104",
+      "word": "Yellow Card",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0105",
+      "word": "Red Card",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0106",
+      "word": "Six",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0107",
+      "word": "Four",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0108",
+      "word": "Run Out",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0109",
+      "word": "Catch",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0110",
+      "word": "Boundary",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0111",
+      "word": "Serve",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0112",
+      "word": "Smash",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0113",
+      "word": "Dribble",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0114",
+      "word": "Dunk",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0115",
+      "word": "Photo Finish",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0116",
+      "word": "World Record",
+      "categoryId": "sports-games",
+      "subcategoryId": "sports-actions-rules",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0117",
+      "word": "Go Karting",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0118",
+      "word": "MotoGP",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0119",
+      "word": "Rally Racing",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0120",
+      "word": "Drag Racing",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0121",
+      "word": "Boat Racing",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0122",
+      "word": "Ski Racing",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0123",
+      "word": "Speed Skating",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0124",
+      "word": "Swimming Race",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0125",
+      "word": "Triathlon",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "sg-0126",
+      "word": "Bicycle Race",
+      "categoryId": "sports-games",
+      "subcategoryId": "racing-sports",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    }
+  ]
+}

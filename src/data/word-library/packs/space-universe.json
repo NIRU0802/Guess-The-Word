@@ -1,0 +1,626 @@
+{
+  "id": "space-universe",
+  "version": 1,
+  "words": [
+    {
+      "id": "spa-0001",
+      "word": "Mercury",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0002",
+      "word": "Venus",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0003",
+      "word": "Earth",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0004",
+      "word": "Mars",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0005",
+      "word": "Jupiter",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0006",
+      "word": "Saturn",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0007",
+      "word": "Uranus",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0008",
+      "word": "Neptune",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0009",
+      "word": "Pluto",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0010",
+      "word": "Moon",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0011",
+      "word": "Europa",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0012",
+      "word": "Titan",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0013",
+      "word": "Phobos",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0014",
+      "word": "Ganymede",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en"
+    },
+    {
+      "id": "spa-0015",
+      "word": "Sun",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0016",
+      "word": "Star",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0017",
+      "word": "Galaxy",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0018",
+      "word": "Milky Way",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0019",
+      "word": "Black Hole",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0020",
+      "word": "Comet",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0021",
+      "word": "Asteroid",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0022",
+      "word": "Meteor",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0023",
+      "word": "Meteorite",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0024",
+      "word": "Nebula",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0025",
+      "word": "Supernova",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0026",
+      "word": "Constellation",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0027",
+      "word": "Satellite",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0028",
+      "word": "Space Station",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en"
+    },
+    {
+      "id": "spa-0029",
+      "word": "Astronaut",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0030",
+      "word": "Rocket",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0031",
+      "word": "Space Shuttle",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0032",
+      "word": "Mars Rover",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0033",
+      "word": "Moon Landing",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0034",
+      "word": "Space Telescope",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0035",
+      "word": "Hubble Telescope",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0036",
+      "word": "James Webb Telescope",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0037",
+      "word": "Lunar Module",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0038",
+      "word": "Spacesuit",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0039",
+      "word": "Spacewalk",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0040",
+      "word": "International Space Station",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en"
+    },
+    {
+      "id": "spa-0041",
+      "word": "Solar System",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0042",
+      "word": "Universe",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0043",
+      "word": "Orbit",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0044",
+      "word": "Gravity",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0045",
+      "word": "Eclipse",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0046",
+      "word": "Solar Eclipse",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0047",
+      "word": "Lunar Eclipse",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0048",
+      "word": "Light Year",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0049",
+      "word": "Crater",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "spa-0050",
+      "word": "Asteroid Belt",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en"
+    },
+    {
+      "id": "su-0051",
+      "word": "Deimos",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0052",
+      "word": "Io",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0053",
+      "word": "Kuiper Belt",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0054",
+      "word": "Dwarf Planet",
+      "categoryId": "space-universe",
+      "subcategoryId": "planets-moons",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0055",
+      "word": "Shooting Star",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0056",
+      "word": "Andromeda Galaxy",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0057",
+      "word": "Orion",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0058",
+      "word": "North Star",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0059",
+      "word": "Red Giant",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0060",
+      "word": "White Dwarf",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0061",
+      "word": "Neutron Star",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0062",
+      "word": "Pulsar",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0063",
+      "word": "Sunspot",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-objects",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0064",
+      "word": "Lunar Rover",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0065",
+      "word": "Space Probe",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0066",
+      "word": "Cosmonaut",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0067",
+      "word": "Mission Control",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0068",
+      "word": "Apollo 11",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0069",
+      "word": "Voyager 1",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0070",
+      "word": "Chandrayaan",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0071",
+      "word": "Mangalyaan",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0072",
+      "word": "Artemis Mission",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-exploration",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0073",
+      "word": "Big Bang",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0074",
+      "word": "Black Matter",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0075",
+      "word": "Dark Energy",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0076",
+      "word": "Zero Gravity",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0077",
+      "word": "Space-Time",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0078",
+      "word": "Vacuum",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0079",
+      "word": "Atmosphere",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "su-0080",
+      "word": "Solar Wind",
+      "categoryId": "space-universe",
+      "subcategoryId": "space-concepts",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    }
+  ]
+}

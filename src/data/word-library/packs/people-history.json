@@ -1,0 +1,904 @@
+{
+  "id": "people-history",
+  "version": 1,
+  "words": [
+    {
+      "id": "peo-0001",
+      "word": "Albert Einstein",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0002",
+      "word": "Isaac Newton",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0003",
+      "word": "Marie Curie",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0004",
+      "word": "Thomas Edison",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0005",
+      "word": "Nikola Tesla",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0006",
+      "word": "C V Raman",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0007",
+      "word": "A P J Abdul Kalam",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0008",
+      "word": "Galileo Galilei",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0009",
+      "word": "Charles Darwin",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0010",
+      "word": "Stephen Hawking",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en"
+    },
+    {
+      "id": "peo-0011",
+      "word": "Mahatma Gandhi",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0012",
+      "word": "Nelson Mandela",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0013",
+      "word": "Martin Luther King Jr",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0014",
+      "word": "Abraham Lincoln",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0015",
+      "word": "Jawaharlal Nehru",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0016",
+      "word": "Sardar Vallabhbhai Patel",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0017",
+      "word": "Rani Lakshmibai",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0018",
+      "word": "Mother Teresa",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0019",
+      "word": "Winston Churchill",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0020",
+      "word": "Leonardo Da Vinci",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0021",
+      "word": "William Shakespeare",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0022",
+      "word": "Marco Polo",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0023",
+      "word": "Christopher Columbus",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0024",
+      "word": "Amelia Earhart",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0025",
+      "word": "Rabindranath Tagore",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0026",
+      "word": "Pablo Picasso",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0027",
+      "word": "Vincent Van Gogh",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en"
+    },
+    {
+      "id": "peo-0028",
+      "word": "Ancient Egypt",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0029",
+      "word": "Roman Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0030",
+      "word": "Indus Valley Civilization",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0031",
+      "word": "Ancient Greece",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0032",
+      "word": "Mayan Civilization",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0033",
+      "word": "Mughal Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0034",
+      "word": "Maurya Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0035",
+      "word": "Viking Age",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en"
+    },
+    {
+      "id": "peo-0036",
+      "word": "Zeus",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0037",
+      "word": "Hercules",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0038",
+      "word": "Medusa",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0039",
+      "word": "Hanuman",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0040",
+      "word": "Ganesha",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0041",
+      "word": "Krishna",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0042",
+      "word": "Rama",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0043",
+      "word": "Athena",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0044",
+      "word": "Poseidon",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0045",
+      "word": "Odin",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "peo-0046",
+      "word": "Phoenix",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en"
+    },
+    {
+      "id": "ph-0047",
+      "word": "Alexander Graham Bell",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0048",
+      "word": "Srinivasa Ramanujan",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0049",
+      "word": "Jagadish Chandra Bose",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0050",
+      "word": "Homi Bhabha",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0051",
+      "word": "Aryabhata",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0052",
+      "word": "Alan Turing",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0053",
+      "word": "Ada Lovelace",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0054",
+      "word": "Wright Brothers",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0055",
+      "word": "Louis Pasteur",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0056",
+      "word": "Rosalind Franklin",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0057",
+      "word": "Tim Berners Lee",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0058",
+      "word": "Katherine Johnson",
+      "categoryId": "people-history",
+      "subcategoryId": "scientists-inventors",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0059",
+      "word": "Subhas Chandra Bose",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0060",
+      "word": "Bhagat Singh",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0061",
+      "word": "Dr B R Ambedkar",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0062",
+      "word": "Malala Yousafzai",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0063",
+      "word": "Queen Elizabeth II",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0064",
+      "word": "Barack Obama",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0065",
+      "word": "Ashoka",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0066",
+      "word": "Akbar",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0067",
+      "word": "Shivaji Maharaj",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0068",
+      "word": "Swami Vivekananda",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0069",
+      "word": "Savitribai Phule",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0070",
+      "word": "Jyotirao Phule",
+      "categoryId": "people-history",
+      "subcategoryId": "leaders-reformers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0071",
+      "word": "Michelangelo",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0072",
+      "word": "Ferdinand Magellan",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0073",
+      "word": "Neil Armstrong",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0074",
+      "word": "Yuri Gagarin",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0075",
+      "word": "Ibn Battuta",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0076",
+      "word": "Vasco da Gama",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0077",
+      "word": "Edmund Hillary",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0078",
+      "word": "Tenzing Norgay",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0079",
+      "word": "Roald Amundsen",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0080",
+      "word": "Jacques Cousteau",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0081",
+      "word": "Frida Kahlo",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0082",
+      "word": "Charlie Chaplin",
+      "categoryId": "people-history",
+      "subcategoryId": "artists-explorers",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0083",
+      "word": "Mesopotamia",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0084",
+      "word": "Maya Civilization",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0085",
+      "word": "Aztec Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0086",
+      "word": "Inca Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0087",
+      "word": "Ancient China",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0088",
+      "word": "Persian Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0089",
+      "word": "Gupta Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0090",
+      "word": "Harappan Civilization",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0091",
+      "word": "Ottoman Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0092",
+      "word": "Byzantine Empire",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0093",
+      "word": "Chola Dynasty",
+      "categoryId": "people-history",
+      "subcategoryId": "ancient-civilizations",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0094",
+      "word": "Achilles",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0095",
+      "word": "Ragnarok",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0096",
+      "word": "Anubis",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0097",
+      "word": "Ra",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0098",
+      "word": "Cleopatra",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0099",
+      "word": "King Arthur",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0100",
+      "word": "Merlin",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0101",
+      "word": "Robin Hood",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0102",
+      "word": "Ravana",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0103",
+      "word": "Arjuna",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0104",
+      "word": "Karna",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0105",
+      "word": "Draupadi",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0106",
+      "word": "Shiva",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0107",
+      "word": "Vishnu",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0108",
+      "word": "Durga",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0109",
+      "word": "Perseus",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ph-0110",
+      "word": "Minotaur",
+      "categoryId": "people-history",
+      "subcategoryId": "mythology-legends",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    }
+  ]
+}

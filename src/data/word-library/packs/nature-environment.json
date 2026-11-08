@@ -1,0 +1,1006 @@
+{
+  "id": "nature-environment",
+  "version": 1,
+  "words": [
+    {
+      "id": "nat-0001",
+      "word": "Rainbow",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0002",
+      "word": "Thunderstorm",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0003",
+      "word": "Lightning",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0004",
+      "word": "Thunder",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0005",
+      "word": "Tornado",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0006",
+      "word": "Hurricane",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0007",
+      "word": "Blizzard",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0008",
+      "word": "Hailstorm",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0009",
+      "word": "Fog",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0010",
+      "word": "Drought",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0011",
+      "word": "Monsoon",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0012",
+      "word": "Heatwave",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en"
+    },
+    {
+      "id": "nat-0013",
+      "word": "Earthquake",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0014",
+      "word": "Tsunami",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0015",
+      "word": "Avalanche",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0016",
+      "word": "Aurora",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0017",
+      "word": "Landslide",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0018",
+      "word": "Sandstorm",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0019",
+      "word": "Solar Flare",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0020",
+      "word": "Meteor Shower",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en"
+    },
+    {
+      "id": "nat-0021",
+      "word": "Banyan Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0022",
+      "word": "Bamboo",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0023",
+      "word": "Cactus",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0024",
+      "word": "Sunflower",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0025",
+      "word": "Lotus",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0026",
+      "word": "Rose",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0027",
+      "word": "Venus Flytrap",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0028",
+      "word": "Mangrove",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0029",
+      "word": "Bonsai",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0030",
+      "word": "Coconut Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0031",
+      "word": "Redwood",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en"
+    },
+    {
+      "id": "nat-0032",
+      "word": "Cave",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0033",
+      "word": "Coral Reef",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0034",
+      "word": "Hot Spring",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0035",
+      "word": "Geyser",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0036",
+      "word": "Forest",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0037",
+      "word": "Grassland",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0038",
+      "word": "Wetland",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0039",
+      "word": "Mangrove Forest",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en"
+    },
+    {
+      "id": "nat-0040",
+      "word": "Recycling",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0041",
+      "word": "Solar Energy",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0042",
+      "word": "Wind Energy",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0043",
+      "word": "Deforestation",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0044",
+      "word": "Global Warming",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0045",
+      "word": "Greenhouse Effect",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0046",
+      "word": "Wildlife Sanctuary",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0047",
+      "word": "National Park",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0048",
+      "word": "Composting",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "nat-0049",
+      "word": "Ocean Pollution",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en"
+    },
+    {
+      "id": "ne-0050",
+      "word": "Cyclone",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0051",
+      "word": "Cold Wave",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0052",
+      "word": "Mist",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0053",
+      "word": "Dew",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0054",
+      "word": "Frost",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0055",
+      "word": "Hail",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0056",
+      "word": "Drizzle",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0057",
+      "word": "Snowfall",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0058",
+      "word": "Dust Storm",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0059",
+      "word": "Flood",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0060",
+      "word": "Cloudburst",
+      "categoryId": "nature-environment",
+      "subcategoryId": "weather",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0061",
+      "word": "Volcanic Eruption",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0062",
+      "word": "Tidal Wave",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0063",
+      "word": "Sinkhole",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0064",
+      "word": "Bioluminescence",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0065",
+      "word": "Red Tide",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0066",
+      "word": "Mirage",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0067",
+      "word": "Whirlpool",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0068",
+      "word": "Cave Formation",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0069",
+      "word": "Rockfall",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-phenomena",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0070",
+      "word": "Peepal Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0071",
+      "word": "Neem Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0072",
+      "word": "Baobab Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0073",
+      "word": "Tulip",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0074",
+      "word": "Orchid",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0075",
+      "word": "Lavender",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0076",
+      "word": "Jasmine",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0077",
+      "word": "Hibiscus",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0078",
+      "word": "Mango Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0079",
+      "word": "Pine Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0080",
+      "word": "Oak Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0081",
+      "word": "Maple Tree",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0082",
+      "word": "Cedar",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0083",
+      "word": "Fern",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0084",
+      "word": "Moss",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0085",
+      "word": "Pitcher Plant",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0086",
+      "word": "Water Lily",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0087",
+      "word": "Sundew",
+      "categoryId": "nature-environment",
+      "subcategoryId": "plants-forests",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0088",
+      "word": "Amazon Basin",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0089",
+      "word": "Sundarbans",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0090",
+      "word": "Black Forest",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0091",
+      "word": "Congo Rainforest",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0092",
+      "word": "Yellowstone",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0093",
+      "word": "Serengeti",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0094",
+      "word": "Galapagos",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0095",
+      "word": "Great Rift Valley",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0096",
+      "word": "Lake Baikal",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0097",
+      "word": "Lake Victoria",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0098",
+      "word": "Lake Superior",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0099",
+      "word": "Plitvice Lakes",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0100",
+      "word": "Giant's Causeway",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0101",
+      "word": "Pamukkale",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0102",
+      "word": "Mount Bromo",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0103",
+      "word": "Wadi Rum",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0104",
+      "word": "Zhangjiajie",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0105",
+      "word": "Socotra Island",
+      "categoryId": "nature-environment",
+      "subcategoryId": "natural-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0106",
+      "word": "Climate Change",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0107",
+      "word": "Ozone Layer",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0108",
+      "word": "Reforestation",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0109",
+      "word": "Conservation",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0110",
+      "word": "Compost",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0111",
+      "word": "Biodegradable",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0112",
+      "word": "Renewable Energy",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0113",
+      "word": "Carbon Footprint",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0114",
+      "word": "Plastic Pollution",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0115",
+      "word": "Air Pollution",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0116",
+      "word": "Water Pollution",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0117",
+      "word": "Endangered Species",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0118",
+      "word": "Food Chain",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0119",
+      "word": "Ecosystem",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0120",
+      "word": "Biodiversity",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0121",
+      "word": "Solar Power",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "ne-0122",
+      "word": "Wind Power",
+      "categoryId": "nature-environment",
+      "subcategoryId": "environment",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    }
+  ]
+}

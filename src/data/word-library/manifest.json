@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "libraryVersion": "1.0.0",
+  "defaultLanguage": "en",
+  "supportedLanguages": ["en"],
+  "packs": [
+    { "id": "wonders-places", "file": "wonders-places.json", "language": "en", "version": 1 },
+    { "id": "space-universe", "file": "space-universe.json", "language": "en", "version": 1 },
+    { "id": "science-technology", "file": "technology.json", "language": "en", "version": 1 },
+    { "id": "animals-wildlife", "file": "animals.json", "language": "en", "version": 1 },
+    { "id": "food-cuisine", "file": "food.json", "language": "en", "version": 1 },
+    { "id": "sports-games", "file": "sports.json", "language": "en", "version": 1 },
+    { "id": "movies-fiction", "file": "entertainment.json", "language": "en", "version": 1 },
+    { "id": "geography-earth", "file": "geography.json", "language": "en", "version": 1 },
+    { "id": "music-arts", "file": "music.json", "language": "en", "version": 1 },
+    { "id": "people-history", "file": "people-history.json", "language": "en", "version": 1 },
+    { "id": "nature-environment", "file": "nature-environment.json", "language": "en", "version": 1 },
+    { "id": "human-body-life", "file": "human-body-life.json", "language": "en", "version": 1 },
+    { "id": "transport-vehicles", "file": "transport-vehicles.json", "language": "en", "version": 1 },
+    { "id": "lifestyle-society", "file": "everyday.json", "language": "en", "version": 1 },
+    { "id": "adventure-entertainment", "file": "adventure-entertainment.json", "language": "en", "version": 1 }
+  ]
+}

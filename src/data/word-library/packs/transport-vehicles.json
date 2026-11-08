@@ -1,0 +1,834 @@
+{
+  "id": "transport-vehicles",
+  "version": 1,
+  "words": [
+    {
+      "id": "tra-0001",
+      "word": "Bicycle",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0002",
+      "word": "Motorcycle",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0003",
+      "word": "Scooter",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0004",
+      "word": "Car",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0005",
+      "word": "Bus",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0006",
+      "word": "Truck",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0007",
+      "word": "Taxi",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0008",
+      "word": "Ambulance",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0009",
+      "word": "Fire Engine",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0010",
+      "word": "Tractor",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0011",
+      "word": "Sports Car",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0012",
+      "word": "Electric Bus",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en"
+    },
+    {
+      "id": "tra-0013",
+      "word": "Bullet Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0014",
+      "word": "Metro Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0015",
+      "word": "Steam Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0016",
+      "word": "Toy Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0017",
+      "word": "Railway Station",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0018",
+      "word": "Locomotive",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0019",
+      "word": "Monorail",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0020",
+      "word": "Tram",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en"
+    },
+    {
+      "id": "tra-0021",
+      "word": "Helicopter",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0022",
+      "word": "Hot Air Balloon",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0023",
+      "word": "Glider",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0024",
+      "word": "Fighter Jet",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0025",
+      "word": "Seaplane",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0026",
+      "word": "Cargo Plane",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0027",
+      "word": "Paraglider",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en"
+    },
+    {
+      "id": "tra-0028",
+      "word": "Ship",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0029",
+      "word": "Submarine",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0030",
+      "word": "Sailboat",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0031",
+      "word": "Ferry",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0032",
+      "word": "Yacht",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0033",
+      "word": "Canoe",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0034",
+      "word": "Kayak",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0035",
+      "word": "Cruise Ship",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0036",
+      "word": "Fishing Boat",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0037",
+      "word": "Jet Ski",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en"
+    },
+    {
+      "id": "tra-0038",
+      "word": "Airport",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0039",
+      "word": "Harbour",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0040",
+      "word": "Bus Stop",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0041",
+      "word": "Railway Platform",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0042",
+      "word": "Runway",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0043",
+      "word": "Toll Booth",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0044",
+      "word": "Traffic Signal",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tra-0045",
+      "word": "Parking Garage",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en"
+    },
+    {
+      "id": "tv-0046",
+      "word": "Police Car",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0047",
+      "word": "Bulldozer",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0048",
+      "word": "Excavator",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0049",
+      "word": "Crane Truck",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0050",
+      "word": "Garbage Truck",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0051",
+      "word": "Double Decker Bus",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0052",
+      "word": "Rickshaw",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0053",
+      "word": "Auto Rickshaw",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0054",
+      "word": "Electric Scooter",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0055",
+      "word": "Convertible",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0056",
+      "word": "Limousine",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0057",
+      "word": "Jeep",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0058",
+      "word": "Pickup Truck",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0059",
+      "word": "Monster Truck",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0060",
+      "word": "Go Kart",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0061",
+      "word": "Camper Van",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0062",
+      "word": "Caravan",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0063",
+      "word": "Tuk Tuk",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "road-vehicles",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0064",
+      "word": "Steam Locomotive",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0065",
+      "word": "Freight Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0066",
+      "word": "Passenger Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0067",
+      "word": "Cable Car",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0068",
+      "word": "Train Platform",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0069",
+      "word": "Railway Crossing",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0070",
+      "word": "Sleeper Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0071",
+      "word": "Vande Bharat Express",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0072",
+      "word": "Maglev Train",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "trains-railways",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0073",
+      "word": "Passenger Jet",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0074",
+      "word": "Biplane",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0075",
+      "word": "Blimp",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0076",
+      "word": "Airship",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0077",
+      "word": "Hang Glider",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0078",
+      "word": "Spaceplane",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0079",
+      "word": "Autogyro",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0080",
+      "word": "Air Ambulance",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "aircraft",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0081",
+      "word": "Catamaran",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0082",
+      "word": "Aircraft Carrier",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0083",
+      "word": "Cargo Ship",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0084",
+      "word": "Houseboat",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0085",
+      "word": "Lifeboat",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0086",
+      "word": "Speedboat",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0087",
+      "word": "Gondola",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0088",
+      "word": "Raft",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0089",
+      "word": "Hovercraft",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "water-transport",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0090",
+      "word": "Port",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0091",
+      "word": "Bus Terminal",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0092",
+      "word": "Toll Plaza",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0093",
+      "word": "Taxi Stand",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0094",
+      "word": "Metro Station",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0095",
+      "word": "Petrol Pump",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0096",
+      "word": "Charging Station",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0097",
+      "word": "Shipyard",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0098",
+      "word": "Helipad",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0099",
+      "word": "Pedestrian Crossing",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0100",
+      "word": "Roundabout",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0101",
+      "word": "Flyover",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    },
+    {
+      "id": "tv-0102",
+      "word": "Underpass",
+      "categoryId": "transport-vehicles",
+      "subcategoryId": "transport-places",
+      "language": "en",
+      "relatedWords": [],
+      "image": null
+    }
+  ]
+}
