@@ -7,420 +7,780 @@
       "word": "Cricket",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bat",
+        "Wicket",
+        "Pitch",
+        "Eleven Players"
+      ]
     },
     {
       "id": "spo-0002",
       "word": "Football",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Goal",
+        "Stadium",
+        "Dribbling",
+        "World Cup"
+      ]
     },
     {
       "id": "spo-0003",
       "word": "Basketball",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hoop",
+        "Bounce",
+        "Five Players",
+        "Court"
+      ]
     },
     {
       "id": "spo-0004",
       "word": "Tennis",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Racket",
+        "Net",
+        "Deuce",
+        "Grand Slam"
+      ]
     },
     {
       "id": "spo-0005",
       "word": "Badminton",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Shuttlecock",
+        "Racket",
+        "Net",
+        "Smash"
+      ]
     },
     {
       "id": "spo-0006",
       "word": "Hockey",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Puck",
+        "Stick",
+        "Goal",
+        "Ice or Grass"
+      ]
     },
     {
       "id": "spo-0007",
       "word": "Volleyball",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Net",
+        "Spike",
+        "Block",
+        "Six Players"
+      ]
     },
     {
       "id": "spo-0008",
       "word": "Kabaddi",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Raid",
+        "Touch",
+        "Breath",
+        "Defenders"
+      ]
     },
     {
       "id": "spo-0009",
       "word": "Rugby",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Oval Ball",
+        "Tackle",
+        "Try",
+        "Scrum"
+      ]
     },
     {
       "id": "spo-0010",
       "word": "Baseball",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bat",
+        "Diamond",
+        "Pitcher",
+        "Home Plate"
+      ]
     },
     {
       "id": "spo-0011",
       "word": "Golf",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Club",
+        "Green",
+        "Hole",
+        "Caddie"
+      ]
     },
     {
       "id": "spo-0012",
       "word": "Boxing",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gloves",
+        "Ring",
+        "Punch",
+        "Rounds"
+      ]
     },
     {
       "id": "spo-0013",
       "word": "Wrestling",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mat",
+        "Grapple",
+        "Pin",
+        "Opponent"
+      ]
     },
     {
       "id": "spo-0014",
       "word": "Swimming",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pool",
+        "Laps",
+        "Strokes",
+        "Lane"
+      ]
     },
     {
       "id": "spo-0015",
       "word": "Table Tennis",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Small Paddle",
+        "Light Ball",
+        "Table",
+        "Net"
+      ]
     },
     {
       "id": "spo-0016",
       "word": "Archery",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bow",
+        "Arrow",
+        "Target",
+        "Bullseye"
+      ]
     },
     {
       "id": "spo-0017",
       "word": "Gymnastics",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Balance Beam",
+        "Floor Routine",
+        "Somersault",
+        "Rings"
+      ]
     },
     {
       "id": "spo-0018",
       "word": "Athletics",
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Track",
+        "Sprint",
+        "Long Jump",
+        "Medals"
+      ]
     },
     {
       "id": "spo-0019",
       "word": "Olympics",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Torch",
+        "Five Rings",
+        "Medals",
+        "Host Nation"
+      ]
     },
     {
       "id": "spo-0020",
       "word": "Paralympics",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Accessible Sports",
+        "Wheelchair Racing",
+        "Athletes",
+        "Medals"
+      ]
     },
     {
       "id": "spo-0021",
       "word": "FIFA World Cup",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "National Teams",
+        "Football",
+        "Trophy",
+        "Four Years"
+      ]
     },
     {
       "id": "spo-0022",
       "word": "Cricket World Cup",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "One-Day Matches",
+        "National Teams",
+        "Trophy",
+        "Bat and Ball"
+      ]
     },
     {
       "id": "spo-0023",
       "word": "Wimbledon",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Grass Court",
+        "London",
+        "Strawberries",
+        "Tennis"
+      ]
     },
     {
       "id": "spo-0024",
       "word": "Asian Games",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Asia",
+        "Multiple Sports",
+        "National Teams",
+        "Medals"
+      ]
     },
     {
       "id": "spo-0025",
       "word": "Commonwealth Games",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Nations",
+        "Commonwealth",
+        "Multiple Sports",
+        "Medals"
+      ]
     },
     {
       "id": "spo-0026",
       "word": "Super Bowl",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Touchdown",
+        "American Football",
+        "Halftime Show",
+        "Trophy"
+      ]
     },
     {
       "id": "spo-0027",
       "word": "French Open",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Clay Court",
+        "Paris",
+        "Tennis",
+        "Grand Slam"
+      ]
     },
     {
       "id": "spo-0028",
       "word": "Tour De France",
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "France",
+        "Bicycle",
+        "Yellow Jersey",
+        "Mountain Stages"
+      ]
     },
     {
       "id": "spo-0029",
       "word": "Goalkeeper",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Goal",
+        "Gloves",
+        "Last Line",
+        "Penalty Save"
+      ]
     },
     {
       "id": "spo-0030",
       "word": "Batsman",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Crease",
+        "Runs",
+        "Bat",
+        "Opening Order"
+      ]
     },
     {
       "id": "spo-0031",
       "word": "Bowler",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Fast Delivery",
+        "Wicket",
+        "Bails",
+        "Over"
+      ]
     },
     {
       "id": "spo-0032",
       "word": "Captain",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Toss",
+        "Team Leader",
+        "Strategy",
+        "Armband"
+      ]
     },
     {
       "id": "spo-0033",
       "word": "Umpire",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cricket",
+        "Decision",
+        "Boundary",
+        "Third Umpire"
+      ]
     },
     {
       "id": "spo-0034",
       "word": "Referee",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Whistle",
+        "Rules",
+        "Foul",
+        "Match Official"
+      ]
     },
     {
       "id": "spo-0035",
       "word": "Coach",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Practice",
+        "Strategy",
+        "Training",
+        "Team"
+      ]
     },
     {
       "id": "spo-0036",
       "word": "Striker",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Attack",
+        "Goal",
+        "Forward Line",
+        "Shooting"
+      ]
     },
     {
       "id": "spo-0037",
       "word": "Goal Scorer",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Net",
+        "Celebration",
+        "Scoreboard",
+        "Winning Shot"
+      ]
     },
     {
       "id": "spo-0038",
       "word": "Wicketkeeper",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Stumps",
+        "Gloves",
+        "Behind Batter",
+        "Catches"
+      ]
     },
     {
       "id": "spo-0039",
       "word": "Olympian",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Medal",
+        "International Event",
+        "National Flag",
+        "Athlete"
+      ]
     },
     {
       "id": "spo-0040",
       "word": "Marathon Runner",
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Long Distance",
+        "Road Race",
+        "Endurance",
+        "42 Kilometres"
+      ]
     },
     {
       "id": "spo-0041",
       "word": "Penalty",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Foul",
+        "Spot",
+        "Whistle",
+        "Free Shot"
+      ]
     },
     {
       "id": "spo-0042",
       "word": "Hat-trick",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Three Goals",
+        "Football",
+        "Three Wickets",
+        "Three Successes"
+      ]
     },
     {
       "id": "spo-0043",
       "word": "Offside",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Football",
+        "Position",
+        "Defender",
+        "Flag"
+      ]
     },
     {
       "id": "spo-0044",
       "word": "Home Run",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Outfield",
+        "Fence",
+        "Baseball",
+        "One Full Circuit"
+      ]
     },
     {
       "id": "spo-0045",
       "word": "Knockout",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Fighter",
+        "Referee",
+        "Final Round",
+        "Unable to Continue"
+      ]
     },
     {
       "id": "spo-0046",
       "word": "Tie Break",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Equal Score",
+        "Extra Points",
+        "Deciding Game",
+        "Tennis"
+      ]
     },
     {
       "id": "spo-0047",
       "word": "Slam Dunk",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Basketball",
+        "Rim",
+        "Jump",
+        "One-Handed Finish"
+      ]
     },
     {
       "id": "spo-0048",
       "word": "Checkmate",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "King",
+        "Queen",
+        "Chessboard",
+        "No Escape"
+      ]
     },
     {
       "id": "spo-0049",
       "word": "Free Kick",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Football",
+        "Foul",
+        "Stationary Ball",
+        "Whistle"
+      ]
     },
     {
       "id": "spo-0050",
       "word": "Corner Kick",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Football",
+        "Flag",
+        "Corner Arc",
+        "Cross"
+      ]
     },
     {
       "id": "spo-0051",
       "word": "Finish Line",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Race",
+        "Tape",
+        "Winner",
+        "Track"
+      ]
     },
     {
       "id": "spo-0052",
       "word": "Relay Race",
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Baton",
+        "Team",
+        "Four Runners",
+        "Handover"
+      ]
     },
     {
       "id": "spo-0053",
       "word": "Formula One",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Racing Cars",
+        "Pit Stop",
+        "Circuit",
+        "Checkered Flag"
+      ]
     },
     {
       "id": "spo-0054",
       "word": "Grand Prix",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Racing",
+        "Circuit",
+        "Trophy",
+        "Winning Driver"
+      ]
     },
     {
       "id": "spo-0055",
       "word": "Go-Karting",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Small Vehicle",
+        "Racing Track",
+        "Helmet",
+        "Steering Wheel"
+      ]
     },
     {
       "id": "spo-0056",
       "word": "Motorcycle Racing",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Two Wheels",
+        "Helmet",
+        "Racetrack",
+        "Speed"
+      ]
     },
     {
       "id": "spo-0057",
       "word": "Car Rally",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Off-Road",
+        "Dust",
+        "Navigation",
+        "Racing Cars"
+      ]
     },
     {
       "id": "spo-0058",
       "word": "Horse Racing",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Jockey",
+        "Horses",
+        "Track",
+        "Finish Post"
+      ]
     },
     {
       "id": "spo-0059",
       "word": "Cycling Race",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bicycle",
+        "Peloton",
+        "Road",
+        "Pedals"
+      ]
     },
     {
       "id": "spo-0060",
       "word": "Marathon",
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Long Distance",
+        "Running",
+        "Endurance",
+        "42 Kilometres"
+      ]
     },
     {
       "id": "sg-0061",
@@ -428,8 +788,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Chase",
+        "Touch",
+        "Kho",
+        "Team Game"
+      ]
     },
     {
       "id": "sg-0062",
@@ -437,8 +802,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Target",
+        "Rifle",
+        "Pistol",
+        "Bullseye"
+      ]
     },
     {
       "id": "sg-0063",
@@ -446,8 +816,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sword",
+        "Mask",
+        "Duel",
+        "Protective Jacket"
+      ]
     },
     {
       "id": "sg-0064",
@@ -455,8 +830,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bat",
+        "Large Ball",
+        "Diamond",
+        "Four Bases"
+      ]
     },
     {
       "id": "sg-0065",
@@ -464,8 +844,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Hand Pass",
+        "Goal",
+        "Seven Players",
+        "Court"
+      ]
     },
     {
       "id": "sg-0066",
@@ -473,8 +858,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wheels",
+        "Ramp",
+        "Tricks",
+        "Skate Park"
+      ]
     },
     {
       "id": "sg-0067",
@@ -482,8 +872,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ocean",
+        "Waves",
+        "Board",
+        "Balance"
+      ]
     },
     {
       "id": "sg-0068",
@@ -491,8 +886,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Weights",
+        "Barbell",
+        "Lifting",
+        "Strength"
+      ]
     },
     {
       "id": "sg-0069",
@@ -500,8 +900,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ice",
+        "Spins",
+        "Jumps",
+        "Music"
+      ]
     },
     {
       "id": "sg-0070",
@@ -509,8 +914,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Puck",
+        "Ice Rink",
+        "Stick",
+        "Protective Pads"
+      ]
     },
     {
       "id": "sg-0071",
@@ -518,8 +928,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Kicks",
+        "Martial Arts",
+        "Belt",
+        "Korean"
+      ]
     },
     {
       "id": "sg-0072",
@@ -527,8 +942,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "popular-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Throws",
+        "Grappling",
+        "Mat",
+        "Japanese"
+      ]
     },
     {
       "id": "sg-0073",
@@ -536,8 +956,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Torch Relay",
+        "Five Rings",
+        "Opening Ceremony",
+        "Medals"
+      ]
     },
     {
       "id": "sg-0074",
@@ -545,8 +970,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Athletes",
+        "Accessibility",
+        "Wheelchair Sports",
+        "International Event"
+      ]
     },
     {
       "id": "sg-0075",
@@ -554,8 +984,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "New York",
+        "Hard Court",
+        "Tennis",
+        "Grand Slam"
+      ]
     },
     {
       "id": "sg-0076",
@@ -563,8 +998,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Melbourne",
+        "Hard Court",
+        "Tennis",
+        "Grand Slam"
+      ]
     },
     {
       "id": "sg-0077",
@@ -572,8 +1012,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Franchise Teams",
+        "T20",
+        "Auction",
+        "Cricket"
+      ]
     },
     {
       "id": "sg-0078",
@@ -581,8 +1026,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Raid Points",
+        "Defenders",
+        "Tackle",
+        "Franchise Teams"
+      ]
     },
     {
       "id": "sg-0079",
@@ -590,8 +1040,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "European Clubs",
+        "Football",
+        "Champions Trophy",
+        "Group Stage"
+      ]
     },
     {
       "id": "sg-0080",
@@ -599,8 +1054,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "England",
+        "Australia",
+        "Test Cricket",
+        "Urn"
+      ]
     },
     {
       "id": "sg-0081",
@@ -608,8 +1068,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-events",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Track Events",
+        "Field Events",
+        "Athletics",
+        "International Medal"
+      ]
     },
     {
       "id": "sg-0082",
@@ -617,8 +1082,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Microphone",
+        "Live Match",
+        "Analysis",
+        "Audience"
+      ]
     },
     {
       "id": "sg-0083",
@@ -626,8 +1096,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Batting",
+        "Bowling",
+        "Fielding",
+        "Versatile Player"
+      ]
     },
     {
       "id": "sg-0084",
@@ -635,8 +1110,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Opposition Attack",
+        "Blocking",
+        "Back Line",
+        "Tackling"
+      ]
     },
     {
       "id": "sg-0085",
@@ -644,8 +1124,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Central Area",
+        "Passing",
+        "Possession",
+        "Midfield"
+      ]
     },
     {
       "id": "sg-0086",
@@ -653,8 +1138,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Attack",
+        "Scoring Chances",
+        "Speed",
+        "Front Line"
+      ]
     },
     {
       "id": "sg-0087",
@@ -662,8 +1152,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Short Distance",
+        "Starting Blocks",
+        "Fast Feet",
+        "Track"
+      ]
     },
     {
       "id": "sg-0088",
@@ -671,8 +1166,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Gloves",
+        "Punches",
+        "Ring",
+        "Rounds"
+      ]
     },
     {
       "id": "sg-0089",
@@ -680,8 +1180,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Grappling",
+        "Mat",
+        "Opponent",
+        "Pin"
+      ]
     },
     {
       "id": "sg-0090",
@@ -689,8 +1194,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Balance",
+        "Floor Routine",
+        "Beam",
+        "Vault"
+      ]
     },
     {
       "id": "sg-0091",
@@ -698,8 +1208,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pool",
+        "Laps",
+        "Freestyle",
+        "Medals"
+      ]
     },
     {
       "id": "sg-0092",
@@ -707,8 +1222,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Horse",
+        "Riding",
+        "Saddle",
+        "Race"
+      ]
     },
     {
       "id": "sg-0093",
@@ -716,8 +1236,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Speed",
+        "Track",
+        "Competition",
+        "Finish Line"
+      ]
     },
     {
       "id": "sg-0094",
@@ -725,8 +1250,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Golf Bag",
+        "Clubs",
+        "Course",
+        "Player Assistant"
+      ]
     },
     {
       "id": "sg-0095",
@@ -734,8 +1264,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-people-roles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sideline",
+        "Flag",
+        "Boundary",
+        "Match Official"
+      ]
     },
     {
       "id": "sg-0096",
@@ -743,8 +1278,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Football",
+        "Spot Kick",
+        "Goalkeeper",
+        "Penalty Area"
+      ]
     },
     {
       "id": "sg-0097",
@@ -752,8 +1292,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Three Goals",
+        "Football",
+        "Three Wickets",
+        "Scoring Feat"
+      ]
     },
     {
       "id": "sg-0098",
@@ -761,8 +1306,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Equal Score",
+        "Goalkeeper",
+        "Spot Kicks",
+        "Winner"
+      ]
     },
     {
       "id": "sg-0099",
@@ -770,8 +1320,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Equal Points",
+        "Deciding Round",
+        "Extra Point",
+        "Close Match"
+      ]
     },
     {
       "id": "sg-0100",
@@ -779,8 +1334,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Extra Period",
+        "Equal Score",
+        "Clock",
+        "Deciding Goal"
+      ]
     },
     {
       "id": "sg-0101",
@@ -788,8 +1348,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Championship",
+        "Two Teams",
+        "Trophy",
+        "Winner"
+      ]
     },
     {
       "id": "sg-0102",
@@ -797,8 +1362,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Rest Period",
+        "Whistle",
+        "Players",
+        "Changing Ends"
+      ]
     },
     {
       "id": "sg-0103",
@@ -806,8 +1376,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Football",
+        "Added Minutes",
+        "Draw",
+        "Final Whistle"
+      ]
     },
     {
       "id": "sg-0104",
@@ -815,8 +1390,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Warning",
+        "Football",
+        "Referee",
+        "Foul"
+      ]
     },
     {
       "id": "sg-0105",
@@ -824,8 +1404,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Send-Off",
+        "Football",
+        "Referee",
+        "Serious Foul"
+      ]
     },
     {
       "id": "sg-0106",
@@ -833,8 +1418,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cricket",
+        "Over Boundary",
+        "Six Runs",
+        "Big Hit"
+      ]
     },
     {
       "id": "sg-0107",
@@ -842,8 +1432,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cricket",
+        "Ground Boundary",
+        "Four Runs",
+        "Rolling Ball"
+      ]
     },
     {
       "id": "sg-0108",
@@ -851,8 +1446,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cricket",
+        "Crease",
+        "Stumps",
+        "Batter Running"
+      ]
     },
     {
       "id": "sg-0109",
@@ -860,8 +1460,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ball",
+        "Hands",
+        "Fielding",
+        "Out"
+      ]
     },
     {
       "id": "sg-0110",
@@ -869,8 +1474,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cricket",
+        "Rope",
+        "Four Runs",
+        "Outfield"
+      ]
     },
     {
       "id": "sg-0111",
@@ -878,8 +1488,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Racket",
+        "Toss",
+        "Starting Shot",
+        "Net"
+      ]
     },
     {
       "id": "sg-0112",
@@ -887,8 +1502,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Badminton",
+        "Powerful Shot",
+        "Racket",
+        "Fast Return"
+      ]
     },
     {
       "id": "sg-0113",
@@ -896,8 +1516,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Basketball",
+        "Ball Control",
+        "Bounce",
+        "Movement"
+      ]
     },
     {
       "id": "sg-0114",
@@ -905,8 +1530,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Basketball",
+        "Rim",
+        "Jump",
+        "Two Points"
+      ]
     },
     {
       "id": "sg-0115",
@@ -914,8 +1544,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Camera",
+        "Finish Line",
+        "Close Race",
+        "Winner"
+      ]
     },
     {
       "id": "sg-0116",
@@ -923,8 +1558,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "sports-actions-rules",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Fastest Ever",
+        "Achievement",
+        "Timing",
+        "Athlete"
+      ]
     },
     {
       "id": "sg-0117",
@@ -932,8 +1572,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Small Vehicle",
+        "Racing Track",
+        "Helmet",
+        "Steering Wheel"
+      ]
     },
     {
       "id": "sg-0118",
@@ -941,8 +1586,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Motorbike",
+        "Racetrack",
+        "Riders",
+        "Grand Prix"
+      ]
     },
     {
       "id": "sg-0119",
@@ -950,8 +1600,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Off-Road",
+        "Dust",
+        "Co-Driver",
+        "Timed Stages"
+      ]
     },
     {
       "id": "sg-0120",
@@ -959,8 +1614,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Straight Track",
+        "Acceleration",
+        "Powerful Cars",
+        "Short Distance"
+      ]
     },
     {
       "id": "sg-0121",
@@ -968,8 +1628,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Water",
+        "Boats",
+        "Engines",
+        "Speed"
+      ]
     },
     {
       "id": "sg-0122",
@@ -977,8 +1642,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Snow",
+        "Slopes",
+        "Skis",
+        "Downhill"
+      ]
     },
     {
       "id": "sg-0123",
@@ -986,8 +1656,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ice",
+        "Oval Track",
+        "Blades",
+        "Fast Laps"
+      ]
     },
     {
       "id": "sg-0124",
@@ -995,8 +1670,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pool",
+        "Lanes",
+        "Starting Blocks",
+        "Freestyle"
+      ]
     },
     {
       "id": "sg-0125",
@@ -1004,8 +1684,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Swimming",
+        "Cycling",
+        "Running",
+        "Three Events"
+      ]
     },
     {
       "id": "sg-0126",
@@ -1013,8 +1698,13 @@
       "categoryId": "sports-games",
       "subcategoryId": "racing-sports",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bicycle",
+        "Road",
+        "Pedals",
+        "Racing"
+      ]
     }
   ]
 }

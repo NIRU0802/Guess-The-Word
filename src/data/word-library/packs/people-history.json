@@ -7,322 +7,598 @@
       "word": "Albert Einstein",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Relativity",
+        "Germany",
+        "Physics",
+        "Nobel Prize"
+      ]
     },
     {
       "id": "peo-0002",
       "word": "Isaac Newton",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gravity",
+        "Apple",
+        "Telescope",
+        "Laws of Motion"
+      ]
     },
     {
       "id": "peo-0003",
       "word": "Marie Curie",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Radioactivity",
+        "Poland",
+        "Nobel Prizes",
+        "Laboratory"
+      ]
     },
     {
       "id": "peo-0004",
       "word": "Thomas Edison",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Light Bulb",
+        "Phonograph",
+        "Laboratory",
+        "Inventions"
+      ]
     },
     {
       "id": "peo-0005",
       "word": "Nikola Tesla",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Electricity",
+        "Coil",
+        "Alternating Current",
+        "Inventor"
+      ]
     },
     {
       "id": "peo-0006",
       "word": "C V Raman",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Light Scattering",
+        "Nobel Prize",
+        "Indian Physicist",
+        "Blue Sky"
+      ]
     },
     {
       "id": "peo-0007",
       "word": "A P J Abdul Kalam",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Missile Man",
+        "Wings of Fire",
+        "President",
+        "Space Research"
+      ]
     },
     {
       "id": "peo-0008",
       "word": "Galileo Galilei",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Telescope",
+        "Planets",
+        "Italy",
+        "Astronomy"
+      ]
     },
     {
       "id": "peo-0009",
       "word": "Charles Darwin",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Evolution",
+        "Galapagos Islands",
+        "Natural Selection",
+        "Finches"
+      ]
     },
     {
       "id": "peo-0010",
       "word": "Stephen Hawking",
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Black Holes",
+        "Cosmos",
+        "Wheelchair",
+        "Physics"
+      ]
     },
     {
       "id": "peo-0011",
       "word": "Mahatma Gandhi",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Nonviolence",
+        "Salt March",
+        "Freedom Movement",
+        "Spinning Wheel"
+      ]
     },
     {
       "id": "peo-0012",
       "word": "Nelson Mandela",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "South Africa",
+        "Apartheid",
+        "Robben Island",
+        "Nobel Peace Prize"
+      ]
     },
     {
       "id": "peo-0013",
       "word": "Martin Luther King Jr",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Civil Rights",
+        "I Have a Dream",
+        "Equality",
+        "Washington March"
+      ]
     },
     {
       "id": "peo-0014",
       "word": "Abraham Lincoln",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "American Civil War",
+        "Emancipation",
+        "United States",
+        "Gettysburg Address"
+      ]
     },
     {
       "id": "peo-0015",
       "word": "Jawaharlal Nehru",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "First Prime Minister",
+        "India",
+        "Discovery of India",
+        "Children\u0027s Day"
+      ]
     },
     {
       "id": "peo-0016",
       "word": "Sardar Vallabhbhai Patel",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Iron Man of India",
+        "Unity",
+        "Princely States",
+        "Statue of Unity"
+      ]
     },
     {
       "id": "peo-0017",
       "word": "Rani Lakshmibai",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Jhansi",
+        "Horse Riding",
+        "1857 Revolt",
+        "Queen"
+      ]
     },
     {
       "id": "peo-0018",
       "word": "Mother Teresa",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Charity",
+        "Kolkata",
+        "Missionaries",
+        "Nobel Peace Prize"
+      ]
     },
     {
       "id": "peo-0019",
       "word": "Winston Churchill",
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "British Prime Minister",
+        "World War II",
+        "Speeches",
+        "Victory"
+      ]
     },
     {
       "id": "peo-0020",
       "word": "Leonardo Da Vinci",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mona Lisa",
+        "Painting",
+        "Flying Machine",
+        "Renaissance"
+      ]
     },
     {
       "id": "peo-0021",
       "word": "William Shakespeare",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Playwright",
+        "Hamlet",
+        "Romeo and Juliet",
+        "Stratford"
+      ]
     },
     {
       "id": "peo-0022",
       "word": "Marco Polo",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Silk Road",
+        "Venice",
+        "China",
+        "Travels"
+      ]
     },
     {
       "id": "peo-0023",
       "word": "Christopher Columbus",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Atlantic Ocean",
+        "Ships",
+        "1492",
+        "New World"
+      ]
     },
     {
       "id": "peo-0024",
       "word": "Amelia Earhart",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pilot",
+        "Atlantic Crossing",
+        "Aviation",
+        "Disappearance"
+      ]
     },
     {
       "id": "peo-0025",
       "word": "Rabindranath Tagore",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Poet",
+        "Nobel Prize",
+        "Gitanjali",
+        "Santiniketan"
+      ]
     },
     {
       "id": "peo-0026",
       "word": "Pablo Picasso",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cubism",
+        "Guernica",
+        "Spanish Artist",
+        "Modern Art"
+      ]
     },
     {
       "id": "peo-0027",
       "word": "Vincent Van Gogh",
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Starry Night",
+        "Sunflowers",
+        "Dutch Artist",
+        "Impressionism"
+      ]
     },
     {
       "id": "peo-0028",
       "word": "Ancient Egypt",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pyramids",
+        "Pharaohs",
+        "Nile River",
+        "Hieroglyphics"
+      ]
     },
     {
       "id": "peo-0029",
       "word": "Roman Empire",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gladiators",
+        "Colosseum",
+        "Julius Caesar",
+        "Italy"
+      ]
     },
     {
       "id": "peo-0030",
       "word": "Indus Valley Civilization",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Harappa",
+        "Mohenjo-Daro",
+        "Indus River",
+        "Ancient Cities"
+      ]
     },
     {
       "id": "peo-0031",
       "word": "Ancient Greece",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Athens",
+        "Sparta",
+        "Olympics",
+        "Philosophers"
+      ]
     },
     {
       "id": "peo-0032",
       "word": "Mayan Civilization",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Central America",
+        "Pyramids",
+        "Calendar",
+        "Ancient Temples"
+      ]
     },
     {
       "id": "peo-0033",
       "word": "Mughal Empire",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Taj Mahal",
+        "Akbar",
+        "Babur",
+        "Mughal Architecture"
+      ]
     },
     {
       "id": "peo-0034",
       "word": "Maurya Empire",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Chandragupta",
+        "Ashoka",
+        "Pataliputra",
+        "Ancient India"
+      ]
     },
     {
       "id": "peo-0035",
       "word": "Viking Age",
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Longships",
+        "Scandinavia",
+        "Explorers",
+        "Norse Warriors"
+      ]
     },
     {
       "id": "peo-0036",
       "word": "Zeus",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mount Olympus",
+        "Thunderbolt",
+        "Greek Mythology",
+        "God of Gods"
+      ]
     },
     {
       "id": "peo-0037",
       "word": "Hercules",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Twelve Labours",
+        "Greek Hero",
+        "Strength",
+        "Nemean Lion"
+      ]
     },
     {
       "id": "peo-0038",
       "word": "Medusa",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Snakes",
+        "Greek Mythology",
+        "Stone Gaze",
+        "Perseus"
+      ]
     },
     {
       "id": "peo-0039",
       "word": "Hanuman",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Monkey Warrior",
+        "Ramayana",
+        "Mountain",
+        "Loyalty"
+      ]
     },
     {
       "id": "peo-0040",
       "word": "Ganesha",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Elephant Head",
+        "Modak",
+        "Mouse",
+        "Wisdom"
+      ]
     },
     {
       "id": "peo-0041",
       "word": "Krishna",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Flute",
+        "Peacock Feather",
+        "Vrindavan",
+        "Mahabharata"
+      ]
     },
     {
       "id": "peo-0042",
       "word": "Rama",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ayodhya",
+        "Bow and Arrow",
+        "Exile",
+        "Ramayana"
+      ]
     },
     {
       "id": "peo-0043",
       "word": "Athena",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wisdom",
+        "Owl",
+        "Greek Mythology",
+        "War Strategy"
+      ]
     },
     {
       "id": "peo-0044",
       "word": "Poseidon",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Sea",
+        "Trident",
+        "Greek Mythology",
+        "Ocean Waves"
+      ]
     },
     {
       "id": "peo-0045",
       "word": "Odin",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Norse Mythology",
+        "Ravens",
+        "Spear",
+        "Asgard"
+      ]
     },
     {
       "id": "peo-0046",
       "word": "Phoenix",
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rebirth",
+        "Fire",
+        "Mythical Bird",
+        "Ashes"
+      ]
     },
     {
       "id": "ph-0047",
@@ -330,8 +606,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Telephone",
+        "Sound",
+        "Inventor",
+        "Communication"
+      ]
     },
     {
       "id": "ph-0048",
@@ -339,8 +620,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mathematics",
+        "Number Theory",
+        "India",
+        "Infinite Series"
+      ]
     },
     {
       "id": "ph-0049",
@@ -348,8 +634,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wireless Signals",
+        "Plants",
+        "Radio Waves",
+        "Indian Scientist"
+      ]
     },
     {
       "id": "ph-0050",
@@ -357,8 +648,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Atomic Energy",
+        "Mumbai",
+        "Nuclear Research",
+        "Indian Scientist"
+      ]
     },
     {
       "id": "ph-0051",
@@ -366,8 +662,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Zero",
+        "Astronomy",
+        "Ancient India",
+        "Mathematics"
+      ]
     },
     {
       "id": "ph-0052",
@@ -375,8 +676,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Computer Science",
+        "Codebreaking",
+        "Enigma",
+        "Artificial Intelligence"
+      ]
     },
     {
       "id": "ph-0053",
@@ -384,8 +690,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mathematics",
+        "Early Programmer",
+        "Charles Babbage",
+        "Analytical Engine"
+      ]
     },
     {
       "id": "ph-0054",
@@ -393,8 +704,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Airplane",
+        "First Flight",
+        "Kitty Hawk",
+        "Two Brothers"
+      ]
     },
     {
       "id": "ph-0055",
@@ -402,8 +718,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Germs",
+        "Pasteurization",
+        "Vaccines",
+        "French Scientist"
+      ]
     },
     {
       "id": "ph-0056",
@@ -411,8 +732,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "DNA",
+        "X-Ray Images",
+        "Double Helix",
+        "Scientific Research"
+      ]
     },
     {
       "id": "ph-0057",
@@ -420,8 +746,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "World Wide Web",
+        "Internet",
+        "HTML",
+        "First Website"
+      ]
     },
     {
       "id": "ph-0058",
@@ -429,8 +760,13 @@
       "categoryId": "people-history",
       "subcategoryId": "scientists-inventors",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "NASA",
+        "Space Missions",
+        "Mathematics",
+        "Hidden Figures"
+      ]
     },
     {
       "id": "ph-0059",
@@ -438,8 +774,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Azad Hind Fauj",
+        "Freedom Movement",
+        "Jai Hind",
+        "World War II"
+      ]
     },
     {
       "id": "ph-0060",
@@ -447,8 +788,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Revolutionary",
+        "Freedom Fighter",
+        "Inquilab Zindabad",
+        "Lahore"
+      ]
     },
     {
       "id": "ph-0061",
@@ -456,8 +802,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indian Constitution",
+        "Equality",
+        "Social Justice",
+        "Architect"
+      ]
     },
     {
       "id": "ph-0062",
@@ -465,8 +816,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Education",
+        "Girls\u0027 Rights",
+        "Pakistan",
+        "Nobel Peace Prize"
+      ]
     },
     {
       "id": "ph-0063",
@@ -474,8 +830,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "British Monarch",
+        "Crown",
+        "Buckingham Palace",
+        "Longest Reign"
+      ]
     },
     {
       "id": "ph-0064",
@@ -483,8 +844,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "United States",
+        "White House",
+        "First Black President",
+        "Chicago"
+      ]
     },
     {
       "id": "ph-0065",
@@ -492,8 +858,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Kalinga War",
+        "Maurya Dynasty",
+        "Buddhism",
+        "Rock Edicts"
+      ]
     },
     {
       "id": "ph-0066",
@@ -501,8 +872,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mughal Ruler",
+        "Fatehpur Sikri",
+        "Birbal",
+        "Din-i Ilahi"
+      ]
     },
     {
       "id": "ph-0067",
@@ -510,8 +886,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Maratha Kingdom",
+        "Fortresses",
+        "Raigad",
+        "Swarajya"
+      ]
     },
     {
       "id": "ph-0068",
@@ -519,8 +900,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Chicago Speech",
+        "Vedanta",
+        "India",
+        "Spiritual Teacher"
+      ]
     },
     {
       "id": "ph-0069",
@@ -528,8 +914,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Girls\u0027 Education",
+        "Pune",
+        "First Women Teachers",
+        "Social Reform"
+      ]
     },
     {
       "id": "ph-0070",
@@ -537,8 +928,13 @@
       "categoryId": "people-history",
       "subcategoryId": "leaders-reformers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Social Reform",
+        "Education",
+        "Satyashodhak Samaj",
+        "Equality"
+      ]
     },
     {
       "id": "ph-0071",
@@ -546,8 +942,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sistine Chapel",
+        "David Statue",
+        "Renaissance",
+        "Italian Sculptor"
+      ]
     },
     {
       "id": "ph-0072",
@@ -555,8 +956,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Voyage",
+        "Spice Islands",
+        "Pacific Ocean",
+        "Circumnavigation"
+      ]
     },
     {
       "id": "ph-0073",
@@ -564,8 +970,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Moon",
+        "Apollo 11",
+        "Astronaut",
+        "First Footsteps"
+      ]
     },
     {
       "id": "ph-0074",
@@ -573,8 +984,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Space",
+        "Soviet Union",
+        "First Human in Orbit",
+        "Cosmonaut"
+      ]
     },
     {
       "id": "ph-0075",
@@ -582,8 +998,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Morocco",
+        "Travel Writer",
+        "Fourteen Century",
+        "Journey"
+      ]
     },
     {
       "id": "ph-0076",
@@ -591,8 +1012,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Portugal",
+        "Sea Route",
+        "India",
+        "Calicut"
+      ]
     },
     {
       "id": "ph-0077",
@@ -600,8 +1026,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mount Everest",
+        "Himalayas",
+        "New Zealand",
+        "1953 Expedition"
+      ]
     },
     {
       "id": "ph-0078",
@@ -609,8 +1040,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sherpa",
+        "Mount Everest",
+        "Nepal",
+        "1953 Expedition"
+      ]
     },
     {
       "id": "ph-0079",
@@ -618,8 +1054,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "South Pole",
+        "Antarctica",
+        "Norway",
+        "Polar Expedition"
+      ]
     },
     {
       "id": "ph-0080",
@@ -627,8 +1068,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ocean Explorer",
+        "Scuba Diving",
+        "Underwater Films",
+        "Marine Life"
+      ]
     },
     {
       "id": "ph-0081",
@@ -636,8 +1082,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Self-Portraits",
+        "Mexico",
+        "Surrealism",
+        "Colorful Paintings"
+      ]
     },
     {
       "id": "ph-0082",
@@ -645,8 +1096,13 @@
       "categoryId": "people-history",
       "subcategoryId": "artists-explorers",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Silent Films",
+        "Comedy",
+        "Tramp Character",
+        "Bowler Hat"
+      ]
     },
     {
       "id": "ph-0083",
@@ -654,8 +1110,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Tigris River",
+        "Euphrates River",
+        "Cuneiform",
+        "Ancient Cities"
+      ]
     },
     {
       "id": "ph-0084",
@@ -663,8 +1124,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Central America",
+        "Chichen Itza",
+        "Calendar",
+        "Pyramids"
+      ]
     },
     {
       "id": "ph-0085",
@@ -672,8 +1138,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mexico",
+        "Tenochtitlan",
+        "Warriors",
+        "Spanish Conquest"
+      ]
     },
     {
       "id": "ph-0086",
@@ -681,8 +1152,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "South America",
+        "Andes",
+        "Machu Picchu",
+        "Mountain Empire"
+      ]
     },
     {
       "id": "ph-0087",
@@ -690,8 +1166,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Great Wall",
+        "Silk Road",
+        "Dynasties",
+        "Terracotta Army"
+      ]
     },
     {
       "id": "ph-0088",
@@ -699,8 +1180,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ancient Persia",
+        "Cyrus",
+        "Persepolis",
+        "Royal Road"
+      ]
     },
     {
       "id": "ph-0089",
@@ -708,8 +1194,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Golden Age",
+        "India",
+        "Nalanda",
+        "Classical Literature"
+      ]
     },
     {
       "id": "ph-0090",
@@ -717,8 +1208,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indus River",
+        "Harappa",
+        "Mohenjo-Daro",
+        "Ancient Seals"
+      ]
     },
     {
       "id": "ph-0091",
@@ -726,8 +1222,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Turkey",
+        "Sultans",
+        "Constantinople",
+        "Istanbul"
+      ]
     },
     {
       "id": "ph-0092",
@@ -735,8 +1236,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Constantinople",
+        "Eastern Rome",
+        "Byzantium",
+        "Hagia Sophia"
+      ]
     },
     {
       "id": "ph-0093",
@@ -744,8 +1250,13 @@
       "categoryId": "people-history",
       "subcategoryId": "ancient-civilizations",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "South India",
+        "Thanjavur",
+        "Brihadeeswara Temple",
+        "Navy"
+      ]
     },
     {
       "id": "ph-0094",
@@ -753,8 +1264,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Trojan War",
+        "Greek Hero",
+        "Achilles\u0027 Heel",
+        "Iliad"
+      ]
     },
     {
       "id": "ph-0095",
@@ -762,8 +1278,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Norse Mythology",
+        "Final Battle",
+        "Gods",
+        "End of the World"
+      ]
     },
     {
       "id": "ph-0096",
@@ -771,8 +1292,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Egyptian Mythology",
+        "Jackal Head",
+        "Afterlife",
+        "Mummification"
+      ]
     },
     {
       "id": "ph-0097",
@@ -780,8 +1306,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Egyptian Mythology",
+        "Sun",
+        "Pharaohs",
+        "Sun God"
+      ]
     },
     {
       "id": "ph-0098",
@@ -789,8 +1320,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ancient Egypt",
+        "Nile",
+        "Pharaoh",
+        "Cleopatra\u0027s Kingdom"
+      ]
     },
     {
       "id": "ph-0099",
@@ -798,8 +1334,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Excalibur",
+        "Round Table",
+        "Camelot",
+        "Knights"
+      ]
     },
     {
       "id": "ph-0100",
@@ -807,8 +1348,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wizard",
+        "Merlin\u0027s Staff",
+        "Camelot",
+        "King Arthur"
+      ]
     },
     {
       "id": "ph-0101",
@@ -816,8 +1362,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Forest",
+        "Archery",
+        "Sherwood",
+        "Helping the Poor"
+      ]
     },
     {
       "id": "ph-0102",
@@ -825,8 +1376,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ten Heads",
+        "Lanka",
+        "Ramayana",
+        "Golden Deer"
+      ]
     },
     {
       "id": "ph-0103",
@@ -834,8 +1390,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mahabharata",
+        "Archer",
+        "Bow",
+        "Kurukshetra"
+      ]
     },
     {
       "id": "ph-0104",
@@ -843,8 +1404,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mahabharata",
+        "Warrior",
+        "Chariot",
+        "Generosity"
+      ]
     },
     {
       "id": "ph-0105",
@@ -852,8 +1418,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mahabharata",
+        "Pandavas",
+        "Draupadi\u0027s Swayamvar",
+        "Five Husbands"
+      ]
     },
     {
       "id": "ph-0106",
@@ -861,8 +1432,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Trident",
+        "Mount Kailash",
+        "Third Eye",
+        "Nandi"
+      ]
     },
     {
       "id": "ph-0107",
@@ -870,8 +1446,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Preserver",
+        "Garuda",
+        "Shankha",
+        "Ten Avatars"
+      ]
     },
     {
       "id": "ph-0108",
@@ -879,8 +1460,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Lion",
+        "Durga Puja",
+        "Many Arms",
+        "Mahishasura"
+      ]
     },
     {
       "id": "ph-0109",
@@ -888,8 +1474,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Greek Mythology",
+        "Winged Sandals",
+        "Medusa",
+        "Andromeda"
+      ]
     },
     {
       "id": "ph-0110",
@@ -897,8 +1488,13 @@
       "categoryId": "people-history",
       "subcategoryId": "mythology-legends",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Greek Mythology",
+        "Bull",
+        "Labyrinth",
+        "Crete"
+      ]
     }
   ]
 }

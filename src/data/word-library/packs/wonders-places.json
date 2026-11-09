@@ -7,315 +7,585 @@
       "word": "Taj Mahal",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Agra",
+        "marble",
+        "emperor",
+        "love"
+      ]
     },
     {
       "id": "won-0002",
       "word": "Eiffel Tower",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Paris",
+        "France",
+        "iron",
+        "observation"
+      ]
     },
     {
       "id": "won-0003",
       "word": "Statue Of Liberty",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "New York",
+        "torch",
+        "freedom",
+        "island"
+      ]
     },
     {
       "id": "won-0004",
       "word": "Big Ben",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "London",
+        "clock",
+        "bell",
+        "England"
+      ]
     },
     {
       "id": "won-0005",
       "word": "Leaning Tower Of Pisa",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Italy",
+        "tilted",
+        "columns",
+        "gravity"
+      ]
     },
     {
       "id": "won-0006",
       "word": "Gateway Of India",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mumbai",
+        "harbour",
+        "arch",
+        "sea"
+      ]
     },
     {
       "id": "won-0007",
       "word": "India Gate",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "New Delhi",
+        "soldiers",
+        "memorial",
+        "eternal flame"
+      ]
     },
     {
       "id": "won-0008",
       "word": "Hawa Mahal",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Jaipur",
+        "pink city",
+        "windows",
+        "Rajasthan"
+      ]
     },
     {
       "id": "won-0009",
       "word": "Red Fort",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Delhi",
+        "Mughal",
+        "ramparts",
+        "Independence Day"
+      ]
     },
     {
       "id": "won-0010",
       "word": "Qutub Minar",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Delhi",
+        "minaret",
+        "stone",
+        "height"
+      ]
     },
     {
       "id": "won-0011",
       "word": "Charminar",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hyderabad",
+        "four",
+        "arches",
+        "bazaars"
+      ]
     },
     {
       "id": "won-0012",
       "word": "Golden Gate Bridge",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "San Francisco",
+        "California",
+        "suspension",
+        "orange"
+      ]
     },
     {
       "id": "won-0013",
       "word": "Tower Bridge",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "London",
+        "Thames",
+        "drawbridge",
+        "bascule"
+      ]
     },
     {
       "id": "won-0014",
       "word": "Sydney Opera House",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Australia",
+        "harbour",
+        "sails",
+        "performances"
+      ]
     },
     {
       "id": "won-0015",
       "word": "Burj Khalifa",
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dubai",
+        "skyscraper",
+        "UAE",
+        "elevator"
+      ]
     },
     {
       "id": "won-0016",
       "word": "Great Pyramid Of Giza",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Egypt",
+        "pharaoh",
+        "desert",
+        "triangle"
+      ]
     },
     {
       "id": "won-0017",
       "word": "Great Wall Of China",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "China",
+        "defense",
+        "watchtowers",
+        "border"
+      ]
     },
     {
       "id": "won-0018",
       "word": "Colosseum",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rome",
+        "gladiators",
+        "arena",
+        "spectators"
+      ]
     },
     {
       "id": "won-0019",
       "word": "Petra",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Jordan",
+        "rose",
+        "rock",
+        "treasury"
+      ]
     },
     {
       "id": "won-0020",
       "word": "Machu Picchu",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Peru",
+        "Inca",
+        "mountains",
+        "ruins"
+      ]
     },
     {
       "id": "won-0021",
       "word": "Stonehenge",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "England",
+        "circles",
+        "boulders",
+        "mystery"
+      ]
     },
     {
       "id": "won-0022",
       "word": "Hanging Gardens Of Babylon",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Babylon",
+        "plants",
+        "terraces",
+        "ancient"
+      ]
     },
     {
       "id": "won-0023",
       "word": "Lighthouse Of Alexandria",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Egypt",
+        "harbour",
+        "ships",
+        "beacon"
+      ]
     },
     {
       "id": "won-0024",
       "word": "Temple Of Artemis",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ephesus",
+        "Greece",
+        "goddess",
+        "columns"
+      ]
     },
     {
       "id": "won-0025",
       "word": "Statue Of Zeus",
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Olympia",
+        "Greek god",
+        "ivory",
+        "throne"
+      ]
     },
     {
       "id": "won-0026",
       "word": "Grand Canyon",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Arizona",
+        "Colorado River",
+        "cliffs",
+        "layers"
+      ]
     },
     {
       "id": "won-0027",
       "word": "Niagara Falls",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Canada",
+        "waterfall",
+        "rainbow",
+        "boat"
+      ]
     },
     {
       "id": "won-0028",
       "word": "Victoria Falls",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Africa",
+        "Zambezi",
+        "spray",
+        "rainbow"
+      ]
     },
     {
       "id": "won-0029",
       "word": "Mount Everest",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Nepal",
+        "Himalayas",
+        "climbing",
+        "summit"
+      ]
     },
     {
       "id": "won-0030",
       "word": "Great Barrier Reef",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Australia",
+        "coral",
+        "ocean",
+        "fish"
+      ]
     },
     {
       "id": "won-0031",
       "word": "Northern Lights",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Arctic",
+        "colourful",
+        "sky",
+        "glowing"
+      ]
     },
     {
       "id": "won-0032",
       "word": "Amazon Rainforest",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Brazil",
+        "jungle",
+        "river",
+        "wildlife"
+      ]
     },
     {
       "id": "won-0033",
       "word": "Salar De Uyuni",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bolivia",
+        "salt",
+        "mirror",
+        "flatland"
+      ]
     },
     {
       "id": "won-0034",
       "word": "Giant Sequoia",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "California",
+        "tree",
+        "forest",
+        "enormous"
+      ]
     },
     {
       "id": "won-0035",
       "word": "Mount Fuji",
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Japan",
+        "volcano",
+        "snow",
+        "summit"
+      ]
     },
     {
       "id": "won-0036",
       "word": "Louvre Museum",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Paris",
+        "Mona Lisa",
+        "art",
+        "pyramid"
+      ]
     },
     {
       "id": "won-0037",
       "word": "Empire State Building",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "New York",
+        "skyscraper",
+        "Manhattan",
+        "observation deck"
+      ]
     },
     {
       "id": "won-0038",
       "word": "Christ The Redeemer",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Brazil",
+        "Rio",
+        "arms",
+        "mountaintop"
+      ]
     },
     {
       "id": "won-0039",
       "word": "Brandenburg Gate",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Berlin",
+        "Germany",
+        "quadriga",
+        "arch"
+      ]
     },
     {
       "id": "won-0040",
       "word": "Milan Cathedral",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Italy",
+        "church",
+        "spires",
+        "Gothic"
+      ]
     },
     {
       "id": "won-0041",
       "word": "Sagrada Familia",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Barcelona",
+        "Spain",
+        "Gaudi",
+        "basilica"
+      ]
     },
     {
       "id": "won-0042",
       "word": "Neuschwanstein Castle",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Germany",
+        "Bavaria",
+        "fairytale",
+        "mountains"
+      ]
     },
     {
       "id": "won-0043",
       "word": "Mysore Palace",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Karnataka",
+        "royal",
+        "lights",
+        "king"
+      ]
     },
     {
       "id": "won-0044",
       "word": "Konark Sun Temple",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Odisha",
+        "chariot",
+        "wheels",
+        "sun"
+      ]
     },
     {
       "id": "won-0045",
       "word": "Ajanta Caves",
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Maharashtra",
+        "paintings",
+        "Buddhist",
+        "rock"
+      ]
     },
     {
       "id": "wp-0046",
@@ -323,7 +593,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Gujarat",
+        "Sardar Patel",
+        "tall",
+        "Narmada"
+      ],
       "image": null
     },
     {
@@ -332,7 +607,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Amritsar",
+        "Sikhism",
+        "holy",
+        "reflection"
+      ],
       "image": null
     },
     {
@@ -341,7 +621,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Delhi",
+        "flower",
+        "worship",
+        "petals"
+      ],
       "image": null
     },
     {
@@ -350,7 +635,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Athens",
+        "Greece",
+        "hilltop",
+        "Parthenon"
+      ],
       "image": null
     },
     {
@@ -359,7 +649,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Cambodia",
+        "temple",
+        "Khmer",
+        "moat"
+      ],
       "image": null
     },
     {
@@ -368,8 +663,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "monuments-landmarks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "America",
+        "presidents",
+        "faces",
+        "granite"
+      ]
     },
     {
       "id": "wp-0052",
@@ -377,8 +676,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Turkey",
+        "tomb",
+        "king",
+        "marble"
+      ]
     },
     {
       "id": "wp-0053",
@@ -386,8 +689,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Greece",
+        "island",
+        "giant",
+        "sun god"
+      ]
     },
     {
       "id": "wp-0054",
@@ -395,8 +702,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "ancient-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "China",
+        "soldiers",
+        "clay",
+        "emperor"
+      ]
     },
     {
       "id": "wp-0055",
@@ -404,8 +715,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Jordan",
+        "salt",
+        "floating",
+        "water"
+      ]
     },
     {
       "id": "wp-0056",
@@ -413,8 +728,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Ireland",
+        "ocean",
+        "coast",
+        "seabirds"
+      ]
     },
     {
       "id": "wp-0057",
@@ -422,8 +741,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Vietnam",
+        "islands",
+        "boats",
+        "limestone"
+      ]
     },
     {
       "id": "wp-0058",
@@ -431,8 +754,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "natural-wonders",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Arizona",
+        "sandstone",
+        "curves",
+        "narrow"
+      ]
     },
     {
       "id": "wp-0059",
@@ -440,8 +767,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "ships",
+        "locks",
+        "ocean",
+        "shortcut"
+      ]
     },
     {
       "id": "wp-0060",
@@ -449,8 +780,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "France",
+        "England",
+        "train",
+        "underwater"
+      ]
     },
     {
       "id": "wp-0061",
@@ -458,8 +793,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "New York",
+        "East River",
+        "cables",
+        "walking"
+      ]
     },
     {
       "id": "wp-0062",
@@ -467,8 +806,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "France",
+        "highway",
+        "valley",
+        "pillars"
+      ]
     },
     {
       "id": "wp-0063",
@@ -476,8 +819,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "China",
+        "Yangtze",
+        "electricity",
+        "reservoir"
+      ]
     },
     {
       "id": "wp-0064",
@@ -485,8 +832,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Nevada",
+        "Colorado River",
+        "concrete",
+        "electricity"
+      ]
     },
     {
       "id": "wp-0065",
@@ -494,8 +845,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Seattle",
+        "observation",
+        "futuristic",
+        "skyline"
+      ]
     },
     {
       "id": "wp-0066",
@@ -503,8 +858,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "relatedWords": [
+        "Toronto",
+        "Canada",
+        "antenna",
+        "observation"
+      ]
     },
     {
       "id": "wp-0067",
@@ -512,7 +871,12 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Singapore",
+        "infinity pool",
+        "rooftop",
+        "three buildings"
+      ],
       "image": null
     },
     {
@@ -521,8 +885,868 @@
       "categoryId": "wonders-places",
       "subcategoryId": "famous-structures",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Brussels",
+        "Belgium",
+        "spheres",
+        "molecule"
+      ],
       "image": null
+    },
+    {
+      "id": "wp-0069",
+      "word": "Buckingham Palace",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "London",
+        "royal family",
+        "king",
+        "guards"
+      ]
+    },
+    {
+      "id": "wp-0070",
+      "word": "Palace of Versailles",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "France",
+        "Louis XIV",
+        "gardens",
+        "royalty"
+      ]
+    },
+    {
+      "id": "wp-0071",
+      "word": "St. Basil's Cathedral",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Moscow",
+        "Russia",
+        "colourful domes",
+        "church"
+      ]
+    },
+    {
+      "id": "wp-0072",
+      "word": "Pompeii",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Italy",
+        "volcano",
+        "ash",
+        "Roman city"
+      ]
+    },
+    {
+      "id": "wp-0073",
+      "word": "Chichen Itza",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Mexico",
+        "Maya",
+        "pyramid",
+        "temple"
+      ]
+    },
+    {
+      "id": "wp-0074",
+      "word": "Tikal",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Guatemala",
+        "Maya",
+        "jungle",
+        "temples"
+      ]
+    },
+    {
+      "id": "wp-0075",
+      "word": "Easter Island",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Pacific Ocean",
+        "Chile",
+        "stone heads",
+        "island"
+      ]
+    },
+    {
+      "id": "wp-0076",
+      "word": "Ellora Caves",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Maharashtra",
+        "rock-cut",
+        "Kailasa Temple",
+        "carvings"
+      ]
+    },
+    {
+      "id": "wp-0077",
+      "word": "Elephanta Caves",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Mumbai",
+        "island",
+        "Shiva",
+        "sculptures"
+      ]
+    },
+    {
+      "id": "wp-0078",
+      "word": "Sanchi Stupa",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Madhya Pradesh",
+        "Buddhism",
+        "dome",
+        "Ashoka"
+      ]
+    },
+    {
+      "id": "wp-0079",
+      "word": "Victoria Memorial",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Kolkata",
+        "marble",
+        "museum",
+        "British era"
+      ]
+    },
+    {
+      "id": "wp-0080",
+      "word": "Brihadeeswarar Temple",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Tamil Nadu",
+        "Thanjavur",
+        "Chola",
+        "tower"
+      ]
+    },
+    {
+      "id": "wp-0081",
+      "word": "Meenakshi Temple",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Madurai",
+        "Tamil Nadu",
+        "colourful towers",
+        "goddess"
+      ]
+    },
+    {
+      "id": "wp-0082",
+      "word": "Rashtrapati Bhavan",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "New Delhi",
+        "president",
+        "residence",
+        "ceremony"
+      ]
+    },
+    {
+      "id": "wp-0083",
+      "word": "Bodh Gaya",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Bihar",
+        "Buddha",
+        "enlightenment",
+        "Bodhi tree"
+      ]
+    },
+    {
+      "id": "wp-0084",
+      "word": "Mount Kilimanjaro",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Tanzania",
+        "Africa",
+        "snow",
+        "climbing"
+      ]
+    },
+    {
+      "id": "wp-0085",
+      "word": "Iguazu Falls",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Argentina",
+        "Brazil",
+        "waterfall",
+        "rainforest"
+      ]
+    },
+    {
+      "id": "wp-0086",
+      "word": "Lake Baikal",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Russia",
+        "deepest",
+        "freshwater",
+        "ice"
+      ]
+    },
+    {
+      "id": "wp-0087",
+      "word": "Uluru",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Australia",
+        "red rock",
+        "desert",
+        "Aboriginal"
+      ]
+    },
+    {
+      "id": "wp-0088",
+      "word": "Plitvice Lakes",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Croatia",
+        "lakes",
+        "waterfalls",
+        "wooden paths"
+      ]
+    },
+    {
+      "id": "wp-0089",
+      "word": "Mount Etna",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Sicily",
+        "Italy",
+        "volcano",
+        "lava"
+      ]
+    },
+    {
+      "id": "wp-0090",
+      "word": "Angel Falls",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Venezuela",
+        "waterfall",
+        "high",
+        "jungle"
+      ]
+    },
+    {
+      "id": "wp-0091",
+      "word": "Mount Bromo",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Indonesia",
+        "volcano",
+        "crater",
+        "smoke"
+      ]
+    },
+    {
+      "id": "wp-0092",
+      "word": "Lake Louise",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Canada",
+        "turquoise",
+        "mountains",
+        "canoes"
+      ]
+    },
+    {
+      "id": "wp-0093",
+      "word": "Zhangjiajie National Forest Park",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "China",
+        "tall pillars",
+        "mist",
+        "Avatar"
+      ]
+    },
+    {
+      "id": "wp-0094",
+      "word": "Yosemite National Park",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "California",
+        "waterfalls",
+        "granite",
+        "valley"
+      ]
+    },
+    {
+      "id": "wp-0095",
+      "word": "Table Mountain",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Cape Town",
+        "South Africa",
+        "flat top",
+        "cable car"
+      ]
+    },
+    {
+      "id": "wp-0096",
+      "word": "Mount Vesuvius",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": [
+        "Italy",
+        "volcano",
+        "Pompeii",
+        "eruption"
+      ]
+    },
+    {
+      "id": "wp-0097",
+      "word": "Petronas Towers",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Malaysia",
+        "Kuala Lumpur",
+        "twin towers",
+        "skybridge"
+      ]
+    },
+    {
+      "id": "wp-0098",
+      "word": "Tokyo Tower",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Japan",
+        "red and white",
+        "broadcasting",
+        "observation"
+      ]
+    },
+    {
+      "id": "wp-0099",
+      "word": "One World Trade Center",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "New York",
+        "Manhattan",
+        "skyscraper",
+        "Freedom Tower"
+      ]
+    },
+    {
+      "id": "wp-0100",
+      "word": "Akashi Kaikyo Bridge",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Japan",
+        "suspension",
+        "Kobe",
+        "sea"
+      ]
+    },
+    {
+      "id": "wp-0101",
+      "word": "Palace of Westminster",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "London",
+        "Parliament",
+        "Thames",
+        "Gothic"
+      ]
+    },
+    {
+      "id": "wp-0102",
+      "word": "Himeji Castle",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Japan",
+        "samurai",
+        "white",
+        "fortress"
+      ]
+    },
+    {
+      "id": "wp-0103",
+      "word": "Forbidden City",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Beijing",
+        "China",
+        "emperor",
+        "palace"
+      ]
+    },
+    {
+      "id": "wp-0104",
+      "word": "Lincoln Memorial",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Washington DC",
+        "Abraham Lincoln",
+        "marble",
+        "president"
+      ]
+    },
+    {
+      "id": "wp-0105",
+      "word": "Pantheon",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Rome",
+        "dome",
+        "columns",
+        "ancient"
+      ]
+    },
+    {
+      "id": "wp-0106",
+      "word": "Kremlin",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Moscow",
+        "Russia",
+        "red square",
+        "government"
+      ]
+    },
+    {
+      "id": "wp-0107",
+      "word": "Pena Palace",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Portugal",
+        "Sintra",
+        "colourful",
+        "hilltop"
+      ]
+    },
+    {
+      "id": "wp-0108",
+      "word": "Alhambra",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": [
+        "Spain",
+        "Granada",
+        "palace",
+        "gardens"
+      ]
+    },    {
+      "id": "wp-0109",
+      "word": "Hagia Sophia",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Istanbul", "Dome", "Church", "Mosque"]
+    },
+    {
+      "id": "wp-0110",
+      "word": "Notre-Dame Cathedral",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Paris", "Gothic", "Church", "Gargoyle"]
+    },
+    {
+      "id": "wp-0111",
+      "word": "St. Peter's Basilica",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Vatican", "Rome", "Dome", "Pope"]
+    },
+    {
+      "id": "wp-0112",
+      "word": "Blue Mosque",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Istanbul", "Minaret", "Tiles", "Prayer"]
+    },
+    {
+      "id": "wp-0113",
+      "word": "Arc de Triomphe",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Paris", "Arch", "Victory", "Champs-Élysées"]
+    },
+    {
+      "id": "wp-0114",
+      "word": "Trevi Fountain",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Rome", "Coins", "Water", "Sculptures"]
+    },
+    {
+      "id": "wp-0115",
+      "word": "Westminster Abbey",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["London", "Coronation", "Church", "Royal"]
+    },
+    {
+      "id": "wp-0116",
+      "word": "St. Paul's Cathedral",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["London", "Dome", "Church", "Whispering"]
+    },
+    {
+      "id": "wp-0117",
+      "word": "Prague Castle",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Czechia", "Royal", "Palace", "Charles Bridge"]
+    },
+    {
+      "id": "wp-0118",
+      "word": "Edinburgh Castle",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Scotland", "Hill", "Fortress", "Cannon"]
+    },
+    {
+      "id": "wp-0119",
+      "word": "Osaka Castle",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Japan", "Samurai", "Moat", "Warrior"]
+    },
+    {
+      "id": "wp-0120",
+      "word": "Mont Saint-Michel",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["France", "Island", "Abbey", "Tides"]
+    },
+    {
+      "id": "wp-0121",
+      "word": "Potala Palace",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Tibet", "Mountain", "Dalai Lama", "Monastery"]
+    },
+    {
+      "id": "wp-0122",
+      "word": "Sheikh Zayed Grand Mosque",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Abu Dhabi", "White Marble", "Domes", "Reflection"]
+    },
+    {
+      "id": "wp-0123",
+      "word": "Hollywood Sign",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Los Angeles", "Hills", "Movies", "Letters"]
+    },
+    {
+      "id": "wp-0124",
+      "word": "Washington Monument",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["America", "Obelisk", "Capital", "George Washington"]
+    },
+    {
+      "id": "wp-0125",
+      "word": "Spanish Steps",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Rome", "Stairs", "Piazza", "Trinita"]
+    },
+    {
+      "id": "wp-0126",
+      "word": "Great Mosque of Cordoba",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Spain", "Arches", "Columns", "Andalusia"]
+    },
+    {
+      "id": "wp-0127",
+      "word": "Borobudur",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Indonesia", "Buddha", "Temple", "Stone"]
+    },
+    {
+      "id": "wp-0128",
+      "word": "Bagan",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Myanmar", "Temples", "Pagodas", "Plains"]
+    },
+    {
+      "id": "wp-0129",
+      "word": "Teotihuacan",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Mexico", "Pyramids", "Aztec", "Ancient City"]
+    },
+    {
+      "id": "wp-0130",
+      "word": "Persepolis",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Persia", "Iran", "Ruins", "Kings"]
+    },
+    {
+      "id": "wp-0131",
+      "word": "Delphi",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Greece", "Oracle", "Apollo", "Temple"]
+    },
+    {
+      "id": "wp-0132",
+      "word": "Olympia",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Greece", "Athletes", "Stadium", "Ancient Games"]
+    },
+    {
+      "id": "wp-0133",
+      "word": "Troy",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Greece", "Wooden Horse", "War", "Homer"]
+    },
+    {
+      "id": "wp-0134",
+      "word": "Hampi",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Karnataka", "Vijayanagara", "Ruins", "Stone Chariot"]
+    },
+    {
+      "id": "wp-0135",
+      "word": "Khajuraho Temples",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Madhya Pradesh", "Carvings", "Stone", "Sculptures"]
+    },
+    {
+      "id": "wp-0136",
+      "word": "Fatehpur Sikri",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Akbar", "Mughal", "Red Sandstone", "Palace"]
+    },
+    {
+      "id": "wp-0137",
+      "word": "Nalanda",
+      "categoryId": "wonders-places",
+      "subcategoryId": "ancient-wonders",
+      "language": "en",
+      "relatedWords": ["Bihar", "University", "Monks", "Learning"]
+    },
+    {
+      "id": "wp-0138",
+      "word": "Jantar Mantar",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Jaipur", "Astronomy", "Sundial", "Stars"]
+    },
+    {
+      "id": "wp-0139",
+      "word": "Rani ki Vav",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Gujarat", "Stepwell", "Underground", "Carvings"]
+    },
+    {
+      "id": "wp-0140",
+      "word": "Gol Gumbaz",
+      "categoryId": "wonders-places",
+      "subcategoryId": "famous-structures",
+      "language": "en",
+      "relatedWords": ["Bijapur", "Dome", "Echo", "Whispering Gallery"]
+    },
+    {
+      "id": "wp-0141",
+      "word": "Giant's Causeway",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Ireland", "Basalt", "Hexagons", "Coast"]
+    },
+    {
+      "id": "wp-0142",
+      "word": "Galapagos Islands",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Ecuador", "Tortoises", "Darwin", "Wildlife"]
+    },
+    {
+      "id": "wp-0143",
+      "word": "Pamukkale",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Turkey", "White Terraces", "Minerals", "Hot Springs"]
+    },
+    {
+      "id": "wp-0144",
+      "word": "Cappadocia",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Turkey", "Balloons", "Caves", "Fairy Chimneys"]
+    },
+    {
+      "id": "wp-0145",
+      "word": "Lake Titicaca",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Peru", "Bolivia", "Andes", "Floating Islands"]
+    },
+    {
+      "id": "wp-0146",
+      "word": "Jeju Island",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["South Korea", "Volcano", "Beaches", "Hallasan"]
+    },
+    {
+      "id": "wp-0147",
+      "word": "Wadi Rum",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Jordan", "Desert", "Red Sand", "Rock Formations"]
+    },
+    {
+      "id": "wp-0148",
+      "word": "Great Blue Hole",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Belize", "Ocean", "Diving", "Circular"]
+    },
+    {
+      "id": "wp-0149",
+      "word": "Lake Como",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["Italy", "Alps", "Boats", "Villages"]
+    },
+    {
+      "id": "wp-0150",
+      "word": "Fiordland National Park",
+      "categoryId": "wonders-places",
+      "subcategoryId": "natural-wonders",
+      "language": "en",
+      "relatedWords": ["New Zealand", "Fjords", "Waterfalls", "Mountains"]
     }
   ]
 }

@@ -1,7 +1,6 @@
-
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
 
 import {
@@ -37,6 +36,8 @@ import {
   type WordCategory,
 } from "@/data/word-library/categories";
 
+import { loadWordPacks } from "@/data/word-library";
+
 const GameScreen = dynamic(
   () => import("@/components/game/GameScreen"),
   {
@@ -55,7 +56,6 @@ type Category = WordCategory & {
   description: string;
   icon: typeof PawPrint;
   color: string;
-  wordCount: number;
 };
 
 const categories: Category[] = [
@@ -64,105 +64,90 @@ const categories: Category[] = [
     description: "Famous landmarks and incredible places",
     icon: Landmark,
     color: "orange",
-    wordCount: 45,
   },
   {
     ...WORD_CATEGORIES[1],
     description: "Planets, stars and space exploration",
     icon: Orbit,
     color: "blue",
-    wordCount: 50,
   },
   {
     ...WORD_CATEGORIES[2],
     description: "Inventions, discoveries and gadgets",
     icon: Microscope,
     color: "cyan",
-    wordCount: 52,
   },
   {
     ...WORD_CATEGORIES[3],
     description: "Wildlife, birds and familiar animals",
     icon: PawPrint,
     color: "orange",
-    wordCount: 72,
   },
   {
     ...WORD_CATEGORIES[4],
     description: "Indian food, world cuisine and desserts",
     icon: Utensils,
     color: "green",
-    wordCount: 71,
   },
   {
     ...WORD_CATEGORIES[5],
     description: "Popular sports, events and games",
     icon: Trophy,
     color: "yellow",
-    wordCount: 60,
   },
   {
     ...WORD_CATEGORIES[6],
     description: "Movies, superheroes and fictional worlds",
     icon: Clapperboard,
     color: "purple",
-    wordCount: 54,
   },
   {
     ...WORD_CATEGORIES[7],
     description: "Countries, cities and natural geography",
     icon: Globe2,
     color: "cyan",
-    wordCount: 74,
   },
   {
     ...WORD_CATEGORIES[8],
     description: "Instruments, dance and famous artworks",
     icon: Music2,
     color: "red",
-    wordCount: 58,
   },
   {
     ...WORD_CATEGORIES[9],
     description: "Famous people and ancient civilizations",
     icon: Users,
     color: "purple",
-    wordCount: 46,
   },
   {
     ...WORD_CATEGORIES[10],
     description: "Weather, plants and natural phenomena",
     icon: Trees,
     color: "green",
-    wordCount: 49,
   },
   {
     ...WORD_CATEGORIES[11],
     description: "The human body and everyday life",
     icon: HeartPulse,
     color: "pink",
-    wordCount: 53,
   },
   {
     ...WORD_CATEGORIES[12],
     description: "Cars, aircraft, trains and ships",
     icon: CarFront,
     color: "blue",
-    wordCount: 45,
   },
   {
     ...WORD_CATEGORIES[13],
     description: "Jobs, fashion, brands and society",
     icon: BriefcaseBusiness,
     color: "yellow",
-    wordCount: 72,
   },
   {
     ...WORD_CATEGORIES[14],
     description: "Adventure, puzzles and attractions",
     icon: Compass,
     color: "orange",
-    wordCount: 51,
   },
 ];
 
@@ -181,6 +166,61 @@ export default function Home() {
 
   const [timer, setTimer] = useState(60);
   const [categorySearch, setCategorySearch] = useState("");
+
+  const [wordCounts, setWordCounts] = useState<Record<string, number>>({});
+  const [totalUniqueWords, setTotalUniqueWords] = useState<number | null>(
+    null,
+  );
+
+  const totalCategories = WORD_CATEGORIES.length;
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function loadLibraryStats() {
+      try {
+        const packs = await loadWordPacks(
+          WORD_CATEGORIES.map((category) => category.packId),
+        );
+
+        if (cancelled) return;
+
+        const counts: Record<string, number> = {};
+        const uniqueWords = new Set<string>();
+
+        for (const pack of packs) {
+          counts[pack.id] = pack.words.length;
+
+          for (const entry of pack.words) {
+            const normalizedWord = entry.word.trim().toLowerCase();
+
+            if (normalizedWord) {
+              uniqueWords.add(normalizedWord);
+            }
+          }
+        }
+
+        setWordCounts(counts);
+        setTotalUniqueWords(uniqueWords.size);
+      } catch (error) {
+        console.error(
+          "Failed to load word library statistics:",
+          error,
+        );
+      }
+    }
+
+    void loadLibraryStats();
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const formattedTotalWords =
+    totalUniqueWords === null
+      ? "—"
+      : totalUniqueWords.toLocaleString("en-IN");
 
   const filteredCategories = useMemo(
     () =>
@@ -302,9 +342,9 @@ export default function Home() {
             </h1>
 
             <p className="hero-description">
-              One word. One clue-giver. One teammate.
+              {formattedTotalWords} unique words across {totalCategories} exciting categories.
               <br className="desktop-break" />
-              How well can you get inside each other&apos;s heads?
+              One clue-giver, one teammate, and a race against time.
             </p>
 
             <button
@@ -327,7 +367,59 @@ export default function Home() {
                 Endless possibilities
               </span>
             </div>
+
+            <div className="library-highlights">
+              <div className="library-highlight">
+                <strong>{formattedTotalWords}</strong>
+                <span>UNIQUE WORDS</span>
+              </div>
+
+              <div className="library-highlight-divider" />
+
+              <div className="library-highlight">
+                <strong>{totalCategories}</strong>
+                <span>CATEGORIES</span>
+              </div>
+
+              <div className="library-highlight-divider" />
+
+              <div className="library-highlight">
+                <strong>∞</strong>
+                <span>WAYS TO PLAY</span>
+              </div>
+            </div>
           </div>
+
+          <section className="library-section">
+            <div className="section-heading">
+              <div>
+                <span className="section-kicker">EXPLORE THE LIBRARY</span>
+                <h2>
+                  {totalCategories} worlds. Countless possibilities.
+                </h2>
+              </div>
+
+              <span className="step-count">
+                {formattedTotalWords} WORDS
+              </span>
+            </div>
+
+            <div className="library-category-list">
+              {categories.map((category) => {
+                const Icon = category.icon;
+
+                return (
+                  <div className="library-category" key={category.id}>
+                    <span className={`category-icon ${category.color}`}>
+                      <Icon size={18} strokeWidth={1.8} />
+                    </span>
+
+                    <span>{category.name}</span>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
 
           <section className="how-section">
             <div className="section-heading">
@@ -416,7 +508,7 @@ export default function Home() {
               </div>
 
               <span className="selection-count">
-                {selectedCategories.length} / 15 SELECTED
+                {selectedCategories.length} / {totalCategories} SELECTED
               </span>
             </div>
 
@@ -446,6 +538,7 @@ export default function Home() {
               {filteredCategories.map((category) => {
                 const Icon = category.icon;
                 const selected = selectedCategories.includes(category.id);
+                const wordCount = wordCounts[category.packId];
 
                 return (
                   <button
@@ -464,7 +557,7 @@ export default function Home() {
                       <strong>{category.name}</strong>
                       <small>{category.description}</small>
                       <small>
-                        {category.wordCount} words ·{" "}
+                        {wordCount === undefined ? "—" : wordCount} words ·{" "}
                         {category.subcategories.length} topics
                       </small>
                     </span>

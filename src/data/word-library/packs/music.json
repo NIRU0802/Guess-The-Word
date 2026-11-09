@@ -7,406 +7,754 @@
       "word": "Guitar",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Strings",
+        "Pick",
+        "Acoustic",
+        "Strumming"
+      ]
     },
     {
       "id": "mus-0002",
       "word": "Piano",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Keys",
+        "Pedals",
+        "Melody",
+        "Grand"
+      ]
     },
     {
       "id": "mus-0003",
       "word": "Tabla",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rhythm",
+        "Hands",
+        "Membrane",
+        "Indian Classical"
+      ]
     },
     {
       "id": "mus-0004",
       "word": "Violin",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Strings",
+        "Bow",
+        "Orchestra",
+        "Chin"
+      ]
     },
     {
       "id": "mus-0005",
       "word": "Drums",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Beats",
+        "Drumsticks",
+        "Percussion",
+        "Rhythm"
+      ]
     },
     {
       "id": "mus-0006",
       "word": "Flute",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wind",
+        "Holes",
+        "Breath",
+        "Melody"
+      ]
     },
     {
       "id": "mus-0007",
       "word": "Sitar",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Strings",
+        "Plucking",
+        "Indian Classical",
+        "Resonance"
+      ]
     },
     {
       "id": "mus-0008",
       "word": "Harmonium",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Keys",
+        "Bellows",
+        "Reeds",
+        "Indian Music"
+      ]
     },
     {
       "id": "mus-0009",
       "word": "Trumpet",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Brass",
+        "Valves",
+        "Jazz",
+        "Blowing"
+      ]
     },
     {
       "id": "mus-0010",
       "word": "Saxophone",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Reeds",
+        "Jazz",
+        "Neck Strap",
+        "Wind"
+      ]
     },
     {
       "id": "mus-0011",
       "word": "Cello",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Strings",
+        "Bow",
+        "Orchestra",
+        "Large"
+      ]
     },
     {
       "id": "mus-0012",
       "word": "Harp",
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Strings",
+        "Plucking",
+        "Concert",
+        "Frame"
+      ]
     },
     {
       "id": "mus-0013",
       "word": "A R Rahman",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Composer",
+        "Film Music",
+        "Oscar",
+        "Slumdog Millionaire"
+      ]
     },
     {
       "id": "mus-0014",
       "word": "Arijit Singh",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Playback Singer",
+        "Romantic Songs",
+        "Bollywood",
+        "Melody"
+      ]
     },
     {
       "id": "mus-0015",
       "word": "Lata Mangeshkar",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Playback Singer",
+        "Nightingale",
+        "Indian Music",
+        "Classic Songs"
+      ]
     },
     {
       "id": "mus-0016",
       "word": "Taylor Swift",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Singer-Songwriter",
+        "Country Music",
+        "Pop",
+        "Concert Tours"
+      ]
     },
     {
       "id": "mus-0017",
       "word": "Michael Jackson",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Moonwalk",
+        "Pop Music",
+        "Thriller",
+        "King of Pop"
+      ]
     },
     {
       "id": "mus-0018",
       "word": "Freddie Mercury",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Queen",
+        "Rock Music",
+        "Bohemian Rhapsody",
+        "Live Aid"
+      ]
     },
     {
       "id": "mus-0019",
       "word": "Ed Sheeran",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Singer-Songwriter",
+        "Guitar",
+        "Shape of You",
+        "British"
+      ]
     },
     {
       "id": "mus-0020",
       "word": "Beyonce",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pop Singer",
+        "Single Ladies",
+        "Destiny\u0027s Child",
+        "Grammy"
+      ]
     },
     {
       "id": "mus-0021",
       "word": "Shreya Ghoshal",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Playback Singer",
+        "Melodious Voice",
+        "Bollywood",
+        "Indian Music"
+      ]
     },
     {
       "id": "mus-0022",
       "word": "Elvis Presley",
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rock and Roll",
+        "Jailhouse Rock",
+        "Graceland",
+        "King"
+      ]
     },
     {
       "id": "mus-0023",
       "word": "Bhangra",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Punjab",
+        "Dhol",
+        "Harvest Festival",
+        "Energetic"
+      ]
     },
     {
       "id": "mus-0024",
       "word": "Ballet",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ballet Shoes",
+        "Graceful",
+        "Stage",
+        "Classical"
+      ]
     },
     {
       "id": "mus-0025",
       "word": "Salsa",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Latin Music",
+        "Partner Dance",
+        "Cuba",
+        "Fast Steps"
+      ]
     },
     {
       "id": "mus-0026",
       "word": "Hip-Hop",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Street Culture",
+        "Rap",
+        "Beats",
+        "Urban"
+      ]
     },
     {
       "id": "mus-0027",
       "word": "Breakdance",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Street Dance",
+        "Spinning",
+        "Floor Moves",
+        "Urban"
+      ]
     },
     {
       "id": "mus-0028",
       "word": "Kathak",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "North India",
+        "Footwork",
+        "Storytelling",
+        "Classical"
+      ]
     },
     {
       "id": "mus-0029",
       "word": "Bharatanatyam",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tamil Nadu",
+        "Temple Dance",
+        "Hand Gestures",
+        "Classical"
+      ]
     },
     {
       "id": "mus-0030",
       "word": "Garba",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gujarat",
+        "Navratri",
+        "Circles",
+        "Clapping"
+      ]
     },
     {
       "id": "mus-0031",
       "word": "Tap Dance",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Shoes",
+        "Rhythm",
+        "Sound",
+        "Stage"
+      ]
     },
     {
       "id": "mus-0032",
       "word": "Flamenco",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Spain",
+        "Flamenco Guitar",
+        "Hand Claps",
+        "Passionate"
+      ]
     },
     {
       "id": "mus-0033",
       "word": "Jazz Dance",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Jazz Music",
+        "Improvisation",
+        "Stage",
+        "Sharp Moves"
+      ]
     },
     {
       "id": "mus-0034",
       "word": "Contemporary Dance",
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Modern",
+        "Creative Movement",
+        "Expression",
+        "Stage"
+      ]
     },
     {
       "id": "mus-0035",
       "word": "Painting",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Canvas",
+        "Brush",
+        "Colors",
+        "Easel"
+      ]
     },
     {
       "id": "mus-0036",
       "word": "Sculpture",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Three-Dimensional",
+        "Stone",
+        "Clay",
+        "Chisel"
+      ]
     },
     {
       "id": "mus-0037",
       "word": "Origami",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Paper",
+        "Folding",
+        "Japanese",
+        "Cranes"
+      ]
     },
     {
       "id": "mus-0038",
       "word": "Pottery",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Clay",
+        "Wheel",
+        "Kiln",
+        "Vases"
+      ]
     },
     {
       "id": "mus-0039",
       "word": "Photography",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Camera",
+        "Lens",
+        "Shutter",
+        "Snapshots"
+      ]
     },
     {
       "id": "mus-0040",
       "word": "Graffiti",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Walls",
+        "Spray Paint",
+        "Street Art",
+        "Murals"
+      ]
     },
     {
       "id": "mus-0041",
       "word": "Calligraphy",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Beautiful Writing",
+        "Letters",
+        "Ink",
+        "Pen"
+      ]
     },
     {
       "id": "mus-0042",
       "word": "Mosaic",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Small Pieces",
+        "Pattern",
+        "Tiles",
+        "Artwork"
+      ]
     },
     {
       "id": "mus-0043",
       "word": "Sketching",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pencil",
+        "Outline",
+        "Paper",
+        "Shading"
+      ]
     },
     {
       "id": "mus-0044",
       "word": "Cartooning",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Funny Drawings",
+        "Characters",
+        "Speech Bubbles",
+        "Panels"
+      ]
     },
     {
       "id": "mus-0045",
       "word": "Embroidery",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Needle",
+        "Thread",
+        "Fabric",
+        "Stitches"
+      ]
     },
     {
       "id": "mus-0046",
       "word": "Wood Carving",
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Chisel",
+        "Timber",
+        "Carving",
+        "Handmade"
+      ]
     },
     {
       "id": "mus-0047",
       "word": "Mona Lisa",
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Portrait",
+        "Mysterious Smile",
+        "Louvre",
+        "Leonardo"
+      ]
     },
     {
       "id": "mus-0048",
       "word": "The Starry Night",
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Night Sky",
+        "Swirling Stars",
+        "Vincent van Gogh",
+        "Museum"
+      ]
     },
     {
       "id": "mus-0049",
       "word": "The Scream",
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Expressionist Art",
+        "Open Mouth",
+        "Norway",
+        "Anxiety"
+      ]
     },
     {
       "id": "mus-0050",
       "word": "The Last Supper",
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Supper",
+        "Jesus",
+        "Twelve Disciples",
+        "Leonardo"
+      ]
     },
     {
       "id": "mus-0051",
       "word": "Girl With A Pearl Earring",
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Portrait",
+        "Pearl",
+        "Johannes Vermeer",
+        "Dutch Painting"
+      ]
     },
     {
       "id": "mus-0052",
       "word": "The Persistence Of Memory",
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Melting Clocks",
+        "Dreamlike",
+        "Salvador Dalí",
+        "Surrealism"
+      ]
     },
     {
       "id": "mus-0053",
       "word": "The Hobbit",
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bilbo",
+        "Middle-earth",
+        "Gandalf",
+        "Fantasy"
+      ]
     },
     {
       "id": "mus-0054",
       "word": "Alice In Wonderland",
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wonderland",
+        "Rabbit Hole",
+        "Mad Hatter",
+        "Lewis Carroll"
+      ]
     },
     {
       "id": "mus-0055",
       "word": "Sherlock Holmes",
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Detective",
+        "Baker Street",
+        "Dr Watson",
+        "Mystery"
+      ]
     },
     {
       "id": "mus-0056",
       "word": "The Little Prince",
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Fox",
+        "Rose",
+        "Asteroid",
+        "Antoine de Saint-Exupéry"
+      ]
     },
     {
       "id": "mus-0057",
       "word": "Panchatantra",
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Animal Fables",
+        "Moral Lessons",
+        "Talking Animals",
+        "Indian Stories"
+      ]
     },
     {
       "id": "mus-0058",
       "word": "Malgudi Days",
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "R K Narayan",
+        "Malgudi Town",
+        "Swami",
+        "Indian Stories"
+      ]
     },
     {
       "id": "ma-0059",
@@ -414,8 +762,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Strings",
+        "Bow",
+        "Orchestra",
+        "Between Violin and Cello"
+      ]
     },
     {
       "id": "ma-0060",
@@ -423,8 +776,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Lowest Strings",
+        "Large Instrument",
+        "Orchestra",
+        "Standing"
+      ]
     },
     {
       "id": "ma-0061",
@@ -432,8 +790,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Reed",
+        "Woodwind",
+        "Mouthpiece",
+        "Orchestra"
+      ]
     },
     {
       "id": "ma-0062",
@@ -441,8 +804,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Brass",
+        "Slide",
+        "Jazz Band",
+        "Deep Sound"
+      ]
     },
     {
       "id": "ma-0063",
@@ -450,8 +818,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Small Instrument",
+        "Blowing",
+        "Reeds",
+        "Blues"
+      ]
     },
     {
       "id": "ma-0064",
@@ -459,8 +832,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bellows",
+        "Keys",
+        "Folk Music",
+        "Portable"
+      ]
     },
     {
       "id": "ma-0065",
@@ -468,8 +846,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Punjabi Music",
+        "Drum",
+        "Shoulder Strap",
+        "Festivals"
+      ]
     },
     {
       "id": "ma-0066",
@@ -477,8 +860,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wind Instrument",
+        "Indian Weddings",
+        "Reed",
+        "Auspicious Music"
+      ]
     },
     {
       "id": "ma-0067",
@@ -486,8 +874,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Strings",
+        "Small Mallets",
+        "Indian Classical",
+        "Resonant"
+      ]
     },
     {
       "id": "ma-0068",
@@ -495,8 +888,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indian Classical",
+        "Strings",
+        "Plucking",
+        "South India"
+      ]
     },
     {
       "id": "ma-0069",
@@ -504,8 +902,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Double-Headed Drum",
+        "Carnatic Music",
+        "Hands",
+        "Rhythm"
+      ]
     },
     {
       "id": "ma-0070",
@@ -513,8 +916,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Small Guitar",
+        "Four Strings",
+        "Hawaii",
+        "Plucking"
+      ]
     },
     {
       "id": "ma-0071",
@@ -522,8 +930,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Strings",
+        "Round Body",
+        "Folk Music",
+        "Plucking"
+      ]
     },
     {
       "id": "ma-0072",
@@ -531,8 +944,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Strings",
+        "Small Body",
+        "Plectrum",
+        "Folk Music"
+      ]
     },
     {
       "id": "ma-0073",
@@ -540,8 +958,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wooden Bars",
+        "Mallets",
+        "Percussion",
+        "Musical Notes"
+      ]
     },
     {
       "id": "ma-0074",
@@ -549,8 +972,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Woodwind",
+        "Double Reed",
+        "Orchestra",
+        "Narrow Tube"
+      ]
     },
     {
       "id": "ma-0075",
@@ -558,8 +986,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Low Notes",
+        "Electric",
+        "Strings",
+        "Rhythm Section"
+      ]
     },
     {
       "id": "ma-0076",
@@ -567,8 +1000,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cymbals",
+        "Bass Drum",
+        "Snare",
+        "Drumsticks"
+      ]
     },
     {
       "id": "ma-0077",
@@ -576,8 +1014,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "musical-instruments",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Electronic Music",
+        "Keys",
+        "Sounds",
+        "Buttons"
+      ]
     },
     {
       "id": "ma-0078",
@@ -585,8 +1028,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Playback Singer",
+        "Yodeling",
+        "Actor",
+        "Kishore Da"
+      ]
     },
     {
       "id": "ma-0079",
@@ -594,8 +1042,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Playback Singer",
+        "Sa Re Ga Ma Pa",
+        "Bollywood",
+        "Melody"
+      ]
     },
     {
       "id": "ma-0080",
@@ -603,8 +1056,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Composer",
+        "Bollywood",
+        "Pancham Da",
+        "Classic Songs"
+      ]
     },
     {
       "id": "ma-0081",
@@ -612,8 +1070,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Carnatic Music",
+        "Classical Singer",
+        "Devotional Songs",
+        "Madurai"
+      ]
     },
     {
       "id": "ma-0082",
@@ -621,8 +1084,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Tabla",
+        "Percussion",
+        "Classical Music",
+        "Rhythm"
+      ]
     },
     {
       "id": "ma-0083",
@@ -630,8 +1098,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Hello",
+        "Rolling in the Deep",
+        "British Singer",
+        "Powerful Voice"
+      ]
     },
     {
       "id": "ma-0084",
@@ -639,8 +1112,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Baby",
+        "Pop Music",
+        "Canadian Singer",
+        "Beliebers"
+      ]
     },
     {
       "id": "ma-0085",
@@ -648,8 +1126,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Uptown Funk",
+        "Singer",
+        "Piano",
+        "Hawaii"
+      ]
     },
     {
       "id": "ma-0086",
@@ -657,8 +1140,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Umbrella",
+        "Pop Music",
+        "Barbados",
+        "Diamonds"
+      ]
     },
     {
       "id": "ma-0087",
@@ -666,8 +1154,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Hips Don\u0027t Lie",
+        "Colombia",
+        "Pop Singer",
+        "World Cup Song"
+      ]
     },
     {
       "id": "ma-0088",
@@ -675,8 +1168,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Rap",
+        "Lose Yourself",
+        "Detroit",
+        "Hip-Hop"
+      ]
     },
     {
       "id": "ma-0089",
@@ -684,8 +1182,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Rap",
+        "Canadian",
+        "Hip-Hop",
+        "Hotline Bling"
+      ]
     },
     {
       "id": "ma-0090",
@@ -693,8 +1196,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bad Guy",
+        "Pop Singer",
+        "Ocean Eyes",
+        "Unique Voice"
+      ]
     },
     {
       "id": "ma-0091",
@@ -702,8 +1210,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Classical Composer",
+        "Austria",
+        "Child Prodigy",
+        "Symphony"
+      ]
     },
     {
       "id": "ma-0092",
@@ -711,8 +1224,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Classical Composer",
+        "Germany",
+        "Symphony",
+        "Piano"
+      ]
     },
     {
       "id": "ma-0093",
@@ -720,8 +1238,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Classical Composer",
+        "Germany",
+        "Symphony",
+        "Piano"
+      ]
     },
     {
       "id": "ma-0094",
@@ -729,8 +1252,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "music-people",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Reggae",
+        "Jamaica",
+        "One Love",
+        "Dreadlocks"
+      ]
     },
     {
       "id": "ma-0095",
@@ -738,8 +1266,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Kerala",
+        "Colorful Makeup",
+        "Masks",
+        "Storytelling"
+      ]
     },
     {
       "id": "ma-0096",
@@ -747,8 +1280,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Andhra Pradesh",
+        "Classical Dance",
+        "Footwork",
+        "Expressions"
+      ]
     },
     {
       "id": "ma-0097",
@@ -756,8 +1294,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Odisha",
+        "Temple Tradition",
+        "Classical Dance",
+        "Sculpture Poses"
+      ]
     },
     {
       "id": "ma-0098",
@@ -765,8 +1308,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Gujarat",
+        "Festival",
+        "Sticks",
+        "Partner Dance"
+      ]
     },
     {
       "id": "ma-0099",
@@ -774,8 +1322,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Rajasthan",
+        "Circular Movement",
+        "Traditional Dress",
+        "Folk Dance"
+      ]
     },
     {
       "id": "ma-0100",
@@ -783,8 +1336,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Maharashtra",
+        "Lavani Songs",
+        "Dholki",
+        "Expressive"
+      ]
     },
     {
       "id": "ma-0101",
@@ -792,8 +1350,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Street Dance",
+        "Rap",
+        "Urban Culture",
+        "Improvisation"
+      ]
     },
     {
       "id": "ma-0102",
@@ -801,8 +1364,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Argentina",
+        "Partner Dance",
+        "Close Embrace",
+        "Passionate"
+      ]
     },
     {
       "id": "ma-0103",
@@ -810,8 +1378,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ballroom",
+        "Three Beats",
+        "Partner Dance",
+        "Elegant"
+      ]
     },
     {
       "id": "ma-0104",
@@ -819,8 +1392,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Middle East",
+        "Hip Movements",
+        "Rhythm",
+        "Costume"
+      ]
     },
     {
       "id": "ma-0105",
@@ -828,8 +1406,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Brazil",
+        "Carnival",
+        "Fast Rhythm",
+        "Festive"
+      ]
     },
     {
       "id": "ma-0106",
@@ -837,8 +1420,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "dance-styles",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Improvised",
+        "Personal Style",
+        "Music",
+        "Any Moves"
+      ]
     },
     {
       "id": "ma-0107",
@@ -846,8 +1434,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Water",
+        "Transparent Colors",
+        "Paper",
+        "Brush"
+      ]
     },
     {
       "id": "ma-0108",
@@ -855,8 +1448,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Canvas",
+        "Thick Colors",
+        "Brush",
+        "Slow Drying"
+      ]
     },
     {
       "id": "ma-0109",
@@ -864,8 +1462,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Paper",
+        "Glue",
+        "Craft",
+        "Sculpture"
+      ]
     },
     {
       "id": "ma-0110",
@@ -873,8 +1476,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Threads",
+        "Loom",
+        "Fabric",
+        "Interlacing"
+      ]
     },
     {
       "id": "ma-0111",
@@ -882,8 +1490,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ink",
+        "Press",
+        "Paper",
+        "Repeated Images"
+      ]
     },
     {
       "id": "ma-0112",
@@ -891,8 +1504,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Floor",
+        "Colored Powder",
+        "Diwali",
+        "Patterns"
+      ]
     },
     {
       "id": "ma-0113",
@@ -900,8 +1518,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bihar",
+        "Folk Painting",
+        "Natural Colors",
+        "Geometric Patterns"
+      ]
     },
     {
       "id": "ma-0114",
@@ -909,8 +1532,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Maharashtra",
+        "Tribal Painting",
+        "White Figures",
+        "Village Life"
+      ]
     },
     {
       "id": "ma-0115",
@@ -918,8 +1546,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Circular Design",
+        "Symmetry",
+        "Meditation",
+        "Patterns"
+      ]
     },
     {
       "id": "ma-0116",
@@ -927,8 +1560,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Moving Images",
+        "Frames",
+        "Cartoons",
+        "Characters"
+      ]
     },
     {
       "id": "ma-0117",
@@ -936,8 +1574,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Clay",
+        "Glazing",
+        "Kiln",
+        "Cups"
+      ]
     },
     {
       "id": "ma-0118",
@@ -945,8 +1588,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "art-forms",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Hot Glass",
+        "Blowing Pipe",
+        "Shaping",
+        "Artisan"
+      ]
     },
     {
       "id": "ma-0119",
@@ -954,8 +1602,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pablo Picasso",
+        "War",
+        "Black and White",
+        "Spanish Civil War"
+      ]
     },
     {
       "id": "ma-0120",
@@ -963,8 +1616,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ocean",
+        "Giant Wave",
+        "Japanese Art",
+        "Hokusai"
+      ]
     },
     {
       "id": "ma-0121",
@@ -972,8 +1630,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Renaissance",
+        "Venus",
+        "Seashell",
+        "Sandro Botticelli"
+      ]
     },
     {
       "id": "ma-0122",
@@ -981,8 +1644,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Auguste Rodin",
+        "Bronze",
+        "Thinking Pose",
+        "Sculpture"
+      ]
     },
     {
       "id": "ma-0123",
@@ -990,8 +1658,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Michelangelo",
+        "Marble",
+        "Florence",
+        "Renaissance"
+      ]
     },
     {
       "id": "ma-0124",
@@ -999,8 +1672,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Gustav Klimt",
+        "Golden Colors",
+        "Embrace",
+        "Painting"
+      ]
     },
     {
       "id": "ma-0125",
@@ -1008,8 +1686,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Farm Couple",
+        "Pitchfork",
+        "American Artist",
+        "Grant Wood"
+      ]
     },
     {
       "id": "ma-0126",
@@ -1017,8 +1700,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "famous-artworks",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Water Garden",
+        "Flowers",
+        "Claude Monet",
+        "Impressionism"
+      ]
     },
     {
       "id": "ma-0127",
@@ -1026,8 +1714,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pirates",
+        "Treasure Map",
+        "Jim Hawkins",
+        "Robert Louis Stevenson"
+      ]
     },
     {
       "id": "ma-0128",
@@ -1035,8 +1728,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mississippi River",
+        "Huckleberry Finn",
+        "Mark Twain",
+        "Boyhood"
+      ]
     },
     {
       "id": "ma-0129",
@@ -1044,8 +1742,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Giantess",
+        "School",
+        "Roald Dahl",
+        "Gifted Girl"
+      ]
     },
     {
       "id": "ma-0130",
@@ -1053,8 +1756,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Chocolate Factory",
+        "Willy Wonka",
+        "Golden Ticket",
+        "Charlie"
+      ]
     },
     {
       "id": "ma-0131",
@@ -1062,8 +1770,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Santiago",
+        "Treasure",
+        "Personal Legend",
+        "Paulo Coelho"
+      ]
     },
     {
       "id": "ma-0132",
@@ -1071,8 +1784,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Diary",
+        "World War II",
+        "Amsterdam",
+        "Holocaust"
+      ]
     },
     {
       "id": "ma-0133",
@@ -1080,8 +1798,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ayodhya",
+        "Lord Rama",
+        "Sita",
+        "Hanuman"
+      ]
     },
     {
       "id": "ma-0134",
@@ -1089,8 +1812,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pandavas",
+        "Kauravas",
+        "Kurukshetra",
+        "Krishna"
+      ]
     },
     {
       "id": "ma-0135",
@@ -1098,8 +1826,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Adventure Club",
+        "Five Children",
+        "Enid Blyton",
+        "Mystery"
+      ]
     },
     {
       "id": "ma-0136",
@@ -1107,8 +1840,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Secret Place",
+        "Garden",
+        "Mary Lennox",
+        "Frances Hodgson Burnett"
+      ]
     },
     {
       "id": "ma-0137",
@@ -1116,8 +1854,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Deserted Island",
+        "Shipwreck",
+        "Friday",
+        "Daniel Defoe"
+      ]
     },
     {
       "id": "ma-0138",
@@ -1125,8 +1868,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Jules Verne",
+        "Phileas Fogg",
+        "Travel",
+        "Eighty Days"
+      ]
     },
     {
       "id": "ma-0139",
@@ -1134,8 +1882,13 @@
       "categoryId": "music-arts",
       "subcategoryId": "books-literature",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Neverland",
+        "Fairies",
+        "Captain Hook",
+        "Lost Boys"
+      ]
     }
   ]
 }

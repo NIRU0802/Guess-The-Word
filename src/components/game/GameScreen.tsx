@@ -146,7 +146,6 @@ export default function GameScreen({
 
   const wordsAreVisible = isWordsVisible || isHoldingToReveal;
 
-  // Selecting a category automatically includes every subcategory.
   const pool = useMemo(
     () =>
       loadedPacks
@@ -524,6 +523,24 @@ export default function GameScreen({
     </div>
   );
 
+  const categoryChips = (
+    <div className="forge-category-list">
+      {selectedCategoryNames.map((name) => {
+        const CategoryIcon = getCategoryIcon(name);
+
+        return (
+          <span
+            className="forge-category-chip"
+            key={name}
+          >
+            <CategoryIcon size={13} strokeWidth={2} />
+            {name}
+          </span>
+        );
+      })}
+    </div>
+  );
+
   return (
     <section
       className={`mobile-game-screen forge-game-screen ${
@@ -609,24 +626,24 @@ export default function GameScreen({
               </span>
             </div>
 
-            <div className="mobile-game-timer-wrap forge-timer-wrap">
-              <GameTimer
-                remainingSeconds={remainingSeconds}
-                totalSeconds={timerSeconds}
-                isRunning={false}
-              />
-            </div>
-
-            <div className="mobile-game-word-card forge-word-card">
-              <div className="forge-card-heading">
-                <span>YOUR SECRET WORD</span>
-
-                <span className="forge-private-label">
-                  <span /> PRIVATE
-                </span>
+            <div className="forge-timer-stage">
+              <div className="forge-timer-categories forge-timer-categories-top">
+                {categoryChips}
               </div>
 
-              {holdToRevealArea}
+              <div className="mobile-game-timer-wrap forge-timer-wrap">
+                <GameTimer
+                  remainingSeconds={remainingSeconds}
+                  totalSeconds={timerSeconds}
+                  isRunning={false}
+                />
+              </div>
+
+              <div className="forge-timer-categories forge-timer-categories-bottom">
+                <span className="forge-timer-stage-caption">
+                  SELECTED CATEGORIES
+                </span>
+              </div>
             </div>
 
             {cycleRestarted && (
@@ -636,28 +653,24 @@ export default function GameScreen({
               </div>
             )}
 
-            <div className="forge-game-footer">
-              <div className="forge-category-list">
-                {selectedCategoryNames.map((name) => {
-                  const CategoryIcon = getCategoryIcon(name);
+            <div className="mobile-game-word-card forge-word-card">
+              <div className="forge-card-heading forge-card-heading-updated">
+                <span className="forge-secret-heading">
+                  YOUR SECRET WORD
+                </span>
 
-                  return (
-                    <span
-                      className="forge-category-chip"
-                      key={name}
-                    >
-                      <CategoryIcon size={13} strokeWidth={2} />
-                      {name}
-                    </span>
-                  );
-                })}
+                <span className="forge-word-progress">
+                  <span>{history.length}</span>
+                  <span className="forge-progress-divider">/</span>
+                  <span>{pool.length} WORDS</span>
+                </span>
+
+                <span className="forge-private-label">
+                  <span /> PRIVATE
+                </span>
               </div>
 
-              <div className="forge-word-progress">
-                <span>{history.length}</span>
-                <span className="forge-progress-divider">/</span>
-                <span>{pool.length} WORDS</span>
-              </div>
+              {holdToRevealArea}
             </div>
           </main>
 

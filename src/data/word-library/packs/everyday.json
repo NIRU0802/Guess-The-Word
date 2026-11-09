@@ -7,504 +7,936 @@
       "word": "Doctor",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hospital",
+        "Stethoscope",
+        "Patients",
+        "Medicine"
+      ]
     },
     {
       "id": "lif-0002",
       "word": "Teacher",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "School",
+        "Lessons",
+        "Chalk",
+        "Students"
+      ]
     },
     {
       "id": "lif-0003",
       "word": "Pilot",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cockpit",
+        "Aircraft",
+        "Airport",
+        "Flight"
+      ]
     },
     {
       "id": "lif-0004",
       "word": "Chef",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kitchen",
+        "Recipe",
+        "Apron",
+        "Restaurant"
+      ]
     },
     {
       "id": "lif-0005",
       "word": "Firefighter",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Fire Engine",
+        "Hose",
+        "Rescue",
+        "Emergency"
+      ]
     },
     {
       "id": "lif-0006",
       "word": "Police Officer",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Badge",
+        "Patrol",
+        "Police Station",
+        "Law"
+      ]
     },
     {
       "id": "lif-0007",
       "word": "Scientist",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Experiment",
+        "Laboratory",
+        "Research",
+        "Discovery"
+      ]
     },
     {
       "id": "lif-0008",
       "word": "Photographer",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Camera",
+        "Portrait",
+        "Lens",
+        "Snapshot"
+      ]
     },
     {
       "id": "lif-0009",
       "word": "Architect",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Blueprint",
+        "Building",
+        "Design",
+        "Construction"
+      ]
     },
     {
       "id": "lif-0010",
       "word": "Dentist",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Teeth",
+        "Toothbrush",
+        "Clinic",
+        "Braces"
+      ]
     },
     {
       "id": "lif-0011",
       "word": "Farmer",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Crops",
+        "Tractor",
+        "Harvest",
+        "Fields"
+      ]
     },
     {
       "id": "lif-0012",
       "word": "Engineer",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Machines",
+        "Design",
+        "Bridge",
+        "Technology"
+      ]
     },
     {
       "id": "lif-0013",
       "word": "Detective",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mystery",
+        "Evidence",
+        "Clues",
+        "Investigation"
+      ]
     },
     {
       "id": "lif-0014",
       "word": "Journalist",
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "News",
+        "Interview",
+        "Newspaper",
+        "Report"
+      ]
     },
     {
       "id": "lif-0015",
       "word": "Sneakers",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Laces",
+        "Sole",
+        "Sportswear",
+        "Footwear"
+      ]
     },
     {
       "id": "lif-0016",
       "word": "Crown",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Royalty",
+        "King",
+        "Queen",
+        "Jewels"
+      ]
     },
     {
       "id": "lif-0017",
       "word": "Necklace",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pendant",
+        "Gold",
+        "Jewellery",
+        "Chain"
+      ]
     },
     {
       "id": "lif-0018",
       "word": "Wristwatch",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Time",
+        "Dial",
+        "Wrist",
+        "Alarm"
+      ]
     },
     {
       "id": "lif-0019",
       "word": "Helmet",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Safety",
+        "Head",
+        "Protection",
+        "Bicycle"
+      ]
     },
     {
       "id": "lif-0020",
       "word": "Scarf",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Winter",
+        "Neck",
+        "Wool",
+        "Warmth"
+      ]
     },
     {
       "id": "lif-0021",
       "word": "Saree",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Traditional",
+        "Fabric",
+        "Drape",
+        "Blouse"
+      ]
     },
     {
       "id": "lif-0022",
       "word": "Turban",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Headwear",
+        "Cloth",
+        "Traditional",
+        "Wrapped"
+      ]
     },
     {
       "id": "lif-0023",
       "word": "Jeans",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Denim",
+        "Pockets",
+        "Trousers",
+        "Casual"
+      ]
     },
     {
       "id": "lif-0024",
       "word": "Raincoat",
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rain",
+        "Waterproof",
+        "Monsoon",
+        "Hood"
+      ]
     },
     {
       "id": "lif-0025",
       "word": "LEGO",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bricks",
+        "Building",
+        "Toy",
+        "Blocks"
+      ]
     },
     {
       "id": "lif-0026",
       "word": "Nike",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Sportswear",
+        "Swoosh",
+        "Shoes",
+        "Athlete"
+      ]
     },
     {
       "id": "lif-0027",
       "word": "Adidas",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Three Stripes",
+        "Sportswear",
+        "Shoes",
+        "Athlete"
+      ]
     },
     {
       "id": "lif-0028",
       "word": "Coca-Cola",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Soft Drink",
+        "Red",
+        "Bottle",
+        "Fizz"
+      ]
     },
     {
       "id": "lif-0029",
       "word": "Pepsi",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Soft Drink",
+        "Blue",
+        "Fizz",
+        "Cola"
+      ]
     },
     {
       "id": "lif-0030",
       "word": "Apple",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "iPhone",
+        "MacBook",
+        "Technology",
+        "Logo"
+      ]
     },
     {
       "id": "lif-0031",
       "word": "Samsung",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Galaxy",
+        "Smartphone",
+        "Electronics",
+        "Korea"
+      ]
     },
     {
       "id": "lif-0032",
       "word": "Sony",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Headphones",
+        "Television",
+        "Electronics",
+        "PlayStation"
+      ]
     },
     {
       "id": "lif-0033",
       "word": "Disney",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Animation",
+        "Theme Park",
+        "Cartoons",
+        "Fairy Tales"
+      ]
     },
     {
       "id": "lif-0034",
       "word": "IKEA",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Furniture",
+        "Home",
+        "Flat Pack",
+        "Showroom"
+      ]
     },
     {
       "id": "lif-0035",
-      "word": "McDonald's",
+      "word": "McDonald\u0027s",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Burgers",
+        "Fries",
+        "Golden Arches",
+        "Fast Food"
+      ]
     },
     {
       "id": "lif-0036",
       "word": "Amul",
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dairy",
+        "Butter",
+        "Milk",
+        "India"
+      ]
     },
     {
       "id": "lif-0037",
       "word": "ATM",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cash",
+        "Machine",
+        "PIN",
+        "Withdrawal"
+      ]
     },
     {
       "id": "lif-0038",
       "word": "Bank",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Money",
+        "Account",
+        "Savings",
+        "Branch"
+      ]
     },
     {
       "id": "lif-0039",
       "word": "Credit Card",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Payment",
+        "Plastic",
+        "PIN",
+        "Swipe"
+      ]
     },
     {
       "id": "lif-0040",
       "word": "Piggy Bank",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Savings",
+        "Coins",
+        "Childhood",
+        "Money"
+      ]
     },
     {
       "id": "lif-0041",
       "word": "Stock Market",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Shares",
+        "Trading",
+        "Investors",
+        "Prices"
+      ]
     },
     {
       "id": "lif-0042",
       "word": "Shopping Mall",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Stores",
+        "Escalator",
+        "Food Court",
+        "Shopping"
+      ]
     },
     {
       "id": "lif-0043",
       "word": "Supermarket",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Groceries",
+        "Checkout",
+        "Cart",
+        "Aisles"
+      ]
     },
     {
       "id": "lif-0044",
       "word": "Cheque",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Payment",
+        "Signature",
+        "Paper",
+        "Bank"
+      ]
     },
     {
       "id": "lif-0045",
       "word": "Coin",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Metal",
+        "Pocket",
+        "Toss",
+        "Change"
+      ]
     },
     {
       "id": "lif-0046",
       "word": "Currency Note",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rupees",
+        "Paper",
+        "Wallet",
+        "Payment"
+      ]
     },
     {
       "id": "lif-0047",
       "word": "Online Shopping",
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Website",
+        "Cart",
+        "Delivery",
+        "Checkout"
+      ]
     },
     {
       "id": "lif-0048",
       "word": "Classroom",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Desks",
+        "Students",
+        "Lessons",
+        "School"
+      ]
     },
     {
       "id": "lif-0049",
       "word": "Blackboard",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Chalk",
+        "Writing",
+        "Class",
+        "Teacher"
+      ]
     },
     {
       "id": "lif-0050",
       "word": "Whiteboard",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Marker",
+        "Writing",
+        "Class",
+        "Board"
+      ]
     },
     {
       "id": "lif-0051",
       "word": "Examination",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Questions",
+        "Answers",
+        "Marks",
+        "Study"
+      ]
     },
     {
       "id": "lif-0052",
       "word": "Report Card",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Grades",
+        "Marks",
+        "School",
+        "Results"
+      ]
     },
     {
       "id": "lif-0053",
       "word": "Graduation",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Diploma",
+        "Cap",
+        "University",
+        "Ceremony"
+      ]
     },
     {
       "id": "lif-0054",
       "word": "School Bus",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Yellow",
+        "Students",
+        "Transport",
+        "Route"
+      ]
     },
     {
       "id": "lif-0055",
       "word": "Library",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Books",
+        "Reading",
+        "Shelves",
+        "Silence"
+      ]
     },
     {
       "id": "lif-0056",
       "word": "Laboratory",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Experiments",
+        "Microscope",
+        "Science",
+        "Test Tubes"
+      ]
     },
     {
       "id": "lif-0057",
       "word": "Principal",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "School",
+        "Head",
+        "Principal\u0027s Office",
+        "Rules"
+      ]
     },
     {
       "id": "lif-0058",
       "word": "School Bell",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ringing",
+        "Break",
+        "School",
+        "Periods"
+      ]
     },
     {
       "id": "lif-0059",
       "word": "Homework",
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Assignment",
+        "Books",
+        "Study",
+        "Deadline"
+      ]
     },
     {
       "id": "lif-0060",
       "word": "Diwali",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Diya",
+        "Lights",
+        "Fireworks",
+        "Festival"
+      ]
     },
     {
       "id": "lif-0061",
       "word": "Holi",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Colours",
+        "Water",
+        "Gulal",
+        "Spring"
+      ]
     },
     {
       "id": "lif-0062",
       "word": "Christmas",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Santa",
+        "Tree",
+        "Gifts",
+        "December"
+      ]
     },
     {
       "id": "lif-0063",
       "word": "Eid",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Moon",
+        "Prayer",
+        "Eid Mubarak",
+        "Celebration"
+      ]
     },
     {
       "id": "lif-0064",
       "word": "Halloween",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Costume",
+        "Pumpkin",
+        "Ghosts",
+        "October"
+      ]
     },
     {
       "id": "lif-0065",
       "word": "Navratri",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Garba",
+        "Dance",
+        "Nine Nights",
+        "Gujarat"
+      ]
     },
     {
       "id": "lif-0066",
       "word": "Ganesh Chaturthi",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ganesha",
+        "Modak",
+        "Idol",
+        "Procession"
+      ]
     },
     {
       "id": "lif-0067",
       "word": "Pongal",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Harvest",
+        "Rice",
+        "Tamil Nadu",
+        "Sun"
+      ]
     },
     {
       "id": "lif-0068",
       "word": "Onam",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kerala",
+        "Flowers",
+        "Boat Race",
+        "Onam Sadya"
+      ]
     },
     {
       "id": "lif-0069",
       "word": "Oscar",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Movies",
+        "Golden Statue",
+        "Actors",
+        "Hollywood"
+      ]
     },
     {
       "id": "lif-0070",
       "word": "Grammy",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Music",
+        "Recording",
+        "Singers",
+        "Trophy"
+      ]
     },
     {
       "id": "lif-0071",
       "word": "Nobel Prize",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Peace",
+        "Science",
+        "Literature",
+        "Laureate"
+      ]
     },
     {
       "id": "lif-0072",
       "word": "Booker Prize",
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Novel",
+        "Fiction",
+        "Literature",
+        "Author"
+      ]
     },
     {
       "id": "ls-0073",
@@ -512,8 +944,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pets",
+        "Animals",
+        "Clinic",
+        "Vaccination"
+      ]
     },
     {
       "id": "ls-0074",
@@ -521,8 +958,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Operation",
+        "Hospital",
+        "Scalpel",
+        "Patient"
+      ]
     },
     {
       "id": "ls-0075",
@@ -530,8 +972,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Books",
+        "Shelves",
+        "Borrowing",
+        "Reading"
+      ]
     },
     {
       "id": "ls-0076",
@@ -539,8 +986,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Clothing",
+        "Sketches",
+        "Fabric",
+        "Runway"
+      ]
     },
     {
       "id": "ls-0077",
@@ -548,8 +1000,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Rooms",
+        "Furniture",
+        "Decor",
+        "Floor Plan"
+      ]
     },
     {
       "id": "ls-0078",
@@ -557,8 +1014,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cartoons",
+        "Frames",
+        "Movement",
+        "Drawing"
+      ]
     },
     {
       "id": "ls-0079",
@@ -566,8 +1028,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Coding",
+        "Computer",
+        "Video Games",
+        "Programming"
+      ]
     },
     {
       "id": "ls-0080",
@@ -575,8 +1042,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wires",
+        "Switches",
+        "Power",
+        "Repair"
+      ]
     },
     {
       "id": "ls-0081",
@@ -584,8 +1056,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pipes",
+        "Water",
+        "Leak",
+        "Tap"
+      ]
     },
     {
       "id": "ls-0082",
@@ -593,8 +1070,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wood",
+        "Furniture",
+        "Saw",
+        "Workshop"
+      ]
     },
     {
       "id": "ls-0083",
@@ -602,8 +1084,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bread",
+        "Oven",
+        "Dough",
+        "Bakery"
+      ]
     },
     {
       "id": "ls-0084",
@@ -611,8 +1098,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Garage",
+        "Engine",
+        "Repair",
+        "Tools"
+      ]
     },
     {
       "id": "ls-0085",
@@ -620,8 +1112,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Haircut",
+        "Salon",
+        "Shaving",
+        "Clippers"
+      ]
     },
     {
       "id": "ls-0086",
@@ -629,8 +1126,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Flowers",
+        "Bouquet",
+        "Shop",
+        "Wedding"
+      ]
     },
     {
       "id": "ls-0087",
@@ -638,8 +1140,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Court",
+        "Justice",
+        "Gavel",
+        "Law"
+      ]
     },
     {
       "id": "ls-0088",
@@ -647,8 +1154,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "jobs-professions",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Courtroom",
+        "Client",
+        "Case",
+        "Legal"
+      ]
     },
     {
       "id": "ls-0089",
@@ -656,8 +1168,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Formal",
+        "Jacket",
+        "Buttons",
+        "Office"
+      ]
     },
     {
       "id": "ls-0090",
@@ -665,8 +1182,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Formalwear",
+        "Black",
+        "Bow Tie",
+        "Evening"
+      ]
     },
     {
       "id": "ls-0091",
@@ -674,8 +1196,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wedding",
+        "Skirt",
+        "Embroidery",
+        "Traditional"
+      ]
     },
     {
       "id": "ls-0092",
@@ -683,8 +1210,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wedding",
+        "Long Coat",
+        "Buttons",
+        "Traditional"
+      ]
     },
     {
       "id": "ls-0093",
@@ -692,8 +1224,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Japan",
+        "Traditional",
+        "Robe",
+        "Sleeves"
+      ]
     },
     {
       "id": "ls-0094",
@@ -701,8 +1238,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "South America",
+        "Rain",
+        "Clothing",
+        "Hood"
+      ]
     },
     {
       "id": "ls-0095",
@@ -710,8 +1252,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sweatshirt",
+        "Hood",
+        "Casual",
+        "Warm"
+      ]
     },
     {
       "id": "ls-0096",
@@ -719,8 +1266,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "One Piece",
+        "Clothing",
+        "Outfit",
+        "Zipper"
+      ]
     },
     {
       "id": "ls-0097",
@@ -728,8 +1280,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Straps",
+        "Workwear",
+        "Denim",
+        "Pockets"
+      ]
     },
     {
       "id": "ls-0098",
@@ -737,8 +1294,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Formal",
+        "Neck",
+        "Shirt",
+        "Knot"
+      ]
     },
     {
       "id": "ls-0099",
@@ -746,8 +1308,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Formal",
+        "Neckwear",
+        "Ribbon",
+        "Wedding"
+      ]
     },
     {
       "id": "ls-0100",
@@ -755,8 +1322,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Trousers",
+        "Shoulders",
+        "Straps",
+        "Clips"
+      ]
     },
     {
       "id": "ls-0101",
@@ -764,8 +1336,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wrist",
+        "Jewellery",
+        "Chain",
+        "Charm"
+      ]
     },
     {
       "id": "ls-0102",
@@ -773,8 +1350,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ankle",
+        "Jewellery",
+        "Foot",
+        "Chain"
+      ]
     },
     {
       "id": "ls-0103",
@@ -782,8 +1364,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pin",
+        "Clothing",
+        "Decoration",
+        "Badge"
+      ]
     },
     {
       "id": "ls-0104",
@@ -791,8 +1378,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Shirt",
+        "Sleeves",
+        "Formal",
+        "Buttons"
+      ]
     },
     {
       "id": "ls-0105",
@@ -800,8 +1392,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Princess",
+        "Headwear",
+        "Jewels",
+        "Royal"
+      ]
     },
     {
       "id": "ls-0106",
@@ -809,8 +1406,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Purse",
+        "Shoulder",
+        "Carry",
+        "Straps"
+      ]
     },
     {
       "id": "ls-0107",
@@ -818,8 +1420,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Small",
+        "Evening",
+        "Purse",
+        "Party"
+      ]
     },
     {
       "id": "ls-0108",
@@ -827,8 +1434,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Shoes",
+        "Tall",
+        "Sole",
+        "Fashion"
+      ]
     },
     {
       "id": "ls-0109",
@@ -836,8 +1448,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "fashion-accessories",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Footwear",
+        "Ankle",
+        "Leather",
+        "Laces"
+      ]
     },
     {
       "id": "ls-0110",
@@ -845,8 +1462,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mario",
+        "Console",
+        "Gaming",
+        "Nintendo Switch"
+      ]
     },
     {
       "id": "ls-0111",
@@ -854,8 +1476,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Gaming",
+        "Console",
+        "Controller",
+        "Sony"
+      ]
     },
     {
       "id": "ls-0112",
@@ -863,8 +1490,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Gaming",
+        "Console",
+        "Controller",
+        "Microsoft"
+      ]
     },
     {
       "id": "ls-0113",
@@ -872,8 +1504,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sportswear",
+        "Puma Logo",
+        "Shoes",
+        "Cat"
+      ]
     },
     {
       "id": "ls-0114",
@@ -881,8 +1518,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sportswear",
+        "Reebok Logo",
+        "Shoes",
+        "Fitness"
+      ]
     },
     {
       "id": "ls-0115",
@@ -890,8 +1532,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Search",
+        "Website",
+        "Android",
+        "Maps"
+      ]
     },
     {
       "id": "ls-0116",
@@ -899,8 +1546,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Windows",
+        "Computer",
+        "Software",
+        "Office"
+      ]
     },
     {
       "id": "ls-0117",
@@ -908,8 +1560,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Camera",
+        "Printer",
+        "Photography",
+        "Japan"
+      ]
     },
     {
       "id": "ls-0118",
@@ -917,8 +1574,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Camera",
+        "Photography",
+        "Lens",
+        "Japan"
+      ]
     },
     {
       "id": "ls-0119",
@@ -926,8 +1588,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Soft Drink",
+        "Red",
+        "Fizz",
+        "Bottle"
+      ]
     },
     {
       "id": "ls-0120",
@@ -935,8 +1602,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Instant Noodles",
+        "Yellow Packet",
+        "Masala",
+        "Soup"
+      ]
     },
     {
       "id": "ls-0121",
@@ -944,8 +1616,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Biscuits",
+        "Glucose",
+        "Tea",
+        "Yellow Packet"
+      ]
     },
     {
       "id": "ls-0122",
@@ -953,8 +1630,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indian Group",
+        "Cars",
+        "Steel",
+        "Business"
+      ]
     },
     {
       "id": "ls-0123",
@@ -962,8 +1644,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "SUV",
+        "Tractor",
+        "India",
+        "Automobile"
+      ]
     },
     {
       "id": "ls-0124",
@@ -971,8 +1658,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cars",
+        "Swift",
+        "India",
+        "Automobile"
+      ]
     },
     {
       "id": "ls-0125",
@@ -980,8 +1672,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sports Car",
+        "Italy",
+        "Racing",
+        "Horse Logo"
+      ]
     },
     {
       "id": "ls-0126",
@@ -989,8 +1686,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sports Car",
+        "Italy",
+        "Supercar",
+        "Bull Logo"
+      ]
     },
     {
       "id": "ls-0127",
@@ -998,8 +1700,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cars",
+        "Japan",
+        "Corolla",
+        "Automobile"
+      ]
     },
     {
       "id": "ls-0128",
@@ -1007,8 +1714,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "brands-products",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cars",
+        "Japan",
+        "Motorcycle",
+        "Automobile"
+      ]
     },
     {
       "id": "ls-0129",
@@ -1016,8 +1728,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Money",
+        "Account Number",
+        "Deposits",
+        "Bank"
+      ]
     },
     {
       "id": "ls-0130",
@@ -1025,8 +1742,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Payment",
+        "PIN",
+        "ATM",
+        "Plastic"
+      ]
     },
     {
       "id": "ls-0131",
@@ -1034,8 +1756,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Cash",
+        "Paper Money",
+        "Currency",
+        "Wallet"
+      ]
     },
     {
       "id": "ls-0132",
@@ -1043,8 +1770,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Company",
+        "Shares",
+        "Ownership",
+        "Investor"
+      ]
     },
     {
       "id": "ls-0133",
@@ -1052,8 +1784,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Business",
+        "Founder",
+        "Risk",
+        "Idea"
+      ]
     },
     {
       "id": "ls-0134",
@@ -1061,8 +1798,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "New Business",
+        "Innovation",
+        "Founder",
+        "Company"
+      ]
     },
     {
       "id": "ls-0135",
@@ -1070,8 +1812,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Earnings",
+        "Revenue",
+        "Business",
+        "Gain"
+      ]
     },
     {
       "id": "ls-0136",
@@ -1079,8 +1826,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Business",
+        "Expenses",
+        "Deficit",
+        "Money"
+      ]
     },
     {
       "id": "ls-0137",
@@ -1088,8 +1840,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Planning",
+        "Money",
+        "Expenses",
+        "Limit"
+      ]
     },
     {
       "id": "ls-0138",
@@ -1097,8 +1854,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Money",
+        "Future",
+        "Piggy Bank",
+        "Deposit"
+      ]
     },
     {
       "id": "ls-0139",
@@ -1106,8 +1868,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Money",
+        "Future",
+        "Shares",
+        "Growth"
+      ]
     },
     {
       "id": "ls-0140",
@@ -1115,8 +1882,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Protection",
+        "Policy",
+        "Risk",
+        "Premium"
+      ]
     },
     {
       "id": "ls-0141",
@@ -1124,8 +1896,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bitcoin",
+        "Digital Money",
+        "Blockchain",
+        "Online"
+      ]
     },
     {
       "id": "ls-0142",
@@ -1133,8 +1910,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Phone",
+        "Payment",
+        "QR Code",
+        "App"
+      ]
     },
     {
       "id": "ls-0143",
@@ -1142,8 +1924,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Business",
+        "Items",
+        "Amount",
+        "Customer"
+      ]
     },
     {
       "id": "ls-0144",
@@ -1151,8 +1938,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Shopping",
+        "Payment",
+        "Paper",
+        "Proof"
+      ]
     },
     {
       "id": "ls-0145",
@@ -1160,8 +1952,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Government",
+        "Money",
+        "Income",
+        "Payment"
+      ]
     },
     {
       "id": "ls-0146",
@@ -1169,8 +1966,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Borrow",
+        "Money",
+        "Repay",
+        "Bank"
+      ]
     },
     {
       "id": "ls-0147",
@@ -1178,8 +1980,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bank",
+        "Borrowing",
+        "Percentage",
+        "EMI"
+      ]
     },
     {
       "id": "ls-0148",
@@ -1187,8 +1994,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "money-business",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Money",
+        "Countries",
+        "Foreign",
+        "Conversion"
+      ]
     },
     {
       "id": "ls-0149",
@@ -1196,8 +2008,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Students",
+        "Desks",
+        "Question Paper",
+        "Invigilator"
+      ]
     },
     {
       "id": "ls-0150",
@@ -1205,8 +2022,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Projects",
+        "Experiments",
+        "School",
+        "Exhibition"
+      ]
     },
     {
       "id": "ls-0151",
@@ -1214,8 +2036,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Students",
+        "Classroom",
+        "Responsibility",
+        "Attendance"
+      ]
     },
     {
       "id": "ls-0152",
@@ -1223,8 +2050,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Morning",
+        "Prayer",
+        "School",
+        "Students"
+      ]
     },
     {
       "id": "ls-0153",
@@ -1232,8 +2064,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "University",
+        "Degree",
+        "Ceremony",
+        "Graduates"
+      ]
     },
     {
       "id": "ls-0154",
@@ -1241,8 +2078,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Education",
+        "Fees",
+        "Student",
+        "Award"
+      ]
     },
     {
       "id": "ls-0155",
@@ -1250,8 +2092,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Food",
+        "Lunch Break",
+        "School",
+        "Counter"
+      ]
     },
     {
       "id": "ls-0156",
@@ -1259,8 +2106,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Students",
+        "Rooms",
+        "College",
+        "Dormitory"
+      ]
     },
     {
       "id": "ls-0157",
@@ -1268,8 +2120,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Periods",
+        "Subjects",
+        "Time",
+        "School"
+      ]
     },
     {
       "id": "ls-0158",
@@ -1277,8 +2134,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Teamwork",
+        "Students",
+        "Assignment",
+        "Presentation"
+      ]
     },
     {
       "id": "ls-0159",
@@ -1286,8 +2148,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Arguments",
+        "Speaking",
+        "Teams",
+        "Competition"
+      ]
     },
     {
       "id": "ls-0160",
@@ -1295,8 +2162,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "School",
+        "Performance",
+        "Dance",
+        "Celebration"
+      ]
     },
     {
       "id": "ls-0161",
@@ -1304,8 +2176,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "School",
+        "Games",
+        "Race",
+        "Competition"
+      ]
     },
     {
       "id": "ls-0162",
@@ -1313,8 +2190,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "school-college",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Students",
+        "Matching Clothes",
+        "School",
+        "Dress Code"
+      ]
     },
     {
       "id": "ls-0163",
@@ -1322,8 +2204,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Goddess Durga",
+        "Bengal",
+        "Pandal",
+        "Celebration"
+      ]
     },
     {
       "id": "ls-0164",
@@ -1331,8 +2218,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Punjab",
+        "Harvest",
+        "Bhangra",
+        "Festival"
+      ]
     },
     {
       "id": "ls-0165",
@@ -1340,8 +2232,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Eggs",
+        "Bunny",
+        "Spring",
+        "Celebration"
+      ]
     },
     {
       "id": "ls-0166",
@@ -1349,8 +2246,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Family",
+        "Dinner",
+        "Gratitude",
+        "Turkey"
+      ]
     },
     {
       "id": "ls-0167",
@@ -1358,8 +2260,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Lanterns",
+        "Dragon Dance",
+        "Spring",
+        "Celebration"
+      ]
     },
     {
       "id": "ls-0168",
@@ -1367,8 +2274,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Lanterns",
+        "Zodiac",
+        "Spring",
+        "Celebration"
+      ]
     },
     {
       "id": "ls-0169",
@@ -1376,8 +2288,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Germany",
+        "Festival",
+        "Pretzels",
+        "Parade"
+      ]
     },
     {
       "id": "ls-0170",
@@ -1385,8 +2302,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Parade",
+        "Costumes",
+        "Music",
+        "Celebration"
+      ]
     },
     {
       "id": "ls-0171",
@@ -1394,8 +2316,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Brazil",
+        "Samba",
+        "Parade",
+        "Rio"
+      ]
     },
     {
       "id": "ls-0172",
@@ -1403,8 +2330,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Movies",
+        "Golden Statue",
+        "Hollywood",
+        "Ceremony"
+      ]
     },
     {
       "id": "ls-0173",
@@ -1412,8 +2344,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Music",
+        "Singers",
+        "Recording",
+        "Trophy"
+      ]
     },
     {
       "id": "ls-0174",
@@ -1421,8 +2358,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Journalism",
+        "Writing",
+        "Books",
+        "Award"
+      ]
     },
     {
       "id": "ls-0175",
@@ -1430,8 +2372,13 @@
       "categoryId": "lifestyle-society",
       "subcategoryId": "festivals-awards",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "India",
+        "Civilian",
+        "Honour",
+        "Medal"
+      ]
     }
   ]
 }

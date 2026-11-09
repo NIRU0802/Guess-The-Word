@@ -7,518 +7,962 @@
       "word": "India",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Taj Mahal",
+        "New Delhi",
+        "Cricket",
+        "South Asia"
+      ]
     },
     {
       "id": "geo-0002",
       "word": "Japan",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mount Fuji",
+        "Sushi",
+        "Tokyo",
+        "Cherry Blossoms"
+      ]
     },
     {
       "id": "geo-0003",
       "word": "Brazil",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Amazon Forest",
+        "Football",
+        "Carnival",
+        "South America"
+      ]
     },
     {
       "id": "geo-0004",
       "word": "Australia",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kangaroo",
+        "Sydney Opera House",
+        "Great Barrier Reef",
+        "Southern Hemisphere"
+      ]
     },
     {
       "id": "geo-0005",
       "word": "Canada",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Maple Leaf",
+        "Niagara Falls",
+        "Ottawa",
+        "North America"
+      ]
     },
     {
       "id": "geo-0006",
       "word": "Egypt",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pyramids",
+        "Nile Valley",
+        "Pharaohs",
+        "North Africa"
+      ]
     },
     {
       "id": "geo-0007",
       "word": "France",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Eiffel Tower",
+        "Paris",
+        "Croissants",
+        "Europe"
+      ]
     },
     {
       "id": "geo-0008",
       "word": "Italy",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rome",
+        "Colosseum",
+        "Venice",
+        "Mediterranean"
+      ]
     },
     {
       "id": "geo-0009",
       "word": "China",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Great Wall",
+        "Beijing",
+        "Pandas",
+        "East Asia"
+      ]
     },
     {
       "id": "geo-0010",
       "word": "South Africa",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cape Town",
+        "Safari",
+        "Table Mountain",
+        "Southern Africa"
+      ]
     },
     {
       "id": "geo-0011",
       "word": "New Zealand",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kiwi Bird",
+        "Auckland",
+        "Two Main Islands",
+        "Pacific Ocean"
+      ]
     },
     {
       "id": "geo-0012",
       "word": "Iceland",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Northern Lights",
+        "Volcanoes",
+        "Geysers",
+        "North Atlantic"
+      ]
     },
     {
       "id": "geo-0013",
       "word": "Mexico",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tacos",
+        "Mexico City",
+        "Mayan Ruins",
+        "North America"
+      ]
     },
     {
       "id": "geo-0014",
       "word": "Switzerland",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Alpine Mountains",
+        "Chocolate",
+        "Watches",
+        "Central Europe"
+      ]
     },
     {
       "id": "geo-0015",
       "word": "Thailand",
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bangkok",
+        "Tropical Beaches",
+        "Temples",
+        "Southeast Asia"
+      ]
     },
     {
       "id": "geo-0016",
       "word": "Mumbai",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gateway of India",
+        "Bollywood",
+        "Marine Drive",
+        "Maharashtra"
+      ]
     },
     {
       "id": "geo-0017",
       "word": "Delhi",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "India Gate",
+        "Red Fort",
+        "Capital Territory",
+        "Yamuna"
+      ]
     },
     {
       "id": "geo-0018",
       "word": "Tokyo",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mount Fuji Views",
+        "Shibuya Crossing",
+        "Japan",
+        "Bullet Trains"
+      ]
     },
     {
       "id": "geo-0019",
       "word": "London",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Big Ben",
+        "River Thames",
+        "Red Buses",
+        "United Kingdom"
+      ]
     },
     {
       "id": "geo-0020",
       "word": "Paris",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Seine River",
+        "France"
+      ]
     },
     {
       "id": "geo-0021",
       "word": "New York",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Statue of Liberty",
+        "Times Square",
+        "Manhattan",
+        "United States"
+      ]
     },
     {
       "id": "geo-0022",
       "word": "Dubai",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Burj Khalifa",
+        "Desert",
+        "Palm Islands",
+        "United Arab Emirates"
+      ]
     },
     {
       "id": "geo-0023",
       "word": "Singapore",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Merlion",
+        "Marina Bay",
+        "Gardens by the Bay",
+        "Island City"
+      ]
     },
     {
       "id": "geo-0024",
       "word": "Rome",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Colosseum",
+        "Vatican Nearby",
+        "Ancient Ruins",
+        "Italy"
+      ]
     },
     {
       "id": "geo-0025",
       "word": "Sydney",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Harbour Bridge",
+        "Opera House",
+        "Australia",
+        "Pacific Coast"
+      ]
     },
     {
       "id": "geo-0026",
       "word": "Jaipur",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pink City",
+        "Hawa Mahal",
+        "Rajasthan",
+        "Amber Fort"
+      ]
     },
     {
       "id": "geo-0027",
       "word": "Varanasi",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "River Ghat",
+        "Ganga Aarti",
+        "Ancient Temples",
+        "Uttar Pradesh"
+      ]
     },
     {
       "id": "geo-0028",
       "word": "Nashik",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Grape Vineyards",
+        "Pandavleni Caves",
+        "Godavari",
+        "Maharashtra"
+      ]
     },
     {
       "id": "geo-0029",
       "word": "Venice",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gondolas",
+        "Canals",
+        "St Mark\u0027s Square",
+        "Italy"
+      ]
     },
     {
       "id": "geo-0030",
       "word": "Cairo",
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pyramids of Giza",
+        "Nile River",
+        "Egyptian Museum",
+        "Africa"
+      ]
     },
     {
       "id": "geo-0031",
       "word": "Himalayas",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Everest Region",
+        "Snowy Peaks",
+        "Nepal",
+        "Asia"
+      ]
     },
     {
       "id": "geo-0032",
       "word": "K2",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Karakoram Range",
+        "Pakistan",
+        "Mountain Climbing",
+        "Second Highest Peak"
+      ]
     },
     {
       "id": "geo-0033",
       "word": "Mount Kilimanjaro",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tanzania",
+        "African Plains",
+        "Snowy Summit",
+        "Tall Free-Standing Mountain"
+      ]
     },
     {
       "id": "geo-0034",
       "word": "Sahara Desert",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "North Africa",
+        "Camel Caravans",
+        "Sand Dunes",
+        "Largest Hot Desert"
+      ]
     },
     {
       "id": "geo-0035",
       "word": "Thar Desert",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rajasthan",
+        "Sand Dunes",
+        "Camel Ride",
+        "India"
+      ]
     },
     {
       "id": "geo-0036",
       "word": "Gobi Desert",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mongolia",
+        "China",
+        "Cold Desert",
+        "Rocky Plains"
+      ]
     },
     {
       "id": "geo-0037",
       "word": "Atacama Desert",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Chile",
+        "Dry Climate",
+        "Salt Flats",
+        "South America"
+      ]
     },
     {
       "id": "geo-0038",
       "word": "Alps",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Switzerland",
+        "France",
+        "Snow Sports",
+        "European Peaks"
+      ]
     },
     {
       "id": "geo-0039",
       "word": "Andes",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "South America",
+        "Peru",
+        "Long Mountain Chain",
+        "Western Continent"
+      ]
     },
     {
       "id": "geo-0040",
       "word": "Rocky Mountains",
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "United States",
+        "Canada",
+        "Colorado",
+        "North American Peaks"
+      ]
     },
     {
       "id": "geo-0041",
       "word": "Amazon River",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "South America",
+        "Rainforest",
+        "Brazil",
+        "Large River Basin"
+      ]
     },
     {
       "id": "geo-0042",
       "word": "Nile River",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Egypt",
+        "Sudan",
+        "Ancient Civilizations",
+        "Northeast Africa"
+      ]
     },
     {
       "id": "geo-0043",
       "word": "Ganga",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Varanasi",
+        "Haridwar",
+        "Holy Water",
+        "Northern India"
+      ]
     },
     {
       "id": "geo-0044",
       "word": "Yamuna",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Delhi",
+        "Agra",
+        "Yamunotri",
+        "Northern India"
+      ]
     },
     {
       "id": "geo-0045",
       "word": "Mississippi River",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "United States",
+        "Missouri",
+        "New Orleans",
+        "North American Waterway"
+      ]
     },
     {
       "id": "geo-0046",
       "word": "Yangtze River",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "China",
+        "Shanghai",
+        "Three Gorges",
+        "East Asia"
+      ]
     },
     {
       "id": "geo-0047",
       "word": "Narmada",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Central India",
+        "Marble Rocks",
+        "Arabian Sea",
+        "Jabalpur"
+      ]
     },
     {
       "id": "geo-0048",
       "word": "Godavari",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Nashik",
+        "Rajahmundry",
+        "Bay of Bengal",
+        "Peninsular India"
+      ]
     },
     {
       "id": "geo-0049",
       "word": "Angel Falls",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Venezuela",
+        "Tabletop Mountain",
+        "Rainforest",
+        "Tallest Uninterrupted Drop"
+      ]
     },
     {
       "id": "geo-0050",
       "word": "Jog Falls",
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Karnataka",
+        "Sharavathi River",
+        "Monsoon",
+        "Western Ghats"
+      ]
     },
     {
       "id": "geo-0051",
       "word": "Antarctica",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "South Pole",
+        "Penguins",
+        "Ice Sheet",
+        "Southern Hemisphere"
+      ]
     },
     {
       "id": "geo-0052",
       "word": "Greenland",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Arctic Region",
+        "Ice Sheet",
+        "Denmark",
+        "World\u0027s Largest Island"
+      ]
     },
     {
       "id": "geo-0053",
       "word": "Madagascar",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Lemurs",
+        "Baobab Trees",
+        "Indian Ocean",
+        "Africa"
+      ]
     },
     {
       "id": "geo-0054",
       "word": "Sri Lanka",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Colombo",
+        "Tea Plantations",
+        "Indian Ocean",
+        "Island Nation"
+      ]
     },
     {
       "id": "geo-0055",
       "word": "Maldives",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Coral Atolls",
+        "Resort Islands",
+        "Indian Ocean",
+        "Male"
+      ]
     },
     {
       "id": "geo-0056",
       "word": "Bali",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bali",
+        "Temples",
+        "Beaches",
+        "Indonesia"
+      ]
     },
     {
       "id": "geo-0057",
       "word": "Hawaii",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Volcanic Islands",
+        "Pacific Ocean",
+        "Pearl Harbor",
+        "United States"
+      ]
     },
     {
       "id": "geo-0058",
       "word": "Andaman Islands",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Port Blair",
+        "Bay of Bengal",
+        "Tropical Beaches",
+        "India"
+      ]
     },
     {
       "id": "geo-0059",
       "word": "Pacific Ocean",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Largest Ocean",
+        "Hawaii",
+        "Asia and America",
+        "Pacific Rim"
+      ]
     },
     {
       "id": "geo-0060",
       "word": "Atlantic Ocean",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Europe and America",
+        "Atlantic Crossing",
+        "Mid-Ocean Ridge",
+        "Second Largest Ocean"
+      ]
     },
     {
       "id": "geo-0061",
       "word": "Indian Ocean",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Africa",
+        "Southern Asia"
+      ]
     },
     {
       "id": "geo-0062",
       "word": "Arctic Ocean",
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "North Pole",
+        "Sea Ice",
+        "Polar Bears",
+        "Northern Hemisphere"
+      ]
     },
     {
       "id": "geo-0063",
       "word": "Island",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Surrounded by Water",
+        "Land Area",
+        "Coastline",
+        "Mainland Nearby"
+      ]
     },
     {
       "id": "geo-0064",
       "word": "Peninsula",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Three Sides Water",
+        "Land Connection",
+        "Coastal Region",
+        "Florida"
+      ]
     },
     {
       "id": "geo-0065",
       "word": "Valley",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Between Mountains",
+        "River Flow",
+        "Low Ground",
+        "Sloping Land"
+      ]
     },
     {
       "id": "geo-0066",
       "word": "Waterfall",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Falling Water",
+        "High Ledge",
+        "River",
+        "Mist"
+      ]
     },
     {
       "id": "geo-0067",
       "word": "Glacier",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Frozen River",
+        "Ice Movement",
+        "Mountain Peaks",
+        "Melting Snow"
+      ]
     },
     {
       "id": "geo-0068",
       "word": "Volcano",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Lava",
+        "Eruption",
+        "Magma",
+        "Crater"
+      ]
     },
     {
       "id": "geo-0069",
       "word": "Canyon",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Deep Gorge",
+        "Steep Sides",
+        "River Erosion",
+        "Grand Canyon"
+      ]
     },
     {
       "id": "geo-0070",
       "word": "Delta",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "River Mouth",
+        "Sediment",
+        "Triangle Shape",
+        "Sea Coast"
+      ]
     },
     {
       "id": "geo-0071",
       "word": "Plateau",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "High Flat Land",
+        "Elevated Surface",
+        "Deccan",
+        "Wide Plains"
+      ]
     },
     {
       "id": "geo-0072",
       "word": "Rainforest",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dense Trees",
+        "Heavy Rainfall",
+        "Wildlife",
+        "Amazon Basin"
+      ]
     },
     {
       "id": "geo-0073",
       "word": "Reef",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Coral",
+        "Underwater Life",
+        "Shallow Sea",
+        "Marine Habitat"
+      ]
     },
     {
       "id": "geo-0074",
       "word": "Strait",
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Narrow Waterway",
+        "Two Larger Waters",
+        "Ships",
+        "Coastal Passage"
+      ]
     },
     {
       "id": "ge-0075",
@@ -526,8 +970,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Seoul",
+        "K-pop",
+        "Kimchi",
+        "East Asia"
+      ]
     },
     {
       "id": "ge-0076",
@@ -535,8 +984,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pyongyang",
+        "Korean Peninsula",
+        "Demilitarized Zone",
+        "East Asia"
+      ]
     },
     {
       "id": "ge-0077",
@@ -544,8 +998,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Hanoi",
+        "Ha Long Bay",
+        "Mekong Delta",
+        "Southeast Asia"
+      ]
     },
     {
       "id": "ge-0078",
@@ -553,8 +1012,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Jakarta",
+        "Bali",
+        "Thousands of Islands",
+        "Southeast Asia"
+      ]
     },
     {
       "id": "ge-0079",
@@ -562,8 +1026,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Kuala Lumpur",
+        "Petronas Towers",
+        "Borneo",
+        "Southeast Asia"
+      ]
     },
     {
       "id": "ge-0080",
@@ -571,8 +1040,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mount Everest",
+        "Kathmandu",
+        "Himalayas",
+        "Landlocked Country"
+      ]
     },
     {
       "id": "ge-0081",
@@ -580,8 +1054,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Thimphu",
+        "Himalayas",
+        "Monasteries",
+        "Landlocked Country"
+      ]
     },
     {
       "id": "ge-0082",
@@ -589,8 +1068,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Dhaka",
+        "Padma River",
+        "Bay of Bengal",
+        "South Asia"
+      ]
     },
     {
       "id": "ge-0083",
@@ -598,8 +1082,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Kabul",
+        "Hindu Kush",
+        "Landlocked",
+        "Central Asia"
+      ]
     },
     {
       "id": "ge-0084",
@@ -607,8 +1096,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Tehran",
+        "Persian Gulf",
+        "Zagros Mountains",
+        "Middle East"
+      ]
     },
     {
       "id": "ge-0085",
@@ -616,8 +1110,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Baghdad",
+        "Mesopotamia",
+        "Tigris River",
+        "Middle East"
+      ]
     },
     {
       "id": "ge-0086",
@@ -625,8 +1124,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Marrakech",
+        "Atlas Mountains",
+        "Casablanca",
+        "Northwest Africa"
+      ]
     },
     {
       "id": "ge-0087",
@@ -634,8 +1138,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Nairobi",
+        "Safari",
+        "Maasai Mara",
+        "East Africa"
+      ]
     },
     {
       "id": "ge-0088",
@@ -643,8 +1152,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mount Kilimanjaro",
+        "Serengeti",
+        "Dodoma",
+        "East Africa"
+      ]
     },
     {
       "id": "ge-0089",
@@ -652,8 +1166,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Lagos",
+        "Abuja",
+        "West Africa",
+        "Niger River"
+      ]
     },
     {
       "id": "ge-0090",
@@ -661,8 +1180,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Accra",
+        "Gold Coast",
+        "West Africa",
+        "Gulf of Guinea"
+      ]
     },
     {
       "id": "ge-0091",
@@ -670,8 +1194,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Addis Ababa",
+        "Coffee Origins",
+        "Horn of Africa",
+        "East Africa"
+      ]
     },
     {
       "id": "ge-0092",
@@ -679,8 +1208,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Buenos Aires",
+        "Tango",
+        "Patagonia",
+        "South America"
+      ]
     },
     {
       "id": "ge-0093",
@@ -688,8 +1222,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Santiago",
+        "Andes",
+        "Pacific Coast",
+        "South America"
+      ]
     },
     {
       "id": "ge-0094",
@@ -697,8 +1236,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Machu Picchu",
+        "Lima",
+        "Andes",
+        "South America"
+      ]
     },
     {
       "id": "ge-0095",
@@ -706,8 +1250,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Havana",
+        "Caribbean",
+        "Cigars",
+        "Island Nation"
+      ]
     },
     {
       "id": "ge-0096",
@@ -715,8 +1264,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "countries",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Reggae",
+        "Kingston",
+        "Caribbean Sea",
+        "Island Nation"
+      ]
     },
     {
       "id": "ge-0097",
@@ -724,8 +1278,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Seoul",
+        "Han River",
+        "South Korea",
+        "East Asia"
+      ]
     },
     {
       "id": "ge-0098",
@@ -733,8 +1292,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Grand Palace",
+        "Chao Phraya River",
+        "Thailand",
+        "Street Markets"
+      ]
     },
     {
       "id": "ge-0099",
@@ -742,8 +1306,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Marina Bay",
+        "Merlion",
+        "Singapore",
+        "Southeast Asia"
+      ]
     },
     {
       "id": "ge-0100",
@@ -751,8 +1320,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sheikh Zayed Mosque",
+        "United Arab Emirates",
+        "Desert",
+        "Persian Gulf"
+      ]
     },
     {
       "id": "ge-0101",
@@ -760,8 +1334,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Bosphorus Strait",
+        "Two Continents",
+        "Turkey",
+        "Grand Bazaar"
+      ]
     },
     {
       "id": "ge-0102",
@@ -769,8 +1348,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Maasai Mara",
+        "Mount Kenya",
+        "Kenya",
+        "East Africa"
+      ]
     },
     {
       "id": "ge-0103",
@@ -778,8 +1362,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Table Mountain",
+        "Two Oceans",
+        "South Africa",
+        "Coastal City"
+      ]
     },
     {
       "id": "ge-0104",
@@ -787,8 +1376,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Christ the Redeemer",
+        "Carnival",
+        "Copacabana Beach",
+        "Brazil"
+      ]
     },
     {
       "id": "ge-0105",
@@ -796,8 +1390,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Tango",
+        "Obelisk",
+        "Argentina",
+        "South America"
+      ]
     },
     {
       "id": "ge-0106",
@@ -805,8 +1404,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Manhattan",
+        "Times Square",
+        "Statue of Liberty",
+        "United States"
+      ]
     },
     {
       "id": "ge-0107",
@@ -814,8 +1418,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Hollywood",
+        "Pacific Coast",
+        "California",
+        "Golden Gate Nearby"
+      ]
     },
     {
       "id": "ge-0108",
@@ -823,8 +1432,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "CN Tower",
+        "Lake Ontario",
+        "Canada",
+        "Ontario"
+      ]
     },
     {
       "id": "ge-0109",
@@ -832,8 +1446,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Pacific Coast",
+        "Stanley Park",
+        "British Columbia",
+        "Canada"
+      ]
     },
     {
       "id": "ge-0110",
@@ -841,8 +1460,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Sagrada Familia",
+        "Mediterranean Coast",
+        "Spain",
+        "Catalonia"
+      ]
     },
     {
       "id": "ge-0111",
@@ -850,8 +1474,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Canals",
+        "Bicycles",
+        "Tulips",
+        "Netherlands"
+      ]
     },
     {
       "id": "ge-0112",
@@ -859,8 +1488,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Brandenburg Gate",
+        "Germany",
+        "Berlin Wall",
+        "Europe"
+      ]
     },
     {
       "id": "ge-0113",
@@ -868,8 +1502,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Austria",
+        "Danube River",
+        "Classical Music",
+        "Europe"
+      ]
     },
     {
       "id": "ge-0114",
@@ -877,8 +1516,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Charles Bridge",
+        "Czech Republic",
+        "Old Town Square",
+        "Europe"
+      ]
     },
     {
       "id": "ge-0115",
@@ -886,8 +1530,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Australia",
+        "Yarra River",
+        "Great Ocean Road",
+        "Victoria"
+      ]
     },
     {
       "id": "ge-0116",
@@ -895,8 +1544,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "New Zealand",
+        "Harbour",
+        "North Island",
+        "Auckland Region"
+      ]
     },
     {
       "id": "ge-0117",
@@ -904,8 +1558,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Lake Pichola",
+        "City Palace",
+        "Rajasthan",
+        "White City"
+      ]
     },
     {
       "id": "ge-0118",
@@ -913,8 +1572,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Backwaters",
+        "Chinese Fishing Nets",
+        "Kerala",
+        "Arabian Sea"
+      ]
     },
     {
       "id": "ge-0119",
@@ -922,8 +1586,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "cities",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mysore Palace",
+        "Chamundi Hills",
+        "Karnataka",
+        "Dasara Festival"
+      ]
     },
     {
       "id": "ge-0120",
@@ -931,8 +1600,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Morocco",
+        "North Africa",
+        "Berber Villages",
+        "High Peaks"
+      ]
     },
     {
       "id": "ge-0121",
@@ -940,8 +1614,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Russia",
+        "Caucasus Range",
+        "Europe\u0027s Highest Peak",
+        "Snow-Covered Summit"
+      ]
     },
     {
       "id": "ge-0122",
@@ -949,8 +1628,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Alaska",
+        "North America",
+        "Denali National Park",
+        "Highest US Peak"
+      ]
     },
     {
       "id": "ge-0123",
@@ -958,8 +1642,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Argentina",
+        "Andes",
+        "South America",
+        "Highest Peak Outside Asia"
+      ]
     },
     {
       "id": "ge-0124",
@@ -967,8 +1656,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "India and Pakistan",
+        "K2",
+        "High Mountain Range",
+        "Central Asia"
+      ]
     },
     {
       "id": "ge-0125",
@@ -976,8 +1670,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Saudi Arabia",
+        "Sand Dunes",
+        "Middle East",
+        "Large Dry Region"
+      ]
     },
     {
       "id": "ge-0126",
@@ -985,8 +1684,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Southern Africa",
+        "Botswana",
+        "Grasslands",
+        "Dry Climate"
+      ]
     },
     {
       "id": "ge-0127",
@@ -994,8 +1698,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Namibia",
+        "Atlantic Coast",
+        "Sand Dunes",
+        "Southern Africa"
+      ]
     },
     {
       "id": "ge-0128",
@@ -1003,8 +1712,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Australia",
+        "Red Centre",
+        "Dry Plains",
+        "Large Sandy Region"
+      ]
     },
     {
       "id": "ge-0129",
@@ -1012,8 +1726,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "mountains-deserts",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "California",
+        "Nevada",
+        "Desert Landscape",
+        "Joshua Tree"
+      ]
     },
     {
       "id": "ge-0130",
@@ -1021,8 +1740,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Germany",
+        "Austria",
+        "Budapest",
+        "Black Sea"
+      ]
     },
     {
       "id": "ge-0131",
@@ -1030,8 +1754,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Varanasi",
+        "Uttarakhand",
+        "Bay of Bengal",
+        "Northern India"
+      ]
     },
     {
       "id": "ge-0132",
@@ -1039,8 +1768,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Tibet",
+        "Assam",
+        "Himalayan Waters",
+        "Bay of Bengal"
+      ]
     },
     {
       "id": "ge-0133",
@@ -1048,8 +1782,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Delhi",
+        "Agra",
+        "Yamunotri",
+        "Tributary"
+      ]
     },
     {
       "id": "ge-0134",
@@ -1057,8 +1796,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Laos",
+        "Cambodia",
+        "Vietnam",
+        "Southeast Asia"
+      ]
     },
     {
       "id": "ge-0135",
@@ -1066,8 +1810,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Russia",
+        "Caspian Sea",
+        "Volgograd",
+        "Europe"
+      ]
     },
     {
       "id": "ge-0136",
@@ -1075,8 +1824,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Germany",
+        "Netherlands",
+        "Switzerland",
+        "Europe"
+      ]
     },
     {
       "id": "ge-0137",
@@ -1084,8 +1838,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "London",
+        "England",
+        "Thames Barrier",
+        "United Kingdom"
+      ]
     },
     {
       "id": "ge-0138",
@@ -1093,8 +1852,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Victoria Falls",
+        "Zambia",
+        "Zimbabwe",
+        "Southern Africa"
+      ]
     },
     {
       "id": "ge-0139",
@@ -1102,8 +1866,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Grand Canyon",
+        "Colorado Plateau",
+        "United States",
+        "Hoover Dam"
+      ]
     },
     {
       "id": "ge-0140",
@@ -1111,8 +1880,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Central Africa",
+        "Congo Basin",
+        "Rainforest",
+        "Atlantic Ocean"
+      ]
     },
     {
       "id": "ge-0141",
@@ -1120,8 +1894,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Brazil and Argentina",
+        "Devil\u0027s Throat",
+        "Rainforest",
+        "South America"
+      ]
     },
     {
       "id": "ge-0142",
@@ -1129,8 +1908,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "rivers-waterfalls",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Goa",
+        "Western Ghats",
+        "Monsoon",
+        "India"
+      ]
     },
     {
       "id": "ge-0143",
@@ -1138,8 +1922,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Rainforest",
+        "Orangutans",
+        "Southeast Asia",
+        "Three Countries"
+      ]
     },
     {
       "id": "ge-0144",
@@ -1147,8 +1936,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indonesia",
+        "Orangutans",
+        "Indian Ocean",
+        "West of Java"
+      ]
     },
     {
       "id": "ge-0145",
@@ -1156,8 +1950,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indonesia",
+        "Jakarta Nearby",
+        "Sunda Islands",
+        "Java Sea"
+      ]
     },
     {
       "id": "ge-0146",
@@ -1165,8 +1964,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Italy",
+        "Mount Etna",
+        "Mediterranean",
+        "Palermo"
+      ]
     },
     {
       "id": "ge-0147",
@@ -1174,8 +1978,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "South Pacific",
+        "Coral Reefs",
+        "Island Nation",
+        "Suva"
+      ]
     },
     {
       "id": "ge-0148",
@@ -1183,8 +1992,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Mauritius",
+        "Indian Ocean",
+        "Port Louis",
+        "Island Nation"
+      ]
     },
     {
       "id": "ge-0149",
@@ -1192,8 +2006,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Indian Ocean",
+        "Coral Islands",
+        "Mahé",
+        "Island Nation"
+      ]
     },
     {
       "id": "ge-0150",
@@ -1201,8 +2020,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Arabian Sea",
+        "Coral Atolls",
+        "India",
+        "Lakshadweep Sea"
+      ]
     },
     {
       "id": "ge-0151",
@@ -1210,8 +2034,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Ecuador",
+        "Giant Tortoises",
+        "Pacific Ocean",
+        "Unique Wildlife"
+      ]
     },
     {
       "id": "ge-0152",
@@ -1219,8 +2048,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Antarctica",
+        "Cold Waters",
+        "Southern Hemisphere",
+        "Fifth Ocean"
+      ]
     },
     {
       "id": "ge-0153",
@@ -1228,8 +2062,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Europe",
+        "North Africa",
+        "Southern Europe",
+        "Suez Canal"
+      ]
     },
     {
       "id": "ge-0154",
@@ -1237,8 +2076,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Caribbean Islands",
+        "Tropical Waters",
+        "Atlantic Ocean",
+        "Central America"
+      ]
     },
     {
       "id": "ge-0155",
@@ -1246,8 +2090,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "islands-oceans",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Oman",
+        "Yemen",
+        "Western India",
+        "Arabian Peninsula"
+      ]
     },
     {
       "id": "ge-0156",
@@ -1255,8 +2104,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Many Islands",
+        "Island Group",
+        "Ocean",
+        "Archipelago Nation"
+      ]
     },
     {
       "id": "ge-0157",
@@ -1264,8 +2118,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "River Meets Sea",
+        "Brackish Water",
+        "Tidal Flow",
+        "Coastal Habitat"
+      ]
     },
     {
       "id": "ge-0158",
@@ -1273,8 +2132,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Norway",
+        "Steep Cliffs",
+        "Glacial Valley",
+        "Sea Inlet"
+      ]
     },
     {
       "id": "ge-0159",
@@ -1282,8 +2146,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Narrow Land Bridge",
+        "Two Larger Lands",
+        "Panama",
+        "Coastal Connection"
+      ]
     },
     {
       "id": "ge-0160",
@@ -1291,8 +2160,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Curved Coastline",
+        "Sea Inlet",
+        "Protected Waters",
+        "Harbour"
+      ]
     },
     {
       "id": "ge-0161",
@@ -1300,8 +2174,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Large Sea Inlet",
+        "Coastline",
+        "Deep Water",
+        "Persian Gulf"
+      ]
     },
     {
       "id": "ge-0162",
@@ -1309,8 +2188,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Shallow Water",
+        "Barrier Island",
+        "Coastal Pool",
+        "Calm Waters"
+      ]
     },
     {
       "id": "ge-0163",
@@ -1318,8 +2202,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Desert",
+        "Fresh Water",
+        "Palm Trees",
+        "Green Patch"
+      ]
     },
     {
       "id": "ge-0164",
@@ -1327,8 +2216,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Steep Rock Face",
+        "High Edge",
+        "Sea View",
+        "Rock Wall"
+      ]
     },
     {
       "id": "ge-0165",
@@ -1336,8 +2230,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Wind-Blown Sand",
+        "Desert",
+        "Moving Hills",
+        "Beach"
+      ]
     },
     {
       "id": "ge-0166",
@@ -1345,8 +2244,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Permafrost",
+        "Mosses",
+        "Cold Plains",
+        "Arctic Region"
+      ]
     },
     {
       "id": "ge-0167",
@@ -1354,8 +2258,13 @@
       "categoryId": "geography-earth",
       "subcategoryId": "geography-features",
       "language": "en",
-      "relatedWords": [],
-      "image": null
+      "image": null,
+      "relatedWords": [
+        "Grassland",
+        "Scattered Trees",
+        "Africa",
+        "Grazing Animals"
+      ]
     }
   ]
 }

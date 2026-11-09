@@ -7,357 +7,663 @@
       "word": "Camping",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tent",
+        "Campfire",
+        "Sleeping Bag",
+        "Wilderness"
+      ]
     },
     {
       "id": "adv-0002",
       "word": "Hiking",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Trail",
+        "Backpack",
+        "Boots",
+        "Nature"
+      ]
     },
     {
       "id": "adv-0003",
       "word": "Trekking",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mountains",
+        "Long Walk",
+        "Backpack",
+        "Journey"
+      ]
     },
     {
       "id": "adv-0004",
       "word": "Rock Climbing",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cliff",
+        "Rope",
+        "Helmet",
+        "Harness"
+      ]
     },
     {
       "id": "adv-0005",
       "word": "Scuba Diving",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ocean",
+        "Oxygen Tank",
+        "Fins",
+        "Underwater"
+      ]
     },
     {
       "id": "adv-0006",
       "word": "Paragliding",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Glider",
+        "Harness",
+        "Wind",
+        "Mountain"
+      ]
     },
     {
       "id": "adv-0007",
       "word": "Skydiving",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Parachute",
+        "Aircraft",
+        "Free Fall",
+        "Landing"
+      ]
     },
     {
       "id": "adv-0008",
       "word": "Rafting",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "River",
+        "Paddle",
+        "Rapids",
+        "Life Jacket"
+      ]
     },
     {
       "id": "adv-0009",
       "word": "Ziplining",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cable",
+        "Harness",
+        "Forest",
+        "Gliding"
+      ]
     },
     {
       "id": "adv-0010",
       "word": "Mountain Biking",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cycling",
+        "Helmet",
+        "Rough Trail",
+        "Wheels"
+      ]
     },
     {
       "id": "adv-0011",
       "word": "Safari",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wildlife",
+        "Jeep",
+        "Grassland",
+        "Binoculars"
+      ]
     },
     {
       "id": "adv-0012",
       "word": "Kayaking",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Paddle",
+        "River",
+        "Small Boat",
+        "Water"
+      ]
     },
     {
       "id": "adv-0013",
       "word": "Treasure Hunt",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hidden Prize",
+        "Riddle",
+        "Search",
+        "Adventure"
+      ]
     },
     {
       "id": "adv-0014",
       "word": "Expedition",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Journey",
+        "Team",
+        "Discovery",
+        "Distant Place"
+      ]
     },
     {
       "id": "adv-0015",
       "word": "Explorer",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Discover",
+        "Unknown",
+        "Compass",
+        "Adventure"
+      ]
     },
     {
       "id": "adv-0016",
       "word": "Map",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Directions",
+        "Legend",
+        "Scale",
+        "Location"
+      ]
     },
     {
       "id": "adv-0017",
       "word": "Survival Kit",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "First Aid",
+        "Flashlight",
+        "Supplies",
+        "Emergency"
+      ]
     },
     {
       "id": "adv-0018",
       "word": "Base Camp",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tent",
+        "Mountains",
+        "Rest",
+        "Starting Point"
+      ]
     },
     {
       "id": "adv-0019",
       "word": "Mountain Trail",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hiking",
+        "Path",
+        "Rocks",
+        "Scenery"
+      ]
     },
     {
       "id": "adv-0020",
       "word": "Desert Safari",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Sand Dunes",
+        "Jeep",
+        "Camel",
+        "Oasis"
+      ]
     },
     {
       "id": "adv-0021",
       "word": "Jungle Adventure",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rainforest",
+        "Wild Animals",
+        "Vines",
+        "Explorer"
+      ]
     },
     {
       "id": "adv-0022",
       "word": "Disneyland",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mickey Mouse",
+        "Theme Park",
+        "Fantasy",
+        "Rides"
+      ]
     },
     {
       "id": "adv-0023",
       "word": "Universal Studios",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Movies",
+        "Film Sets",
+        "Theme Park",
+        "Attractions"
+      ]
     },
     {
       "id": "adv-0024",
       "word": "Roller Coaster",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Fast Ride",
+        "Tracks",
+        "Loops",
+        "Screaming"
+      ]
     },
     {
       "id": "adv-0025",
       "word": "Ferris Wheel",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Giant Wheel",
+        "Cabins",
+        "Height",
+        "Fairground"
+      ]
     },
     {
       "id": "adv-0026",
       "word": "Water Park",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pools",
+        "Slides",
+        "Swimsuit",
+        "Splash"
+      ]
     },
     {
       "id": "adv-0027",
       "word": "Haunted House",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ghosts",
+        "Darkness",
+        "Scary",
+        "Spooky"
+      ]
     },
     {
       "id": "adv-0028",
       "word": "Merry-Go-Round",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Horses",
+        "Music",
+        "Circular",
+        "Fairground"
+      ]
     },
     {
       "id": "adv-0029",
       "word": "Bumper Cars",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Collision",
+        "Steering",
+        "Electric",
+        "Arena"
+      ]
     },
     {
       "id": "adv-0030",
       "word": "Aquarium",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Fish",
+        "Glass Tank",
+        "Sea Life",
+        "Water"
+      ]
     },
     {
       "id": "adv-0031",
       "word": "Wax Museum",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Statues",
+        "Celebrities",
+        "Figures",
+        "Lifelike"
+      ]
     },
     {
       "id": "adv-0032",
       "word": "Rubik's Cube",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Colors",
+        "Twisting",
+        "Squares",
+        "Puzzle"
+      ]
     },
     {
       "id": "adv-0033",
       "word": "Chess",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "King",
+        "Checkmate",
+        "Strategy",
+        "Board"
+      ]
     },
     {
       "id": "adv-0034",
       "word": "Monopoly",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Property",
+        "Rent",
+        "Dice",
+        "Bank"
+      ]
     },
     {
       "id": "adv-0035",
       "word": "Scrabble",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Letters",
+        "Spelling",
+        "Points",
+        "Word Tiles"
+      ]
     },
     {
       "id": "adv-0036",
       "word": "Jigsaw Puzzle",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pieces",
+        "Picture",
+        "Fit Together",
+        "Table"
+      ]
     },
     {
       "id": "adv-0037",
       "word": "Sudoku",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Numbers",
+        "Grid",
+        "Nine",
+        "Logic"
+      ]
     },
     {
       "id": "adv-0038",
       "word": "Crossword",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Clues",
+        "Words",
+        "Boxes",
+        "Newspaper"
+      ]
     },
     {
       "id": "adv-0039",
       "word": "Ludo",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tokens",
+        "Dice",
+        "Four Colors",
+        "Home"
+      ]
     },
     {
       "id": "adv-0040",
       "word": "Carrom",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Striker",
+        "Coins",
+        "Pockets",
+        "Fingers"
+      ]
     },
     {
       "id": "adv-0041",
       "word": "Snakes And Ladders",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dice",
+        "Climbing",
+        "Sliding",
+        "Numbered Squares"
+      ]
     },
     {
       "id": "adv-0042",
       "word": "Jenga",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wooden Blocks",
+        "Tower",
+        "Balance",
+        "Pulling"
+      ]
     },
     {
       "id": "adv-0043",
       "word": "Dominoes",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tiles",
+        "Dots",
+        "Matching",
+        "Chain Reaction"
+      ]
     },
     {
       "id": "adv-0044",
       "word": "Secret Code",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Symbols",
+        "Message",
+        "Decode",
+        "Password"
+      ]
     },
     {
       "id": "adv-0045",
       "word": "Hidden Treasure",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gold",
+        "Buried",
+        "Chest",
+        "Discovery"
+      ]
     },
     {
       "id": "adv-0046",
       "word": "Footprints",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Tracks",
+        "Shoes",
+        "Sand",
+        "Trail"
+      ]
     },
     {
       "id": "adv-0047",
       "word": "Secret Passage",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hidden Door",
+        "Tunnel",
+        "Escape",
+        "Castle"
+      ]
     },
     {
       "id": "adv-0048",
       "word": "Locked Room",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Key",
+        "Mystery",
+        "Door",
+        "Inside"
+      ]
     },
     {
       "id": "adv-0049",
       "word": "Mysterious Letter",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Envelope",
+        "Handwriting",
+        "Message",
+        "Unknown Sender"
+      ]
     },
     {
       "id": "adv-0050",
       "word": "Escape Room",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Puzzles",
+        "Timer",
+        "Locked Door",
+        "Teamwork"
+      ]
     },
     {
       "id": "adv-0051",
       "word": "Clue",
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hint",
+        "Evidence",
+        "Mystery",
+        "Detective"
+      ]
     },
     {
       "id": "ae-0052",
@@ -365,7 +671,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mask",
+        "Shallow Water",
+        "Fins",
+        "Coral Reef"
+      ],
       "image": null
     },
     {
@@ -374,7 +685,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Elastic Cord",
+        "Bridge",
+        "Jump",
+        "Rebound"
+      ],
       "image": null
     },
     {
@@ -383,7 +699,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Summit",
+        "Climbing",
+        "Snow",
+        "Ropes"
+      ],
       "image": null
     },
     {
@@ -392,7 +713,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Pulley",
+        "Cable",
+        "Platform",
+        "Harness"
+      ],
       "image": null
     },
     {
@@ -401,7 +727,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Basket",
+        "Burner",
+        "Sky",
+        "Floating"
+      ],
       "image": null
     },
     {
@@ -410,7 +741,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Cave",
+        "Helmet",
+        "Darkness",
+        "Underground"
+      ],
       "image": null
     },
     {
@@ -419,7 +755,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Desert",
+        "Board",
+        "Dunes",
+        "Sliding"
+      ],
       "image": null
     },
     {
@@ -428,7 +769,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Snow",
+        "Slope",
+        "Board",
+        "Winter"
+      ],
       "image": null
     },
     {
@@ -437,7 +783,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Skis",
+        "Poles",
+        "Snow",
+        "Mountain Slope"
+      ],
       "image": null
     },
     {
@@ -446,7 +797,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Boat",
+        "Sail",
+        "Wind",
+        "Ocean"
+      ],
       "image": null
     },
     {
@@ -455,7 +811,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "adventure-activities",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Saddle",
+        "Reins",
+        "Stable",
+        "Gallop"
+      ],
       "image": null
     },
     {
@@ -464,7 +825,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Compass",
+        "Symbols",
+        "Direction",
+        "Route"
+      ],
       "image": null
     },
     {
@@ -473,7 +839,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Dunes",
+        "Heat",
+        "Water Bottle",
+        "Sand"
+      ],
       "image": null
     },
     {
@@ -482,7 +853,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Thick Forest",
+        "Wildlife",
+        "Vines",
+        "Path"
+      ],
       "image": null
     },
     {
@@ -491,7 +867,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Summit",
+        "Climbers",
+        "Equipment",
+        "High Altitude"
+      ],
       "image": null
     },
     {
@@ -500,7 +881,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ocean Floor",
+        "Submarine",
+        "Pressure",
+        "Marine Life"
+      ],
       "image": null
     },
     {
@@ -509,7 +895,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Stalactites",
+        "Torch",
+        "Underground",
+        "Narrow Tunnel"
+      ],
       "image": null
     },
     {
@@ -518,7 +909,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Antarctica",
+        "Ice",
+        "Penguins",
+        "Cold Weather"
+      ],
       "image": null
     },
     {
@@ -527,7 +923,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Astronaut",
+        "Rocket",
+        "Spacecraft",
+        "Launch"
+      ],
       "image": null
     },
     {
@@ -536,7 +937,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ancient Ruins",
+        "Brush",
+        "Fossils",
+        "Artifacts"
+      ],
       "image": null
     },
     {
@@ -545,7 +951,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ancient Buildings",
+        "Ruins",
+        "Jungle",
+        "Discovery"
+      ],
       "image": null
     },
     {
@@ -554,7 +965,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "exploration",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Lookout",
+        "Height",
+        "View",
+        "Binoculars"
+      ],
       "image": null
     },
     {
@@ -563,7 +979,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Spinning",
+        "Fairground",
+        "Decorated Animals",
+        "Music"
+      ],
       "image": null
     },
     {
@@ -572,7 +993,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Splash",
+        "Tube",
+        "Pool",
+        "Slippery"
+      ],
       "image": null
     },
     {
@@ -581,7 +1007,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Distorted Mirrors",
+        "Wobbly Floor",
+        "Maze",
+        "Laughter"
+      ],
       "image": null
     },
     {
@@ -590,7 +1021,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Sudden Fall",
+        "Height",
+        "Seat Belt",
+        "Thrill"
+      ],
       "image": null
     },
     {
@@ -599,7 +1035,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Wooden Horses",
+        "Pole",
+        "Circular Ride",
+        "Fair"
+      ],
       "image": null
     },
     {
@@ -608,7 +1049,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Water Channel",
+        "Boat",
+        "Big Splash",
+        "Theme Park"
+      ],
       "image": null
     },
     {
@@ -617,7 +1063,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Water",
+        "Steering Wheel",
+        "Colliding",
+        "Pool"
+      ],
       "image": null
     },
     {
@@ -626,7 +1077,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Reflections",
+        "Glass",
+        "Dead End",
+        "Confusing"
+      ],
       "image": null
     },
     {
@@ -635,7 +1091,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Artificial Waves",
+        "Swimming",
+        "Beach",
+        "Water Park"
+      ],
       "image": null
     },
     {
@@ -644,7 +1105,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Floating",
+        "Current",
+        "Tube",
+        "Relaxing"
+      ],
       "image": null
     },
     {
@@ -653,7 +1119,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Racing",
+        "Helmet",
+        "Steering",
+        "Lap"
+      ],
       "image": null
     },
     {
@@ -662,7 +1133,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Prehistoric",
+        "Models",
+        "Fossils",
+        "Roaring"
+      ],
       "image": null
     },
     {
@@ -671,7 +1147,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Glass Tunnel",
+        "Sharks",
+        "Overhead Fish",
+        "Ocean Life"
+      ],
       "image": null
     },
     {
@@ -680,7 +1161,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "theme-parks-attractions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Skates",
+        "Frozen Surface",
+        "Gliding",
+        "Hockey"
+      ],
       "image": null
     },
     {
@@ -689,7 +1175,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Red Pieces",
+        "Black Pieces",
+        "Diagonal Moves",
+        "Board"
+      ],
       "image": null
     },
     {
@@ -698,7 +1189,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Letters",
+        "Hidden Words",
+        "Grid",
+        "Circle"
+      ],
       "image": null
     },
     {
@@ -707,7 +1203,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Crosses",
+        "Noughts",
+        "Three In A Row",
+        "Grid"
+      ],
       "image": null
     },
     {
@@ -716,7 +1217,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Colored Discs",
+        "Vertical Slots",
+        "Four In A Row",
+        "Strategy"
+      ],
       "image": null
     },
     {
@@ -725,7 +1231,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ships",
+        "Ocean Grid",
+        "Guessing",
+        "Hidden Fleet"
+      ],
       "image": null
     },
     {
@@ -734,7 +1245,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Murder Mystery",
+        "Suspects",
+        "Rooms",
+        "Detective"
+      ],
       "image": null
     },
     {
@@ -743,7 +1259,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Drawing",
+        "Guessing",
+        "Sketch",
+        "Team Game"
+      ],
       "image": null
     },
     {
@@ -752,7 +1273,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Acting",
+        "Gestures",
+        "Silent",
+        "Guessing"
+      ],
       "image": null
     },
     {
@@ -761,7 +1287,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Matching Cards",
+        "Pairs",
+        "Remember",
+        "Concentration"
+      ],
       "image": null
     },
     {
@@ -770,7 +1301,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Seven Pieces",
+        "Shapes",
+        "Silhouette",
+        "Geometry"
+      ],
       "image": null
     },
     {
@@ -779,7 +1315,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Seeds",
+        "Pits",
+        "Counting",
+        "Strategy"
+      ],
       "image": null
     },
     {
@@ -788,7 +1329,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "puzzles-board-games",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Colored Pegs",
+        "Secret Pattern",
+        "Code",
+        "Deduction"
+      ],
       "image": null
     },
     {
@@ -797,7 +1343,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Shoe Mark",
+        "Mud",
+        "Trail",
+        "Impression"
+      ],
       "image": null
     },
     {
@@ -806,7 +1357,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Secret Writing",
+        "Letters",
+        "Code",
+        "Decoding"
+      ],
       "image": null
     },
     {
@@ -815,7 +1371,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Proof",
+        "Clue",
+        "Investigation",
+        "Object"
+      ],
       "image": null
     },
     {
@@ -824,7 +1385,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Excuse",
+        "Whereabouts",
+        "Time",
+        "Investigation"
+      ],
       "image": null
     },
     {
@@ -833,7 +1399,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Observer",
+        "Statement",
+        "Saw Something",
+        "Court"
+      ],
       "image": null
     },
     {
@@ -842,7 +1413,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Investigation",
+        "Questioning",
+        "Motive",
+        "Possible Culprit"
+      ],
       "image": null
     },
     {
@@ -851,7 +1427,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Police Tape",
+        "Fingerprint",
+        "Investigation",
+        "Forensics"
+      ],
       "image": null
     },
     {
@@ -860,7 +1441,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Secret Detail",
+        "Puzzle",
+        "Discovery",
+        "Hint"
+      ],
       "image": null
     },
     {
@@ -869,7 +1455,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Hidden Entrance",
+        "Wall",
+        "Passage",
+        "Lever"
+      ],
       "image": null
     },
     {
@@ -878,7 +1469,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Costume",
+        "Fake Identity",
+        "Mask",
+        "Transformation"
+      ],
       "image": null
     },
     {
@@ -887,7 +1483,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Secret Agent",
+        "Mission",
+        "Surveillance",
+        "Information"
+      ],
       "image": null
     },
     {
@@ -896,7 +1497,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "False Identity",
+        "Secret Mission",
+        "Infiltration",
+        "Investigation"
+      ],
       "image": null
     },
     {
@@ -905,7 +1511,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Book",
+        "Detective",
+        "Plot Twist",
+        "Whodunit"
+      ],
       "image": null
     },
     {
@@ -914,7 +1525,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "X Marks The Spot",
+        "Island",
+        "Directions",
+        "Buried Chest"
+      ],
       "image": null
     },
     {
@@ -923,7 +1539,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Hidden Note",
+        "Symbols",
+        "Encryption",
+        "Sender"
+      ],
       "image": null
     },
     {
@@ -932,7 +1553,12 @@
       "categoryId": "adventure-entertainment",
       "subcategoryId": "mystery-detectives",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Documents",
+        "Suspect",
+        "Reports",
+        "Investigation"
+      ],
       "image": null
     }
   ]

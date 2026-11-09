@@ -7,364 +7,676 @@
       "word": "Telephone",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Calling",
+        "Dial",
+        "Receiver",
+        "Conversation"
+      ]
     },
     {
       "id": "sci-0002",
       "word": "Light Bulb",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Electricity",
+        "Glow",
+        "Switch",
+        "Filament"
+      ]
     },
     {
       "id": "sci-0003",
       "word": "Airplane",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pilot",
+        "Airport",
+        "Wings",
+        "Runway"
+      ]
     },
     {
       "id": "sci-0004",
       "word": "Printing Press",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Books",
+        "Newspaper",
+        "Ink",
+        "Johannes Gutenberg"
+      ]
     },
     {
       "id": "sci-0005",
       "word": "Television",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Screen",
+        "Remote",
+        "Channels",
+        "Broadcast"
+      ]
     },
     {
       "id": "sci-0006",
       "word": "Radio",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Antenna",
+        "Frequency",
+        "Music",
+        "Broadcast"
+      ]
     },
     {
       "id": "sci-0007",
       "word": "Camera",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Photograph",
+        "Lens",
+        "Flash",
+        "Shutter"
+      ]
     },
     {
       "id": "sci-0008",
       "word": "Refrigerator",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kitchen",
+        "Cooling",
+        "Freezer",
+        "Food"
+      ]
     },
     {
       "id": "sci-0009",
       "word": "Microscope",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Lens",
+        "Cells",
+        "Laboratory",
+        "Magnify"
+      ]
     },
     {
       "id": "sci-0010",
       "word": "Telescope",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Stars",
+        "Moon",
+        "Astronomer",
+        "Distant"
+      ]
     },
     {
       "id": "sci-0011",
       "word": "Steam Engine",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Coal",
+        "Boiler",
+        "Locomotive",
+        "Industrial Revolution"
+      ]
     },
     {
       "id": "sci-0012",
       "word": "Electric Motor",
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rotation",
+        "Magnet",
+        "Fan",
+        "Machine"
+      ]
     },
     {
       "id": "sci-0013",
       "word": "Robot",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Machine",
+        "Metal",
+        "Automation",
+        "Factory"
+      ]
     },
     {
       "id": "sci-0014",
       "word": "Artificial Intelligence",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Learning",
+        "Chatbot",
+        "Computer",
+        "Smart"
+      ]
     },
     {
       "id": "sci-0015",
       "word": "Self-Driving Car",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Sensors",
+        "Road",
+        "Automation",
+        "Driverless"
+      ]
     },
     {
       "id": "sci-0016",
       "word": "Drone",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Flying",
+        "Remote",
+        "Camera",
+        "Propellers"
+      ]
     },
     {
       "id": "sci-0017",
       "word": "3D Printer",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Plastic",
+        "Layers",
+        "Design",
+        "Model"
+      ]
     },
     {
       "id": "sci-0018",
       "word": "Virtual Reality",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Headset",
+        "Gaming",
+        "Immersion",
+        "Digital World"
+      ]
     },
     {
       "id": "sci-0019",
       "word": "Smartwatch",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wrist",
+        "Fitness",
+        "Notifications",
+        "Heart Rate"
+      ]
     },
     {
       "id": "sci-0020",
       "word": "Smartphone",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Apps",
+        "Touchscreen",
+        "Camera",
+        "Internet"
+      ]
     },
     {
       "id": "sci-0021",
       "word": "Electric Car",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Battery",
+        "Charging",
+        "Motor",
+        "Silent"
+      ]
     },
     {
       "id": "sci-0022",
       "word": "Solar Panel",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Sunlight",
+        "Energy",
+        "Roof",
+        "Electricity"
+      ]
     },
     {
       "id": "sci-0023",
       "word": "Satellite Navigation",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Maps",
+        "Location",
+        "Directions",
+        "GPS"
+      ]
     },
     {
       "id": "sci-0024",
       "word": "Fingerprint Scanner",
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Thumb",
+        "Identity",
+        "Unlock",
+        "Biometrics"
+      ]
     },
     {
       "id": "sci-0025",
       "word": "Penicillin",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Medicine",
+        "Antibiotic",
+        "Bacteria",
+        "Alexander Fleming"
+      ]
     },
     {
       "id": "sci-0026",
       "word": "Electricity",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Current",
+        "Wire",
+        "Power",
+        "Lightning"
+      ]
     },
     {
       "id": "sci-0027",
       "word": "Magnetism",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Poles",
+        "Attraction",
+        "Iron",
+        "Compass"
+      ]
     },
     {
       "id": "sci-0028",
       "word": "X-Ray",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Bones",
+        "Hospital",
+        "Radiation",
+        "Doctor"
+      ]
     },
     {
       "id": "sci-0029",
       "word": "DNA",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Genes",
+        "Helix",
+        "Heredity",
+        "Cells"
+      ]
     },
     {
       "id": "sci-0030",
       "word": "Radioactivity",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Radiation",
+        "Nuclear",
+        "Atoms",
+        "Uranium"
+      ]
     },
     {
       "id": "sci-0031",
       "word": "Evolution",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Species",
+        "Adaptation",
+        "Charles Darwin",
+        "Natural Selection"
+      ]
     },
     {
       "id": "sci-0032",
       "word": "Germ Theory",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Microbes",
+        "Disease",
+        "Infection",
+        "Louis Pasteur"
+      ]
     },
     {
       "id": "sci-0033",
       "word": "Periodic Table",
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Elements",
+        "Chemistry",
+        "Symbols",
+        "Atomic Number"
+      ]
     },
     {
       "id": "sci-0034",
       "word": "Magnet",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Iron",
+        "Fridge",
+        "Attraction",
+        "Poles"
+      ]
     },
     {
       "id": "sci-0035",
       "word": "Prism",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Rainbow",
+        "Glass",
+        "Light",
+        "Colors"
+      ]
     },
     {
       "id": "sci-0036",
       "word": "Battery",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Power",
+        "Charge",
+        "Cells",
+        "Remote"
+      ]
     },
     {
       "id": "sci-0037",
       "word": "Compass",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "North",
+        "Needle",
+        "Direction",
+        "Magnet"
+      ]
     },
     {
       "id": "sci-0038",
       "word": "Thermometer",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Temperature",
+        "Fever",
+        "Mercury",
+        "Degrees"
+      ]
     },
     {
       "id": "sci-0039",
       "word": "Barometer",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Weather",
+        "Pressure",
+        "Atmosphere",
+        "Forecast"
+      ]
     },
     {
       "id": "sci-0040",
       "word": "Periscope",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Submarine",
+        "Mirrors",
+        "Hidden",
+        "Observe"
+      ]
     },
     {
       "id": "sci-0041",
       "word": "Stethoscope",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Doctor",
+        "Heartbeat",
+        "Chest",
+        "Hospital"
+      ]
     },
     {
       "id": "sci-0042",
       "word": "Magnifying Glass",
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Lens",
+        "Insect",
+        "Enlarge",
+        "Detective"
+      ]
     },
     {
       "id": "sci-0043",
       "word": "Laptop",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Portable",
+        "Keyboard",
+        "Screen",
+        "Battery"
+      ]
     },
     {
       "id": "sci-0044",
       "word": "Tablet",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Touchscreen",
+        "Stylus",
+        "Apps",
+        "Portable"
+      ]
     },
     {
       "id": "sci-0045",
       "word": "Keyboard",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Typing",
+        "Keys",
+        "Letters",
+        "Computer"
+      ]
     },
     {
       "id": "sci-0046",
       "word": "Computer Mouse",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cursor",
+        "Click",
+        "Pointer",
+        "Desktop"
+      ]
     },
     {
       "id": "sci-0047",
       "word": "Game Console",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Controller",
+        "Gaming",
+        "Joystick",
+        "Television"
+      ]
     },
     {
       "id": "sci-0048",
       "word": "Digital Camera",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Memory Card",
+        "Pixels",
+        "Photograph",
+        "Zoom"
+      ]
     },
     {
       "id": "sci-0049",
       "word": "Projector",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Screen",
+        "Presentation",
+        "Classroom",
+        "Beam"
+      ]
     },
     {
       "id": "sci-0050",
       "word": "Headphones",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Music",
+        "Ears",
+        "Wireless",
+        "Volume"
+      ]
     },
     {
       "id": "sci-0051",
       "word": "Microphone",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Voice",
+        "Recording",
+        "Speaker",
+        "Singing"
+      ]
     },
     {
       "id": "sci-0052",
       "word": "USB Drive",
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Storage",
+        "Files",
+        "Portable",
+        "Computer"
+      ]
     },
     {
       "id": "st-0053",
@@ -372,7 +684,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Numbers",
+        "Addition",
+        "Display",
+        "Mathematics"
+      ],
       "image": null
     },
     {
@@ -381,7 +698,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Alfred Nobel",
+        "Explosive",
+        "Mining",
+        "Invention"
+      ],
       "image": null
     },
     {
@@ -390,7 +712,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Websites",
+        "Browser",
+        "Internet",
+        "Tim Berners-Lee"
+      ],
       "image": null
     },
     {
@@ -399,7 +726,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Finger",
+        "Display",
+        "Tap",
+        "Smartphone"
+      ],
       "image": null
     },
     {
@@ -408,7 +740,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Satellite",
+        "Navigation",
+        "Location",
+        "Maps"
+      ],
       "image": null
     },
     {
@@ -417,7 +754,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "famous-inventions",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Building",
+        "Floor",
+        "Lift",
+        "Button"
+      ],
       "image": null
     },
     {
@@ -426,7 +768,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Camera",
+        "Digital Objects",
+        "Filters",
+        "Real World"
+      ],
       "image": null
     },
     {
@@ -435,16 +782,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
-      "image": null
-    },
-    {
-      "id": "st-0061",
-      "word": "Self Driving Car",
-      "categoryId": "science-technology",
-      "subcategoryId": "modern-technology",
-      "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Plastic",
+        "Layers",
+        "Printer",
+        "Models"
+      ],
       "image": null
     },
     {
@@ -453,7 +796,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Face",
+        "Camera",
+        "Identity",
+        "Security"
+      ],
       "image": null
     },
     {
@@ -462,7 +810,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Speaking",
+        "Commands",
+        "Smart Speaker",
+        "Siri"
+      ],
       "image": null
     },
     {
@@ -471,16 +824,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
-      "image": null
-    },
-    {
-      "id": "st-0065",
-      "word": "Electric Vehicle",
-      "categoryId": "science-technology",
-      "subcategoryId": "modern-technology",
-      "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Lights",
+        "Automation",
+        "Sensors",
+        "Remote Control"
+      ],
       "image": null
     },
     {
@@ -489,7 +838,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Windmill",
+        "Blades",
+        "Electricity",
+        "Renewable Energy"
+      ],
       "image": null
     },
     {
@@ -498,7 +852,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Fingerprint",
+        "Face",
+        "Identity",
+        "Unlock"
+      ],
       "image": null
     },
     {
@@ -507,7 +866,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Internet",
+        "Servers",
+        "Online Storage",
+        "Data"
+      ],
       "image": null
     },
     {
@@ -516,7 +880,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Webcam",
+        "Internet",
+        "Conversation",
+        "Screen"
+      ],
       "image": null
     },
     {
@@ -525,7 +894,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "UPI",
+        "QR Code",
+        "Wallet",
+        "Transaction"
+      ],
       "image": null
     },
     {
@@ -534,7 +908,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "modern-technology",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Squares",
+        "Scanning",
+        "Camera",
+        "Payment"
+      ],
       "image": null
     },
     {
@@ -543,7 +922,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Isaac Newton",
+        "Apple",
+        "Falling",
+        "Force"
+      ],
       "image": null
     },
     {
@@ -552,7 +936,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Matter",
+        "Nucleus",
+        "Electron",
+        "Element"
+      ],
       "image": null
     },
     {
@@ -561,7 +950,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Einstein",
+        "Time",
+        "Space",
+        "Gravity"
+      ],
       "image": null
     },
     {
@@ -570,7 +964,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Plants",
+        "Sunlight",
+        "Chlorophyll",
+        "Oxygen"
+      ],
       "image": null
     },
     {
@@ -579,7 +978,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Injection",
+        "Immunity",
+        "Disease",
+        "Protection"
+      ],
       "image": null
     },
     {
@@ -588,7 +992,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Breathing",
+        "Air",
+        "Gas",
+        "Lungs"
+      ],
       "image": null
     },
     {
@@ -597,7 +1006,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Water",
+        "Heat",
+        "Engine",
+        "Boiling"
+      ],
       "image": null
     },
     {
@@ -606,7 +1020,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Earth",
+        "Plates",
+        "Pangaea",
+        "Continents"
+      ],
       "image": null
     },
     {
@@ -615,7 +1034,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "DNA",
+        "Genes",
+        "Chromosomes",
+        "Heredity"
+      ],
       "image": null
     },
     {
@@ -624,7 +1048,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Cells",
+        "Organisms",
+        "Microscope",
+        "Biology"
+      ],
       "image": null
     },
     {
@@ -633,7 +1062,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Air",
+        "Oxygen",
+        "Helium",
+        "Balloon"
+      ],
       "image": null
     },
     {
@@ -642,7 +1076,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Microscope",
+        "Bacteria",
+        "Tiny",
+        "Germs"
+      ],
       "image": null
     },
     {
@@ -651,7 +1090,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "science-discoveries",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Atom",
+        "Power Plant",
+        "Uranium",
+        "Electricity"
+      ],
       "image": null
     },
     {
@@ -660,7 +1104,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Swing",
+        "Clock",
+        "Weight",
+        "Motion"
+      ],
       "image": null
     },
     {
@@ -669,7 +1118,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Fulcrum",
+        "Seesaw",
+        "Force",
+        "Lifting"
+      ],
       "image": null
     },
     {
@@ -678,7 +1132,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Rope",
+        "Wheel",
+        "Crane",
+        "Lifting"
+      ],
       "image": null
     },
     {
@@ -687,7 +1146,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mirror",
+        "Image",
+        "Light",
+        "Surface"
+      ],
       "image": null
     },
     {
@@ -696,7 +1160,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Water",
+        "Glass",
+        "Bending",
+        "Light"
+      ],
       "image": null
     },
     {
@@ -705,7 +1174,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Water",
+        "Heat",
+        "Vapour",
+        "Drying"
+      ],
       "image": null
     },
     {
@@ -714,7 +1188,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Water Drops",
+        "Cooling",
+        "Clouds",
+        "Steam"
+      ],
       "image": null
     },
     {
@@ -723,7 +1202,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ice",
+        "Cold",
+        "Water",
+        "Solid"
+      ],
       "image": null
     },
     {
@@ -732,7 +1216,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Heat",
+        "Ice Cream",
+        "Liquid",
+        "Wax"
+      ],
       "image": null
     },
     {
@@ -741,7 +1230,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Rubbing",
+        "Heat",
+        "Surfaces",
+        "Brakes"
+      ],
       "image": null
     },
     {
@@ -750,7 +1244,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Vibration",
+        "Ears",
+        "Noise",
+        "Air"
+      ],
       "image": null
     },
     {
@@ -759,7 +1258,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Wire",
+        "Battery",
+        "Bulb",
+        "Switch"
+      ],
       "image": null
     },
     {
@@ -768,7 +1272,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Kitchen",
+        "Steam",
+        "Lid",
+        "Cooking"
+      ],
       "image": null
     },
     {
@@ -777,7 +1286,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Atmosphere",
+        "Weather",
+        "Wind",
+        "Barometer"
+      ],
       "image": null
     },
     {
@@ -786,7 +1300,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "everyday-science",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Warmth",
+        "Thermos",
+        "Wool",
+        "Heat"
+      ],
       "image": null
     },
     {
@@ -795,7 +1314,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Monitor",
+        "Keyboard",
+        "Tower",
+        "Office"
+      ],
       "image": null
     },
     {
@@ -804,7 +1328,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Cursor",
+        "Click",
+        "Scroll",
+        "Computer"
+      ],
       "image": null
     },
     {
@@ -813,7 +1342,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Paper",
+        "Ink",
+        "Documents",
+        "Printing"
+      ],
       "image": null
     },
     {
@@ -822,7 +1356,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Document",
+        "Copy",
+        "Image",
+        "Digital"
+      ],
       "image": null
     },
     {
@@ -831,7 +1370,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Music",
+        "Wireless",
+        "Ears",
+        "Bluetooth"
+      ],
       "image": null
     },
     {
@@ -840,7 +1384,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Video",
+        "Camera",
+        "Laptop",
+        "Meetings"
+      ],
       "image": null
     },
     {
@@ -849,7 +1398,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Storage",
+        "Files",
+        "Computer",
+        "Backup"
+      ],
       "image": null
     },
     {
@@ -858,7 +1412,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Camera",
+        "Storage",
+        "Photos",
+        "Portable"
+      ],
       "image": null
     },
     {
@@ -867,7 +1426,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Charging",
+        "Battery",
+        "Portable",
+        "Phone"
+      ],
       "image": null
     },
     {
@@ -876,7 +1440,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Wi-Fi",
+        "Internet",
+        "Network",
+        "Antennas"
+      ],
       "image": null
     },
     {
@@ -885,16 +1454,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
-      "image": null
-    },
-    {
-      "id": "st-0111",
-      "word": "Gaming Console",
-      "categoryId": "science-technology",
-      "subcategoryId": "computing-gadgets",
-      "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Internet",
+        "Connection",
+        "Broadband",
+        "Router"
+      ],
       "image": null
     },
     {
@@ -903,7 +1468,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Typing",
+        "Touchscreen",
+        "Projection",
+        "Letters"
+      ],
       "image": null
     },
     {
@@ -912,7 +1482,12 @@
       "categoryId": "science-technology",
       "subcategoryId": "computing-gadgets",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Finger",
+        "Laptop",
+        "Cursor",
+        "Gestures"
+      ],
       "image": null
     }
   ]

@@ -7,378 +7,702 @@
       "word": "Spider-Man",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Web",
+        "Spider Sense",
+        "New York",
+        "Wall Crawling"
+      ]
     },
     {
       "id": "mov-0002",
       "word": "Batman",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Gotham",
+        "Batmobile",
+        "Alfred",
+        "Dark Knight"
+      ]
     },
     {
       "id": "mov-0003",
       "word": "Superman",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kryptonite",
+        "Cape",
+        "Metropolis",
+        "Flying"
+      ]
     },
     {
       "id": "mov-0004",
       "word": "Iron Man",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Armor",
+        "Arc Reactor",
+        "Tony Stark",
+        "Technology"
+      ]
     },
     {
       "id": "mov-0005",
       "word": "Wonder Woman",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Lasso",
+        "Amazon",
+        "Bracelets",
+        "Themyscira"
+      ]
     },
     {
       "id": "mov-0006",
       "word": "Captain America",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Shield",
+        "Steve Rogers",
+        "Super Soldier",
+        "Stars"
+      ]
     },
     {
       "id": "mov-0007",
       "word": "Thor",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hammer",
+        "Asgard",
+        "Lightning",
+        "Norse God"
+      ]
     },
     {
       "id": "mov-0008",
       "word": "Black Panther",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wakanda",
+        "Vibranium",
+        "T'Challa",
+        "Suit"
+      ]
     },
     {
       "id": "mov-0009",
       "word": "Hulk",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Green",
+        "Anger",
+        "Bruce Banner",
+        "Smashing"
+      ]
     },
     {
       "id": "mov-0010",
       "word": "Doctor Strange",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Magic",
+        "Cloak",
+        "Portal",
+        "Sorcerer"
+      ]
     },
     {
       "id": "mov-0011",
       "word": "Black Widow",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Natasha",
+        "Spy",
+        "Red Room",
+        "Avengers"
+      ]
     },
     {
       "id": "mov-0012",
       "word": "Supergirl",
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Krypton",
+        "Cousin",
+        "Cape",
+        "Superpowers"
+      ]
     },
     {
       "id": "mov-0013",
       "word": "Joker",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Clown",
+        "Laugh",
+        "Gotham",
+        "Cards"
+      ]
     },
     {
       "id": "mov-0014",
       "word": "Thanos",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Infinity Stones",
+        "Gauntlet",
+        "Titan",
+        "Snap"
+      ]
     },
     {
       "id": "mov-0015",
       "word": "Darth Vader",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Lightsaber",
+        "Dark Side",
+        "Mask",
+        "Star Wars"
+      ]
     },
     {
       "id": "mov-0016",
       "word": "Loki",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Trickster",
+        "Mischief",
+        "Asgard",
+        "Green"
+      ]
     },
     {
       "id": "mov-0017",
       "word": "Voldemort",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wand",
+        "Snake",
+        "Dark Magic",
+        "Horcrux"
+      ]
     },
     {
       "id": "mov-0018",
       "word": "Maleficent",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Horns",
+        "Wings",
+        "Sleeping Beauty",
+        "Curse"
+      ]
     },
     {
       "id": "mov-0019",
       "word": "Cruella De Vil",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dalmatian",
+        "Black And White",
+        "Fashion",
+        "Fur Coat"
+      ]
     },
     {
       "id": "mov-0020",
       "word": "Shrek",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Swamp",
+        "Donkey",
+        "Onion",
+        "Fairy Tale"
+      ]
     },
     {
       "id": "mov-0021",
       "word": "Doraemon",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Blue Robot",
+        "Nobita",
+        "Gadget",
+        "Pocket"
+      ]
     },
     {
       "id": "mov-0022",
       "word": "Pikachu",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Electricity",
+        "Yellow",
+        "Thunderbolt",
+        "Pokeball"
+      ]
     },
     {
       "id": "mov-0023",
       "word": "Mickey Mouse",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Ears",
+        "Minnie",
+        "Disney",
+        "Gloves"
+      ]
     },
     {
       "id": "mov-0024",
       "word": "SpongeBob",
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pineapple",
+        "Bikini Bottom",
+        "Patrick",
+        "Jellyfish"
+      ]
     },
     {
       "id": "mov-0025",
       "word": "Harry Potter",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hogwarts",
+        "Magic Wand",
+        "Scar",
+        "Quidditch"
+      ]
     },
     {
       "id": "mov-0026",
       "word": "Jurassic Park",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dinosaurs",
+        "Island",
+        "Fossils",
+        "Theme Park"
+      ]
     },
     {
       "id": "mov-0027",
       "word": "Star Wars",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Galaxy",
+        "Lightsaber",
+        "Jedi",
+        "Droids"
+      ]
     },
     {
       "id": "mov-0028",
       "word": "The Lion King",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Simba",
+        "Pride Lands",
+        "Savanna",
+        "Mufasa"
+      ]
     },
     {
       "id": "mov-0029",
       "word": "Frozen",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Elsa",
+        "Snowman",
+        "Ice",
+        "Arendelle"
+      ]
     },
     {
       "id": "mov-0030",
       "word": "Toy Story",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Woody",
+        "Buzz",
+        "Toys",
+        "Andy"
+      ]
     },
     {
       "id": "mov-0031",
       "word": "Avatar",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pandora",
+        "Blue People",
+        "Na'vi",
+        "Flying Creatures"
+      ]
     },
     {
       "id": "mov-0032",
       "word": "The Avengers",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Team",
+        "Marvel",
+        "Superheroes",
+        "Infinity War"
+      ]
     },
     {
       "id": "mov-0033",
       "word": "Jumanji",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Board Game",
+        "Jungle",
+        "Dice",
+        "Wild Animals"
+      ]
     },
     {
       "id": "mov-0034",
       "word": "Home Alone",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kevin",
+        "Christmas",
+        "Traps",
+        "Burglars"
+      ]
     },
     {
       "id": "mov-0035",
       "word": "Finding Nemo",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Clownfish",
+        "Ocean",
+        "Dory",
+        "Coral Reef"
+      ]
     },
     {
       "id": "mov-0036",
       "word": "The Jungle Book",
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mowgli",
+        "Baloo",
+        "Bagheera",
+        "Wolf Pack"
+      ]
     },
     {
       "id": "mov-0037",
       "word": "Hogwarts",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Castle",
+        "Wizards",
+        "School",
+        "Sorting Hat"
+      ]
     },
     {
       "id": "mov-0038",
       "word": "Narnia",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Wardrobe",
+        "Lion",
+        "Snowy Forest",
+        "Fantasy"
+      ]
     },
     {
       "id": "mov-0039",
       "word": "Middle-earth",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Hobbits",
+        "Mordor",
+        "Elves",
+        "One Ring"
+      ]
     },
     {
       "id": "mov-0040",
       "word": "Wakanda",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Africa",
+        "Vibranium",
+        "Panther",
+        "Advanced Technology"
+      ]
     },
     {
       "id": "mov-0041",
       "word": "Gotham City",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Batman",
+        "Skyscrapers",
+        "Crime",
+        "Gotham Police"
+      ]
     },
     {
       "id": "mov-0042",
       "word": "Jurassic World",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dinosaurs",
+        "Theme Park",
+        "Indominus Rex",
+        "Island"
+      ]
     },
     {
       "id": "mov-0043",
       "word": "Neverland",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Peter Pan",
+        "Fairies",
+        "Lost Boys",
+        "Flying"
+      ]
     },
     {
       "id": "mov-0044",
       "word": "Wonderland",
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Alice",
+        "Rabbit Hole",
+        "Mad Hatter",
+        "Tea Party"
+      ]
     },
     {
       "id": "mov-0045",
       "word": "Pokémon",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Pikachu",
+        "Trainers",
+        "Pokeballs",
+        "Battles"
+      ]
     },
     {
       "id": "mov-0046",
       "word": "Tom And Jerry",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Cat",
+        "Mouse",
+        "Chase",
+        "Cheese"
+      ]
     },
     {
       "id": "mov-0047",
       "word": "The Simpsons",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Homer",
+        "Yellow Family",
+        "Springfield",
+        "Doughnut"
+      ]
     },
     {
       "id": "mov-0048",
       "word": "Mr Bean",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Teddy",
+        "Mischief",
+        "Silent Comedy",
+        "Green Car"
+      ]
     },
     {
       "id": "mov-0049",
       "word": "The Powerpuff Girls",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Blossom",
+        "Bubbles",
+        "Buttercup",
+        "Townsville"
+      ]
     },
     {
       "id": "mov-0050",
       "word": "Chhota Bheem",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Dholakpur",
+        "Laddoo",
+        "Chutki",
+        "Strength"
+      ]
     },
     {
       "id": "mov-0051",
       "word": "Shinchan",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Kazama",
+        "Mischief",
+        "Naughty Boy",
+        "Family"
+      ]
     },
     {
       "id": "mov-0052",
       "word": "Scooby-Doo",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Talking Dog",
+        "Mystery",
+        "Van",
+        "Scooby Snacks"
+      ]
     },
     {
       "id": "mov-0053",
       "word": "Dora The Explorer",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Backpack",
+        "Boots",
+        "Map",
+        "Adventure"
+      ]
     },
     {
       "id": "mov-0054",
       "word": "Peppa Pig",
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
-      "language": "en"
+      "language": "en",
+      "relatedWords": [
+        "Mud Puddles",
+        "George",
+        "Pig",
+        "Family"
+      ]
     },
     {
       "id": "mf-0055",
@@ -386,7 +710,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Carol Danvers",
+        "Cosmic Powers",
+        "Energy Blasts",
+        "Space"
+      ],
       "image": null
     },
     {
@@ -395,7 +724,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Tiny",
+        "Suit",
+        "Pym Particles",
+        "Insects"
+      ],
       "image": null
     },
     {
@@ -404,7 +738,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Claws",
+        "Healing",
+        "Mutant",
+        "Adamantium"
+      ],
       "image": null
     },
     {
@@ -413,7 +752,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Speed",
+        "Lightning",
+        "Red Suit",
+        "Time Travel"
+      ],
       "image": null
     },
     {
@@ -422,7 +766,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ocean",
+        "Trident",
+        "Atlantis",
+        "Sea Creatures"
+      ],
       "image": null
     },
     {
@@ -431,7 +780,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Power Ring",
+        "Willpower",
+        "Green Light",
+        "Space Corps"
+      ],
       "image": null
     },
     {
@@ -440,7 +794,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Indian Hero",
+        "Gangadhar",
+        "Flying",
+        "Superpowers"
+      ],
       "image": null
     },
     {
@@ -449,7 +808,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mask",
+        "India",
+        "Superhuman",
+        "Rohit"
+      ],
       "image": null
     },
     {
@@ -458,7 +822,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Red Suit",
+        "Humor",
+        "Healing",
+        "Fourth Wall"
+      ],
       "image": null
     },
     {
@@ -467,7 +836,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Blind",
+        "Red Suit",
+        "Hearing",
+        "Lawyer"
+      ],
       "image": null
     },
     {
@@ -476,7 +850,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Bow",
+        "Arrows",
+        "Aim",
+        "Avengers"
+      ],
       "image": null
     },
     {
@@ -485,7 +864,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Android",
+        "Mind Stone",
+        "Forehead",
+        "Wanda"
+      ],
       "image": null
     },
     {
@@ -494,7 +878,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "superheroes",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Tree",
+        "Branches",
+        "Rocket",
+        "Guardians"
+      ],
       "image": null
     },
     {
@@ -503,7 +892,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Lion",
+        "Mane",
+        "Simba",
+        "Pride Lands"
+      ],
       "image": null
     },
     {
@@ -512,7 +906,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Sea Witch",
+        "Octopus",
+        "Ariel",
+        "Shell Necklace"
+      ],
       "image": null
     },
     {
@@ -521,7 +920,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Pirate",
+        "Neverland",
+        "Lost Boys",
+        "Crocodile"
+      ],
       "image": null
     },
     {
@@ -530,7 +934,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Glider",
+        "Pumpkin Bombs",
+        "Norman Osborn",
+        "Spider-Man"
+      ],
       "image": null
     },
     {
@@ -539,7 +948,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mechanical Arms",
+        "Scientist",
+        "Tentacles",
+        "Spider-Man"
+      ],
       "image": null
     },
     {
@@ -548,7 +962,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Magnetism",
+        "Metal",
+        "Mutant",
+        "X-Men"
+      ],
       "image": null
     },
     {
@@ -557,7 +976,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Robot",
+        "Artificial Intelligence",
+        "Metal Body",
+        "Avengers"
+      ],
       "image": null
     },
     {
@@ -566,7 +990,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Goddess",
+        "Asgard",
+        "Green Magic",
+        "Hel"
+      ],
       "image": null
     },
     {
@@ -575,7 +1004,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Dark Lord",
+        "Mordor",
+        "Eye",
+        "One Ring"
+      ],
       "image": null
     },
     {
@@ -584,7 +1018,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Precious",
+        "Cave",
+        "Hobbit",
+        "Two Personalities"
+      ],
       "image": null
     },
     {
@@ -593,7 +1032,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Red Face",
+        "Horns",
+        "Double Lightsaber",
+        "Sith"
+      ],
       "image": null
     },
     {
@@ -602,7 +1046,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Decepticons",
+        "Robot",
+        "Optimus Prime",
+        "Transformation"
+      ],
       "image": null
     },
     {
@@ -611,7 +1060,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Turtle",
+        "Fire Breath",
+        "Koopa",
+        "Princess Peach"
+      ],
       "image": null
     },
     {
@@ -620,7 +1074,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Duloc",
+        "Short",
+        "Castle",
+        "Shrek"
+      ],
       "image": null
     },
     {
@@ -629,7 +1088,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Aladdin",
+        "Sorcerer",
+        "Snake Staff",
+        "Genie"
+      ],
       "image": null
     },
     {
@@ -638,7 +1102,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "villains-characters",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Underworld",
+        "Greek Mythology",
+        "Blue Flames",
+        "Hercules"
+      ],
       "image": null
     },
     {
@@ -647,7 +1116,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Po",
+        "Pandas",
+        "Martial Arts",
+        "Dumplings"
+      ],
       "image": null
     },
     {
@@ -656,7 +1130,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Toothless",
+        "Vikings",
+        "Hiccup",
+        "Flying"
+      ],
       "image": null
     },
     {
@@ -665,7 +1144,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Jack Sparrow",
+        "Ships",
+        "Treasure",
+        "Black Pearl"
+      ],
       "image": null
     },
     {
@@ -674,7 +1158,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Secret Agent",
+        "Ethan Hunt",
+        "Stunts",
+        "Espionage"
+      ],
       "image": null
     },
     {
@@ -683,7 +1172,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Street Racing",
+        "Cars",
+        "Family",
+        "Chases"
+      ],
       "image": null
     },
     {
@@ -692,7 +1186,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Autobots",
+        "Decepticons",
+        "Robots",
+        "Vehicles"
+      ],
       "image": null
     },
     {
@@ -701,7 +1200,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Frodo",
+        "Gandalf",
+        "Middle-earth",
+        "One Ring"
+      ],
       "image": null
     },
     {
@@ -710,7 +1214,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Katniss",
+        "Districts",
+        "Arena",
+        "Mockingjay"
+      ],
       "image": null
     },
     {
@@ -719,7 +1228,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Simulation",
+        "Red Pill",
+        "Neo",
+        "Virtual World"
+      ],
       "image": null
     },
     {
@@ -728,7 +1242,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Time Travel",
+        "DeLorean",
+        "Marty McFly",
+        "1985"
+      ],
       "image": null
     },
     {
@@ -737,7 +1256,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Wrestling",
+        "Father",
+        "Daughters",
+        "Competition"
+      ],
       "image": null
     },
     {
@@ -746,7 +1270,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "College",
+        "Engineering",
+        "Friendship",
+        "Exams"
+      ],
       "image": null
     },
     {
@@ -755,7 +1284,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Cricket",
+        "Village",
+        "British Rule",
+        "Tax"
+      ],
       "image": null
     },
     {
@@ -764,7 +1298,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mahishmati",
+        "Kingdom",
+        "Warrior",
+        "Waterfall"
+      ],
       "image": null
     },
     {
@@ -773,7 +1312,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Friendship",
+        "Freedom Fighters",
+        "Motorcycle",
+        "Dance"
+      ],
       "image": null
     },
     {
@@ -782,7 +1326,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "movies-franchises",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Motorbikes",
+        "Robbery",
+        "Police",
+        "Chase"
+      ],
       "image": null
     },
     {
@@ -791,7 +1340,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Hobbiton",
+        "Rivendell",
+        "Mordor",
+        "Fantasy Map"
+      ],
       "image": null
     },
     {
@@ -800,7 +1354,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Superman",
+        "Daily Planet",
+        "Skyscrapers",
+        "City"
+      ],
       "image": null
     },
     {
@@ -809,7 +1368,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Avatar",
+        "Blue People",
+        "Floating Mountains",
+        "Bioluminescence"
+      ],
       "image": null
     },
     {
@@ -818,7 +1382,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Stranger Things",
+        "Dark World",
+        "Demogorgon",
+        "Hawkins"
+      ],
       "image": null
     },
     {
@@ -827,7 +1396,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mario",
+        "Princess Peach",
+        "Toad",
+        "Power-Ups"
+      ],
       "image": null
     },
     {
@@ -836,7 +1410,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Lost City",
+        "Underwater",
+        "Ocean",
+        "Ancient Civilization"
+      ],
       "image": null
     },
     {
@@ -845,7 +1424,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Thor",
+        "Odin",
+        "Rainbow Bridge",
+        "Norse Gods"
+      ],
       "image": null
     },
     {
@@ -854,7 +1438,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Greek Gods",
+        "Zeus",
+        "Mountains",
+        "Mythology"
+      ],
       "image": null
     },
     {
@@ -863,7 +1452,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Hobbits",
+        "Green Hills",
+        "Hobbit Holes",
+        "Frodo"
+      ],
       "image": null
     },
     {
@@ -872,7 +1466,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Wizards",
+        "Shops",
+        "Magic Supplies",
+        "London"
+      ],
       "image": null
     },
     {
@@ -881,7 +1480,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Space Station",
+        "Empire",
+        "Laser",
+        "Galactic Weapon"
+      ],
       "image": null
     },
     {
@@ -890,7 +1494,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Desert Planet",
+        "Luke Skywalker",
+        "Twin Suns",
+        "Droids"
+      ],
       "image": null
     },
     {
@@ -899,7 +1508,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "fictional-worlds",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Prison",
+        "Dementors",
+        "Wizards",
+        "Harry Potter"
+      ],
       "image": null
     },
     {
@@ -908,7 +1522,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Mystery Van",
+        "Shaggy",
+        "Talking Dog",
+        "Ghost Hunting"
+      ],
       "image": null
     },
     {
@@ -917,7 +1536,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Pikachu",
+        "Ash",
+        "Pokeball",
+        "Creature Battles"
+      ],
       "image": null
     },
     {
@@ -926,7 +1550,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Goku",
+        "Saiyan",
+        "Energy Blast",
+        "Seven Orbs"
+      ],
       "image": null
     },
     {
@@ -935,7 +1564,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Ninja",
+        "Konoha",
+        "Sasuke",
+        "Hokage"
+      ],
       "image": null
     },
     {
@@ -944,7 +1578,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Pirates",
+        "Luffy",
+        "Grand Line",
+        "Straw Hat"
+      ],
       "image": null
     },
     {
@@ -953,7 +1592,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Krabby Patty",
+        "Patrick",
+        "Bikini Bottom",
+        "Underwater City"
+      ],
       "image": null
     },
     {
@@ -962,7 +1606,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Furfuri Nagar",
+        "Samosa",
+        "John",
+        "Best Friends"
+      ],
       "image": null
     },
     {
@@ -971,7 +1620,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Sailor Shirt",
+        "Quack",
+        "Daisy",
+        "Uncle Scrooge"
+      ],
       "image": null
     },
     {
@@ -980,7 +1634,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Carrot",
+        "Rabbit",
+        "What's Up Doc",
+        "Looney Tunes"
+      ],
       "image": null
     },
     {
@@ -989,7 +1648,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Spinach",
+        "Sailor",
+        "Olive Oyl",
+        "Strong Arms"
+      ],
       "image": null
     },
     {
@@ -998,7 +1662,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Omnitrix",
+        "Aliens",
+        "Wristwatch",
+        "Gwen"
+      ],
       "image": null
     },
     {
@@ -1007,7 +1676,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Blue Cat",
+        "Joey",
+        "Dee Dee",
+        "Marky"
+      ],
       "image": null
     },
     {
@@ -1016,7 +1690,12 @@
       "categoryId": "movies-fiction",
       "subcategoryId": "famous-tv-animation",
       "language": "en",
-      "relatedWords": [],
+      "relatedWords": [
+        "Aang",
+        "Four Elements",
+        "Appa",
+        "Bending"
+      ],
       "image": null
     }
   ]

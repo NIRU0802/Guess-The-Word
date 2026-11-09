@@ -2799,7 +2799,9 @@ button:disabled {
   }
 }
 
-/* Simple hold-to-reveal and eye toggle */
+/* =========================================
+   SIMPLE HOLD-TO-REVEAL AND EYE TOGGLE
+========================================= */
 
 .forge-word-reveal-wrap {
   position: relative;
@@ -2930,5 +2932,250 @@ button:disabled {
     min-height: 28px;
     padding: 5px 9px;
     font-size: 11px;
+  }
+}
+
+/* =========================================
+   28. HOME — WORD LIBRARY
+========================================= */
+
+.library-highlights {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  width: fit-content;
+  max-width: 100%;
+  margin: 34px auto 0;
+  padding: 20px 24px;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.025);
+}
+
+.library-highlight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.library-highlight strong {
+  color: #fff;
+  font-size: 27px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.library-highlight span {
+  color: rgba(255, 255, 255, 0.48);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  white-space: nowrap;
+}
+
+.library-highlight-divider {
+  width: 1px;
+  height: 36px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.library-section {
+  margin-top: 75px;
+}
+
+.library-category-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.library-category {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  padding: 13px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 13px;
+  background: rgba(255, 255, 255, 0.025);
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 13px;
+  font-weight: 600;
+  transition:
+    border-color 180ms ease,
+    background 180ms ease,
+    transform 180ms ease;
+}
+
+.library-category:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.055);
+}
+
+.library-category .category-icon {
+  flex-shrink: 0;
+}
+
+@media (max-width: 640px) {
+  .library-highlights {
+    width: 100%;
+    gap: 13px;
+    padding: 16px 10px;
+  }
+
+  .library-highlight strong {
+    font-size: 22px;
+  }
+
+  .library-highlight span {
+    font-size: 8px;
+    letter-spacing: 0.6px;
+  }
+
+  .library-section {
+    margin-top: 52px;
+  }
+
+  .library-category-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 9px;
+  }
+
+  .library-category {
+    gap: 8px;
+    padding: 10px;
+    font-size: 11px;
+  }
+}
+
+
+/* =========================================
+   GAME SCREEN — TIMER CATEGORY LAYOUT
+========================================= */
+
+.forge-timer-stage {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 12px;
+  margin: 12px auto 22px;
+}
+
+.forge-timer-categories {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+}
+
+.forge-timer-categories .forge-category-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  max-width: 620px;
+}
+
+.forge-timer-categories-bottom {
+  min-height: 16px;
+}
+
+.forge-timer-stage-caption {
+  color: rgba(255, 255, 255, 0.32);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+
+.forge-card-heading-updated {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+}
+
+.forge-secret-heading {
+  min-width: 0;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  white-space: nowrap;
+}
+
+.forge-card-heading-updated .forge-word-progress {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  color: rgba(255, 255, 255, 0.48);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.forge-card-heading-updated .forge-word-progress > span:first-child {
+  color: #fff;
+}
+
+.forge-card-heading-updated .forge-progress-divider {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.forge-card-heading-updated .forge-private-label {
+  justify-self: end;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .forge-timer-stage {
+    gap: 10px;
+    margin: 8px auto 16px;
+  }
+
+  .forge-timer-categories .forge-category-list {
+    gap: 6px;
+  }
+
+  .forge-card-heading-updated {
+    gap: 7px;
+  }
+
+  .forge-secret-heading {
+    font-size: 9px;
+    letter-spacing: 0.9px;
+  }
+
+  .forge-card-heading-updated .forge-word-progress {
+    gap: 3px;
+    font-size: 9px;
+  }
+}
+
+@media (max-width: 360px) {
+  .forge-card-heading-updated {
+    gap: 5px;
+  }
+
+  .forge-secret-heading {
+    font-size: 8px;
+    letter-spacing: 0.5px;
+  }
+
+  .forge-card-heading-updated .forge-word-progress {
+    font-size: 8px;
   }
 }
